@@ -1,0 +1,21 @@
+<svg width="420" height="160" viewBox="0 0 420 160" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Градиент -->
+  <defs>
+    <linearGradient id="cupGradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#b2eaff"/>
+      <stop offset="100%" stop-color="#7baaf7"/>
+    </linearGradient>
+    <radialGradient id="circleGradient" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#8ec6ff"/>
+      <stop offset="100%" stop-color="#4c8ae8"/>
+    </radialGradient>
+  </defs>
+  <!-- Стакан -->
+  <path d="M80 30 Q90 20 180 20 Q270 20 280 30 Q300 35 300 50 L285 140 Q280 150 180 150 Q80 150 75 140 L60 50 Q60 35 80 30 Z" fill="url(#cupGradient)"/>
+  <!-- Крышка -->
+  <rect x="80" y="10" width="200" height="40" rx="20" fill="url(#cupGradient)"/>
+  <!-- Круг -->
+  <circle cx="180" cy="90" r="35" fill="url(#circleGradient)"/>
+  <!-- Надпись -->
+  <text x="320" y="105" font-family="Arial, Helvetica, sans-serif" font-size="40" fill="#7baaf7" font-weight="bold" letter-spacing="2">Apsny Pack</text>
+</svg>

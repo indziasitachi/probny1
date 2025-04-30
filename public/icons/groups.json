@@ -1,0 +1,217 @@
+{
+  "055880d1-9d0b-11ef-0a80-0dbe0012ab38": {
+    "name": "Столовые приборы",
+    "slug": "055880d1-9d0b-11ef-0a80-0dbe0012ab38",
+    "icon": "/icons/uploaded/1745534519910-9B640920-AEED-49B5-9964-0590A9754AAD.jpeg"
+  },
+  "07be8996-fb75-11ef-0a80-075b001249fe": {
+    "name": "Пластиковая посуда и аксессуары",
+    "slug": "07be8996-fb75-11ef-0a80-075b001249fe",
+    "icon": "/icons/uploaded/1745534607057-4696171D-9586-455E-B210-7FE73AEFBC63.jpeg"
+  },
+  "0afea635-fc53-11ef-0a80-142b001a76a3": {
+    "name": "Пакеты майка",
+    "slug": "0afea635-fc53-11ef-0a80-142b001a76a3",
+    "icon": "/icons/uploaded/1745534651023-C559A670-FF8B-47EB-A108-1DF7C4D0BF38.jpeg"
+  },
+  "0d98e7c9-fc4d-11ef-0a80-13ce001a6841": {
+    "name": "Оберточная бумага, бумажные уголки",
+    "slug": "0d98e7c9-fc4d-11ef-0a80-13ce001a6841",
+    "icon": "/icons/uploaded/1745534694600-9827782F-C956-41E7-96DE-EC0F6B9B462C.jpeg"
+  },
+  "0e4fc0fd-fc4e-11ef-0a80-01b1001a2583": {
+    "name": "Пакеты с V-образным дном",
+    "slug": "0e4fc0fd-fc4e-11ef-0a80-01b1001a2583",
+    "icon": "/icons/uploaded/1745534724696-AD904FF8-B5AF-4A1C-9323-5742F646B0FC.jpeg"
+  },
+  "1dcd84a5-fb77-11ef-0a80-0b9c00121d72": {
+    "name": "Пластиковые бутылки и Банки",
+    "slug": "1dcd84a5-fb77-11ef-0a80-0b9c00121d72",
+    "icon": "/icons/uploaded/1745534752131-8C41C242-3903-4C0C-BEDE-14439CA7BA4C.jpeg"
+  },
+  "36040507-1212-11f0-0a80-08fb0018b7fc": {
+    "name": "Инвентарь для бариста",
+    "slug": "36040507-1212-11f0-0a80-08fb0018b7fc",
+    "icon": "/icons/uploaded/1745534860888-16A63BE6-13EF-4C23-8529-0EF798AE80FE.jpeg"
+  },
+  "362031b7-fc53-11ef-0a80-05f4001b3020": {
+    "name": "Мусорные пакеты",
+    "slug": "362031b7-fc53-11ef-0a80-05f4001b3020",
+    "icon": "/icons/uploaded/1745534882379-FD78E24B-6A02-4015-A140-E78A2F4727A0.jpeg"
+  },
+  "374e6467-f154-11ef-0a80-05e4001b3ef9": {
+    "name": "Бумажно-гигиеническая продукция",
+    "slug": "374e6467-f154-11ef-0a80-05e4001b3ef9",
+    "icon": "/icons/uploaded/1745534934179-BD9C299F-6B5D-42E2-BA22-366A8C14D5E1.jpeg"
+  },
+  "4400d815-fb76-11ef-0a80-1ab300127e9d": {
+    "name": "Тарелки",
+    "slug": "4400d815-fb76-11ef-0a80-1ab300127e9d",
+    "icon": "/icons/uploaded/1745534960447-5F875300-7178-45A0-BC79-C0A0E4DD0D8B.jpeg"
+  },
+  "4de75f1e-9d40-11ef-0a80-1508000118ec": {
+    "name": "Пакеты",
+    "slug": "4de75f1e-9d40-11ef-0a80-1508000118ec",
+    "icon": "/icons/uploaded/1745535034620-46C2C44F-3FD6-4B17-9C4C-0D55091B0C5E.jpeg"
+  },
+  "580bedaf-fc53-11ef-0a80-0e3d001a3409": {
+    "name": "Фасовочные пакеты",
+    "slug": "580bedaf-fc53-11ef-0a80-0e3d001a3409",
+    "icon": "/icons/uploaded/1745535052185-8F274F5D-F40C-4B73-9CD4-E6901C168496.jpeg"
+  },
+  "595a5138-f153-11ef-0a80-0181001b86ac": {
+    "name": "Средства индивидуальной защиты",
+    "slug": "595a5138-f153-11ef-0a80-0181001b86ac",
+    "icon": "/icons/uploaded/1745535108456-5B49E3BF-C05B-4CAA-9AF7-F3D6E9ED1CC1.jpeg"
+  },
+  "5c6b296a-f154-11ef-0a80-1643001b72ee": {
+    "name": "Бумажные полотенца",
+    "slug": "5c6b296a-f154-11ef-0a80-1643001b72ee",
+    "icon": "/icons/uploaded/1745535129170-23903B33-0567-460C-AC99-A6D8C5B3FD84.jpeg"
+  },
+  "6905abd5-1160-11f0-0a80-1108001094b4": {
+    "name": "Однослойные бумажные стаканы",
+    "slug": "6905abd5-1160-11f0-0a80-1108001094b4",
+    "icon": "/icons/uploaded/1745535166462-094F6B7F-AF5D-4ABF-B82B-BF9915123648.jpeg"
+  },
+  "766c7123-a8db-11ef-0a80-0e3300136ed3": {
+    "name": "Круглые контейнеры",
+    "slug": "766c7123-a8db-11ef-0a80-0e3300136ed3",
+    "icon": "/icons/uploaded/1745535187620-5716DC11-5169-4E78-BD7B-C32C03F77A8D.jpeg"
+  },
+  "7dbeea12-fc52-11ef-0a80-10550019c5b7": {
+    "name": "Расходные товары для магазинов",
+    "slug": "7dbeea12-fc52-11ef-0a80-10550019c5b7",
+    "icon": "/icons/uploaded/1745535208836-17D5543C-C92B-4ACD-A8E3-A0F1319B5195.jpeg"
+  },
+  "87acb5b8-fb79-11ef-0a80-05f400133809": {
+    "name": "Стананы Bubble Cup",
+    "slug": "87acb5b8-fb79-11ef-0a80-05f400133809",
+    "icon": "/icons/uploaded/1745535257446-D481FD51-D06A-4764-994F-FC1839C46838.jpeg"
+  },
+  "91247c36-9d10-11ef-0a80-079400134cf4": {
+    "name": "Контейнеры на вынос ECO",
+    "slug": "91247c36-9d10-11ef-0a80-079400134cf4",
+    "icon": "/icons/uploaded/1745535299262-D0C74D1C-A13B-450C-A9F6-83C75ACA7387.jpeg"
+  },
+  "92d4f76d-fc4b-11ef-0a80-0c11001a2ea6": {
+    "name": "Пакеты с ручками",
+    "slug": "92d4f76d-fc4b-11ef-0a80-0c11001a2ea6",
+    "icon": "/icons/uploaded/1745535325323-05D0E9BC-343E-4657-A43A-BD38C77E73EE.jpeg"
+  },
+  "a05f2cb9-f154-11ef-0a80-0f59001b3d7d": {
+    "name": "Бумажные салфетки",
+    "slug": "a05f2cb9-f154-11ef-0a80-0f59001b3d7d",
+    "icon": "/icons/uploaded/1745535353270-5920972F-5594-46FB-8F1F-F8C62A06455A.jpeg"
+  },
+  "a0a11673-a83e-11ef-0a80-140b00013536": {
+    "name": "Крышки для бумажных стаканов",
+    "slug": "a0a11673-a83e-11ef-0a80-140b00013536",
+    "icon": "/icons/uploaded/1745535386533-117C638F-BFBC-47CE-A232-8A29EF6817D8.jpeg"
+  },
+  "a17fefc0-fc4f-11ef-0a80-0b9c001a5b85": {
+    "name": "Лотки и Ланч-боксы ВПС",
+    "slug": "a17fefc0-fc4f-11ef-0a80-0b9c001a5b85",
+    "icon": "/icons/uploaded/1745535446918-24C962A0-A0A4-4B17-AC3F-CE02A806623A.jpeg"
+  },
+  "a4c57e69-dbe0-11ef-0a80-115c00216ab1": {
+    "name": "Пищевая пленка",
+    "slug": "a4c57e69-dbe0-11ef-0a80-115c00216ab1",
+    "icon": "/icons/uploaded/1745535472989-345A5EF8-1977-4180-B2F0-346C0CA0D680.jpeg"
+  },
+  "a6074b7c-a840-11ef-0a80-11b500019cf3": {
+    "name": "Подставки, капхолдеры",
+    "slug": "a6074b7c-a840-11ef-0a80-11b500019cf3",
+    "icon": "/icons/uploaded/1745535486041-3145A93C-1BB8-4E11-8DDD-1BBBB018D068.jpeg"
+  },
+  "aaa2fc23-fb82-11ef-0a80-168e0013ca77": {
+    "name": "Стаканы PET",
+    "slug": "aaa2fc23-fb82-11ef-0a80-168e0013ca77",
+    "icon": "/icons/uploaded/1745535509591-69D6A9C3-5382-46F1-AF7E-C06134A4B691.jpeg"
+  },
+  "ab7e3f93-fc47-11ef-0a80-0e3d0019fd30": {
+    "name": "Пищевая упаковка",
+    "slug": "ab7e3f93-fc47-11ef-0a80-0e3d0019fd30",
+    "icon": "/icons/uploaded/1745535547977-0D861251-73E7-4185-BA38-92C85268C394.jpeg"
+  },
+  "b099c30a-9d48-11ef-0a80-06b200013c98": {
+    "name": "Контейнеры пластиковые",
+    "slug": "b099c30a-9d48-11ef-0a80-06b200013c98",
+    "icon": "/icons/uploaded/1745535571128-97933924-50B6-45B1-BCCA-5DA0D86D2C1F.jpeg"
+  },
+  "b2670bee-fb78-11ef-0a80-1ab300129a2d": {
+    "name": "Пластиковые стаканы",
+    "slug": "b2670bee-fb78-11ef-0a80-1ab300129a2d",
+    "icon": "/icons/uploaded/1745535620465-8C41C242-3903-4C0C-BEDE-14439CA7BA4C.jpeg"
+  },
+  "bfe9567f-fc48-11ef-0a80-18ca001ab16a": {
+    "name": "Контейнеры для суши и роллов",
+    "slug": "bfe9567f-fc48-11ef-0a80-18ca001ab16a",
+    "icon": "/icons/uploaded/1745535658002-C4BC0C62-F3DE-4D43-9384-CF2F648CB02B.jpeg"
+  },
+  "c29f5422-1203-11f0-0a80-17480018786a": {
+    "name": "Органайзеры для Бара",
+    "slug": "c29f5422-1203-11f0-0a80-17480018786a",
+    "icon": "/icons/uploaded/1745535673321-C0F5C5E2-78C8-43DD-90F6-0C7185DEF10D.jpeg"
+  },
+  "c3fcbcbf-aa70-11ef-0a80-0e330029acf6": {
+    "name": "Барные аксессуары и товары для сервировки",
+    "slug": "c3fcbcbf-aa70-11ef-0a80-0e330029acf6",
+    "icon": "/icons/uploaded/1745535692840-0C91DA6A-412E-4D67-A5FF-E0B046394A9F.png"
+  },
+  "c696ba84-a83d-11ef-0a80-07b600013cab": {
+    "name": "Бумажные Стаканы и аксессуары",
+    "slug": "c696ba84-a83d-11ef-0a80-07b600013cab",
+    "icon": "/icons/uploaded/1745535717731-D61389D4-22C5-4966-932B-92515783877A.jpeg"
+  },
+  "c71b4cd3-9d0c-11ef-0a80-0dbe00131ace": {
+    "name": "Перчатки",
+    "slug": "c71b4cd3-9d0c-11ef-0a80-0dbe00131ace",
+    "icon": "/icons/uploaded/1745535745177-5B49E3BF-C05B-4CAA-9AF7-F3D6E9ED1CC1.jpeg"
+  },
+  "cf61e2b8-9d12-11ef-0a80-07940013b5b1": {
+    "name": "Упаковка для фаст-фуда и пиццы",
+    "slug": "cf61e2b8-9d12-11ef-0a80-07940013b5b1",
+    "icon": "/icons/uploaded/1745535781630-11086F16-F2B5-4213-8367-B101A96DDE2B.jpeg"
+  },
+  "d170cdb4-aa6f-11ef-0a80-09750028aa3f": {
+    "name": "Трубочки для коктейлей",
+    "slug": "d170cdb4-aa6f-11ef-0a80-09750028aa3f",
+    "icon": "/icons/uploaded/1745535808026-4A892798-2D41-4B8A-A93F-C1E47069CD73.jpeg"
+  },
+  "d1d26f26-1164-11f0-0a80-14640012470b": {
+    "name": "Трехслойные бумажные стаканы",
+    "slug": "d1d26f26-1164-11f0-0a80-14640012470b",
+    "icon": "/icons/uploaded/1745535834595-8CF8C0EF-BE47-4E38-96C6-1130BE7C5416.jpeg"
+  },
+  "d7e4ef8d-fc4a-11ef-0a80-03ca001ad4b9": {
+    "name": "Коробки для лапши WOK",
+    "slug": "d7e4ef8d-fc4a-11ef-0a80-03ca001ad4b9",
+    "icon": "/icons/uploaded/1745533933671-orig__2_.webp"
+  },
+  "df402d62-f153-11ef-0a80-05e4001b3e4e": {
+    "name": "Головные уборы",
+    "slug": "df402d62-f153-11ef-0a80-05e4001b3e4e",
+    "icon": "/icons/uploaded/1745535963432-DE6AE9BE-B4CF-4ACA-92E0-4C1E44BA0CBC.png"
+  },
+  "e2b27ded-fc4b-11ef-0a80-1ab3001ae46a": {
+    "name": "Пакеты с плоским дном",
+    "slug": "e2b27ded-fc4b-11ef-0a80-1ab3001ae46a",
+    "icon": "/icons/uploaded/1745535982003-F9E0FC05-F689-4D59-B2F2-801EB40E37F7.jpeg"
+  },
+  "eac65de8-9d3a-11ef-0a80-0c9d0000f0b8": {
+    "name": "Кондитерская упаковка",
+    "slug": "eac65de8-9d3a-11ef-0a80-0c9d0000f0b8",
+    "icon": "/icons/uploaded/1745536004316-F4DBEA1F-3F50-4CF3-B9C7-7F60019C3586.jpeg"
+  },
+  "ee94c557-9d04-11ef-0a80-0dbe00116cae": {
+    "name": "Бумага и фольга для выпечки",
+    "slug": "ee94c557-9d04-11ef-0a80-0dbe00116cae",
+    "icon": "/icons/uploaded/1745536031966-64114422-3B36-41AB-B866-7B2CE4BB29B9.jpeg"
+  },
+  "ef136d9f-1163-11f0-0a80-174800121d8d": {
+    "name": "Двухслойные бумажные стаканы",
+    "slug": "ef136d9f-1163-11f0-0a80-174800121d8d",
+    "icon": "/icons/uploaded/1745536054875-EAA629CF-32FC-4306-8629-D704BE958BC9.jpeg"
+  }
+}

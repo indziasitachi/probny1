@@ -1,0 +1,49 @@
+{
+  "logo": {
+    "text": "",
+    "color": "#931515",
+    "fontSize": 22,
+    "cupColor": "#178a81",
+    "straw": false
+  },
+  "banners": [
+    {
+      "image": "/banners/1745255550990-WhatsAppVideo2025-04-21at20.09.09.mp4",
+      "text": "",
+      "subtitle": ""
+    },
+    {
+      "image": "/icons/uploaded/1745536499457-8C2BB6B9-F41E-448B-9117-1CFA810523FF.jpeg",
+      "text": "",
+      "subtitle": "",
+      "url": ""
+    }
+  ],
+  "categories": [
+    {
+      "name": "Кофе",
+      "icon": "☕"
+    },
+    {
+      "name": "Выпечка",
+      "icon": "🥐"
+    },
+    {
+      "name": "Чай",
+      "icon": "🍵"
+    },
+    {
+      "name": "Десерты",
+      "icon": "🍰"
+    }
+  ],
+  "colors": {
+    "primary": "#178a81",
+    "background": "#222",
+    "accent": "#fff"
+  },
+  "texts": {
+    "welcome": "Привет Взго!",
+    "footer": "© 2025 Apsny Pack. Все права защищены."
+  }
+}
