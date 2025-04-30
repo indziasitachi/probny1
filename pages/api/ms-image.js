@@ -4,6 +4,8 @@ import fs from "fs";
 import path from "path";
 import crypto from "crypto";
 
+// deploy trigger: фиктивный комментарий для Vercel
+
 export default async function handler(req, res) {
   const ACCESS_TOKEN = process.env.MS_TOKEN;
   const { url } = req.query;
