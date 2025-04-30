@@ -3,10 +3,8 @@ import fs from "fs";
 import path from "path";
 import crypto from "crypto";
 
-// Используем Bearer Token для изображений
-const ACCESS_TOKEN = process.env.MS_TOKEN;
-
 export default async function handler(req, res) {
+  const ACCESS_TOKEN = process.env.MS_TOKEN;
   const { url } = req.query;
   if (!url) {
     return res.status(400).send("Missing url");
