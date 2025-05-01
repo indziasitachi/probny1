@@ -1010,7 +1010,9 @@
   {
     "id": "4918f5a4-9e73-11ef-0a80-0c9d001a0c7f",
     "name": "Крышка к контейнеру  Упакс-Юнити 108*82  (100шт/уп)",
-    "images": [],
+    "images": [
+      "https://api.moysklad.ru/api/remap/1.2/download/f7585509-7c61-4ac8-89d6-e3448971df20?miniature=true"
+    ],
     "price": 2.2,
     "productFolder": {
       "id": "b099c30a-9d48-11ef-0a80-06b200013c98"
@@ -1030,7 +1032,9 @@
   {
     "id": "4c508f68-9d43-11ef-0a80-176d0001207a",
     "name": "Пакет бумажный пищ. для СТОЛОВЫХ ПРИБОРОВ 220*70 крафт. 100шт/уп",
-    "images": [],
+    "images": [
+      "https://api.moysklad.ru/api/remap/1.2/download/1fc0a8ca-a0d8-4462-ab37-a6c9c379e68f?miniature=true"
+    ],
     "price": 1.1,
     "productFolder": {
       "id": "055880d1-9d0b-11ef-0a80-0dbe0012ab38"
@@ -1050,7 +1054,9 @@
   {
     "id": "4d4813d2-9d0e-11ef-0a80-17630012acfa",
     "name": "Нитриловые перч.Черные L",
-    "images": [],
+    "images": [
+      "https://api.moysklad.ru/api/remap/1.2/download/4d722bf4-eaab-4667-a8a0-c672542a1348?miniature=true"
+    ],
     "price": 575,
     "productFolder": {
       "id": "c71b4cd3-9d0c-11ef-0a80-0dbe00131ace"
@@ -1091,7 +1097,9 @@
   {
     "id": "4eb4b1a4-2334-11f0-0a80-0173001ed072",
     "name": "Пакет мусорный 120лит 10шт  2-х сл. 40мкм",
-    "images": [],
+    "images": [
+      "https://api.moysklad.ru/api/remap/1.2/download/6f70c986-4828-4b7e-b263-e6ad7964afae?miniature=true"
+    ],
     "price": 140,
     "productFolder": null
   },
@@ -1107,7 +1115,9 @@
   {
     "id": "50a586a9-9d0b-11ef-0a80-0dbe0012c7ea",
     "name": "Вилка ПРЕМИУМ прозрачная 50штуп",
-    "images": [],
+    "images": [
+      "https://api.moysklad.ru/api/remap/1.2/download/e8def090-760a-4ab8-bbdb-18525aa5d952?miniature=true"
+    ],
     "price": 140,
     "productFolder": {
       "id": "055880d1-9d0b-11ef-0a80-0dbe0012ab38"
@@ -1116,9 +1126,7 @@
   {
     "id": "50f18917-9d3e-11ef-0a80-08db00012bb4",
     "name": "Тарталетка OV7 овал 34х136х26 белая 1000шт",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/58f9105f-1dd3-4d46-8056-d08115c47fb4?miniature=true"
-    ],
+    "images": [],
     "price": 1700,
     "productFolder": {
       "id": "eac65de8-9d3a-11ef-0a80-0c9d0000f0b8"
@@ -1127,7 +1135,9 @@
   {
     "id": "51eefc3c-fb86-11ef-0a80-05f40013b2e6",
     "name": "Стакан 100мл прозрачный (100шт/уп)❗️ОЖИДАЕТСЯ",
-    "images": [],
+    "images": [
+      "https://api.moysklad.ru/api/remap/1.2/download/6d27e2e3-5294-48f3-bab0-70e42a73d31d?miniature=true"
+    ],
     "price": 90,
     "productFolder": {
       "id": "b2670bee-fb78-11ef-0a80-1ab300129a2d"
@@ -1136,7 +1146,9 @@
   {
     "id": "53530f71-a67e-11ef-0a80-14020014a1da",
     "name": "Салфетки 24х24 1 сл. 400л красные",
-    "images": [],
+    "images": [
+      "https://api.moysklad.ru/api/remap/1.2/download/0996ec55-1d54-4231-9fed-6bc8a62bb304?miniature=true"
+    ],
     "price": 240,
     "productFolder": {
       "id": "a05f2cb9-f154-11ef-0a80-0f59001b3d7d"
@@ -1156,7 +1168,9 @@
   {
     "id": "55b43552-1213-11f0-0a80-11080018faad",
     "name": "Молочник (питчер) Черный 600 мл",
-    "images": [],
+    "images": [
+      "https://api.moysklad.ru/api/remap/1.2/download/e5cc737c-d7bc-49a6-8f8b-cda18fb096e0?miniature=true"
+    ],
     "price": 1450,
     "productFolder": {
       "id": "36040507-1212-11f0-0a80-08fb0018b7fc"
@@ -1187,7 +1201,9 @@
   {
     "id": "584c7c79-a661-11ef-0a80-096c000d2bb1",
     "name": "Бум.стакан 0,250л Желтый 50шт/уп",
-    "images": [],
+    "images": [
+      "https://api.moysklad.ru/api/remap/1.2/download/9e80ff61-f081-4335-8193-a04bfe37fae5?miniature=true"
+    ],
     "price": 4,
     "productFolder": {
       "id": "6905abd5-1160-11f0-0a80-1108001094b4"
@@ -1216,9 +1232,7 @@
   {
     "id": "5a0d47ac-9d11-11ef-0a80-01620013b851",
     "name": "ДоЭко бум салатник с прозр крышкой OpSalad-500 50шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/1f29eb1f-97a7-432c-953f-6b2224381b86?miniature=true"
-    ],
+    "images": [],
     "price": 18.5,
     "productFolder": {
       "id": "91247c36-9d10-11ef-0a80-079400134cf4"
@@ -1238,9 +1252,7 @@
   {
     "id": "5a98cced-9cfe-11ef-0a80-0162000f5a5d",
     "name": "Бум.стакан 0,250л Красный 50шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/ced57745-a0bc-4204-9369-6d0d351ef1be?miniature=true"
-    ],
+    "images": [],
     "price": 4,
     "productFolder": {
       "id": "6905abd5-1160-11f0-0a80-1108001094b4"
@@ -1289,10 +1301,7 @@
   {
     "id": "5f9869bd-233b-11f0-0a80-0945001f28b9",
     "name": "ДоЭко бум салатник с прозр крышкой OpSalad-800",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/4fc91c26-967b-4c6e-ad84-e5c539d13bc7?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/8962c6ff-7158-447d-afa9-8230c1d9fb76?miniature=true"
-    ],
+    "images": [],
     "price": 24,
     "productFolder": {
       "id": "91247c36-9d10-11ef-0a80-079400134cf4"
@@ -1301,9 +1310,7 @@
   {
     "id": "6020da5e-9da7-11ef-0a80-118b00077023",
     "name": "Стакан прозрачный PET PULSAR-400мл  D-95  (50шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/f63bb5e2-aaa6-470f-8192-c517d2840199?miniature=true"
-    ],
+    "images": [],
     "price": 7.5,
     "productFolder": {
       "id": "aaa2fc23-fb82-11ef-0a80-168e0013ca77"
@@ -1380,10 +1387,7 @@
   {
     "id": "6620fb00-1170-11f0-0a80-174800132d9f",
     "name": "Стакан 400 мл бум.d=90 мм гофрированный красный Волна",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/56107cba-44e6-432b-9b9c-6178295c2016?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/8667acb4-efe3-43de-baad-d966fbf12ab9?miniature=true"
-    ],
+    "images": [],
     "price": 0,
     "productFolder": {
       "id": "d1d26f26-1164-11f0-0a80-14640012470b"
@@ -1392,10 +1396,7 @@
   {
     "id": "6721576d-116c-11f0-0a80-092100129b5e",
     "name": "Стакан 250 мл бум. d=80 мм гофрированный красный Волна",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/955e09bd-4364-4a93-81a1-80cce1188db9?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/ff05430a-588c-4efb-8676-27c4e05abf13?miniature=true"
-    ],
+    "images": [],
     "price": 0,
     "productFolder": {
       "id": "d1d26f26-1164-11f0-0a80-14640012470b"
@@ -1415,9 +1416,7 @@
   {
     "id": "6e7c26c8-9e74-11ef-0a80-0bb50018f2af",
     "name": "Контейнер круглый 0,53л черный, с крышкой 50шт/уп., 150шт/кор",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/72008e9e-8771-4e7a-95b1-c570f1330580?miniature=true"
-    ],
+    "images": [],
     "price": 28,
     "productFolder": {
       "id": "4400d815-fb76-11ef-0a80-1ab300127e9d"
