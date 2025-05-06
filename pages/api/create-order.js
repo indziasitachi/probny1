@@ -4,8 +4,12 @@ export default async function handler(req, res) {
     if (req.method !== 'POST') return res.status(405).end();
 
     const { name, phone, comment, cart } = req.body;
-    const MS_TOKEN = '534f3fef594f45bac9acd06ebaebf1940a1130c2';
+    const MS_TOKEN = process.env.MS_TOKEN_ORDER;
     const ORG_ID = '95eacaf5-9b71-11ef-0a80-106000ae1558';
+
+    if (!MS_TOKEN) {
+        return res.status(500).json({ error: 'MS_TOKEN_ORDER не задан в переменных окружения' });
+    }
 
     if (!name || !phone || !cart || !Array.isArray(cart) || cart.length === 0) {
         return res.status(400).json({ error: 'Некорректные данные' });
