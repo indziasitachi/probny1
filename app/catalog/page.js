@@ -102,14 +102,16 @@ export default function CatalogPage() {
                 style={{ aspectRatio: '1/1' }}
               >
                 <div className="flex-1 w-full h-full flex items-center justify-center">
-                  <img
-                    src={group.image || "/category-placeholder.svg"}
-                    alt={group.name}
-                    className="object-cover w-full h-full min-h-0 min-w-0"
-                    loading="lazy"
-                    style={{ width: '100%', height: '100%', objectFit: 'cover' }}
-                    onError={e => { e.target.onerror = null; e.target.src = '/category-placeholder.svg'; }}
-                  />
+                  {group.image && (
+                    <img
+                      src={group.image}
+                      alt={group.name}
+                      className="object-cover w-full h-full min-h-0 min-w-0"
+                      loading="lazy"
+                      style={{ width: '100%', height: '100%', objectFit: 'cover' }}
+                      onError={e => { e.target.style.display = 'none'; }}
+                    />
+                  )}
                 </div>
                 <span className="text-xs font-medium text-gray-900 text-center line-clamp-2 p-1 bg-white/80 w-full z-10" style={{ marginTop: '-1.5rem', position: 'relative' }}>{group.name}</span>
               </button>

@@ -8,9 +8,9 @@ export default function ProductsList({ products }) {
     return <div>Нет товаров</div>;
   }
   return (
-    <div className="grid grid-cols-3 md:grid-cols-4 gap-2 p-2">
+    <div className="grid grid-cols-2 md:grid-cols-4 gap-1 p-1">
       {products.map(product => (
-        <div key={product.id} className="max-w-[120px] w-full mx-auto">
+        <div key={product.id} className="block rounded-lg p-3 shadow hover:shadow-lg transition w-full">
           <ProductCard product={product} />
         </div>
       ))}

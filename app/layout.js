@@ -13,6 +13,9 @@ export const metadata = {
 export default function RootLayout({ children }) {
   return (
     <html lang="ru" className="dark">
+      <head>
+        <link rel="icon" href="/favicon.svg" type="image/svg+xml" />
+      </head>
       <body className="bg-gray-50 min-h-screen text-gray-900 dark:bg-gray-900 dark:text-gray-100 transition-colors">
         <FavoritesProvider>
           <CartProvider>

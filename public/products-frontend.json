@@ -1,0 +1,3034 @@
+[
+  {
+    "id": "055880d1-9d0b-11ef-0a80-0dbe0012ab38",
+    "name": "Столовые приборы",
+    "slug": "055880d1-9d0b-11ef-0a80-0dbe0012ab38",
+    "icon": "/icons/uploaded/1745534519910-9B640920-AEED-49B5-9964-0590A9754AAD.jpeg",
+    "products": [
+      {
+        "id": "0b470623-9d45-11ef-0a80-0c9d00015713",
+        "name": "Палочки для еды в индив. плен. упаковке 23см Патичерри (уп х 100шт)",
+        "price": 300,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/0b470623-9d45-11ef-0a80-0c9d00015713_1.png",
+          "https://apsnypack.s3.cloud.ru/products/0b470623-9d45-11ef-0a80-0c9d00015713_2.png",
+          "https://apsnypack.s3.cloud.ru/products/0b470623-9d45-11ef-0a80-0c9d00015713_3.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/0b470623-9d45-11ef-0a80-0c9d00015713_1.png"
+      },
+      {
+        "id": "1b126918-9d0c-11ef-0a80-079400127f07",
+        "name": "Нож \"ПРЕМИУМ\" 175мм черный 50шт/уп",
+        "price": 130,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/1b126918-9d0c-11ef-0a80-079400127f07_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/1b126918-9d0c-11ef-0a80-079400127f07_1.png"
+      },
+      {
+        "id": "3bb4175e-fcec-11ef-0a80-075b001f0465",
+        "name": "Ложка столовая пластиковая 16,5см белая  (100 шт.)",
+        "price": 145,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/3bb4175e-fcec-11ef-0a80-075b001f0465_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/3bb4175e-fcec-11ef-0a80-075b001f0465_1.png"
+      },
+      {
+        "id": "4c508f68-9d43-11ef-0a80-176d0001207a",
+        "name": "Пакет бумажный пищ. для СТОЛОВЫХ ПРИБОРОВ 220*70 крафт. 100шт/уп",
+        "price": 1.1,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/4c508f68-9d43-11ef-0a80-176d0001207a_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/4c508f68-9d43-11ef-0a80-176d0001207a_1.png"
+      },
+      {
+        "id": "50a586a9-9d0b-11ef-0a80-0dbe0012c7ea",
+        "name": "Вилка ПРЕМИУМ прозрачная 50штуп",
+        "price": 140,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/50a586a9-9d0b-11ef-0a80-0dbe0012c7ea_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/50a586a9-9d0b-11ef-0a80-0dbe0012c7ea_1.png"
+      },
+      {
+        "id": "7811c051-fcec-11ef-0a80-117a00204426",
+        "name": "Ложка чайная (ВЗЛП) 125мм",
+        "price": 80,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/7811c051-fcec-11ef-0a80-117a00204426_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/7811c051-fcec-11ef-0a80-117a00204426_1.png"
+      },
+      {
+        "id": "82ffb05c-9d0b-11ef-0a80-188600122c55",
+        "name": "Вилка \"ПРЕМИУМ\" чёрная 50шт/уп",
+        "price": 145,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/82ffb05c-9d0b-11ef-0a80-188600122c55_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/82ffb05c-9d0b-11ef-0a80-188600122c55_1.png"
+      },
+      {
+        "id": "b7c4f5a4-9d44-11ef-0a80-06b200012255",
+        "name": "Палочки для еды в индив. бум. упаковке 23см (уп х 100шт)",
+        "price": 300,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/b7c4f5a4-9d44-11ef-0a80-06b200012255_1.png",
+          "https://apsnypack.s3.cloud.ru/products/b7c4f5a4-9d44-11ef-0a80-06b200012255_2.png",
+          "https://apsnypack.s3.cloud.ru/products/b7c4f5a4-9d44-11ef-0a80-06b200012255_3.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/b7c4f5a4-9d44-11ef-0a80-06b200012255_1.png"
+      },
+      {
+        "id": "d06a06d1-9d0b-11ef-0a80-14e400124a5c",
+        "name": "Ложка стол \"ПРЕМИУМ\" черная 50шт/уп 175мм",
+        "price": 145,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/d06a06d1-9d0b-11ef-0a80-14e400124a5c_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/d06a06d1-9d0b-11ef-0a80-14e400124a5c_1.png"
+      },
+      {
+        "id": "dd200acd-fcec-11ef-0a80-117a00204d71",
+        "name": "Нож пластиковый 16,5см белый (100 шт.)",
+        "price": 150,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/dd200acd-fcec-11ef-0a80-117a00204d71_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/dd200acd-fcec-11ef-0a80-117a00204d71_1.png"
+      },
+      {
+        "id": "ece6c618-fce4-11ef-0a80-0e3d001e37ac",
+        "name": "Вилка пластиковая 16,5см, белая (100 шт/уп)",
+        "price": 125,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/ece6c618-fce4-11ef-0a80-0e3d001e37ac_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/ece6c618-fce4-11ef-0a80-0e3d001e37ac_1.png"
+      },
+      {
+        "id": "f0e9293b-9d0b-11ef-0a80-1763001241c3",
+        "name": "Ложка чайная ЧЕРНАЯ 125мм.  50шт/уп",
+        "price": 100,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/f0e9293b-9d0b-11ef-0a80-1763001241c3_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/f0e9293b-9d0b-11ef-0a80-1763001241c3_1.png"
+      }
+    ]
+  },
+  {
+    "id": "07be8996-fb75-11ef-0a80-075b001249fe",
+    "name": "Пластиковая посуда и аксессуары",
+    "slug": "07be8996-fb75-11ef-0a80-075b001249fe",
+    "icon": "/icons/uploaded/1745534607057-4696171D-9586-455E-B210-7FE73AEFBC63.jpeg",
+    "products": []
+  },
+  {
+    "id": "0afea635-fc53-11ef-0a80-142b001a76a3",
+    "name": "Пакеты майка",
+    "slug": "0afea635-fc53-11ef-0a80-142b001a76a3",
+    "icon": "/icons/uploaded/1745534651023-C559A670-FF8B-47EB-A108-1DF7C4D0BF38.jpeg",
+    "products": [
+      {
+        "id": "785cd87b-a845-11ef-0a80-0c1000017152",
+        "name": "Пакет майка 27х49 \"Мерседес\" 4,2 гр серый Премиум",
+        "price": 1.7,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/785cd87b-a845-11ef-0a80-0c1000017152_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/785cd87b-a845-11ef-0a80-0c1000017152_1.png"
+      },
+      {
+        "id": "794a2530-024d-11f0-0a80-040a001e3da6",
+        "name": "Пакет майка 27х49  4гр бирюза Премиум 100шт/уп",
+        "price": 150,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/794a2530-024d-11f0-0a80-040a001e3da6_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/794a2530-024d-11f0-0a80-040a001e3da6_1.png"
+      },
+      {
+        "id": "7eb0da7f-a65b-11ef-0a80-119e000b636d",
+        "name": "Пакет майка 24х44 2,5гр  100шт/уп",
+        "price": 115,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/7eb0da7f-a65b-11ef-0a80-119e000b636d_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/7eb0da7f-a65b-11ef-0a80-119e000b636d_1.png"
+      }
+    ]
+  },
+  {
+    "id": "0d98e7c9-fc4d-11ef-0a80-13ce001a6841",
+    "name": "Оберточная бумага, бумажные уголки",
+    "slug": "0d98e7c9-fc4d-11ef-0a80-13ce001a6841",
+    "icon": "/icons/uploaded/1745534694600-9827782F-C956-41E7-96DE-EC0F6B9B462C.jpeg",
+    "products": [
+      {
+        "id": "beb3a5fa-bb80-11ef-0a80-1154002ab545",
+        "name": "Пакет бумажный пищевой 155х170 уголок",
+        "price": 1.8,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/beb3a5fa-bb80-11ef-0a80-1154002ab545_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/beb3a5fa-bb80-11ef-0a80-1154002ab545_1.png"
+      },
+      {
+        "id": "ce49a94f-aa4d-11ef-0a80-163f0025bf2b",
+        "name": "Бумага оберточная \"Гамбургер\" 305х305 парафин /6уп х 500шт/",
+        "price": 1500,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/ce49a94f-aa4d-11ef-0a80-163f0025bf2b_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/ce49a94f-aa4d-11ef-0a80-163f0025bf2b_1.png"
+      },
+      {
+        "id": "e3da0f84-fd1c-11ef-0a80-1ab30022125a",
+        "name": "Обертка для гамбургера 305*305мм ВПМ + парафин \"Газета\" 1000шт/упак",
+        "price": 2500,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/e3da0f84-fd1c-11ef-0a80-1ab30022125a_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/e3da0f84-fd1c-11ef-0a80-1ab30022125a_1.png"
+      },
+      {
+        "id": "f87ba58e-fd1b-11ef-0a80-075b0021345a",
+        "name": "Оберточная бумага (упаковочная) в листах 300*300 мм крафт 1000 шт.",
+        "price": 1200,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/f87ba58e-fd1b-11ef-0a80-075b0021345a_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/f87ba58e-fd1b-11ef-0a80-075b0021345a_1.png"
+      },
+      {
+        "id": "fc88cf75-9d3c-11ef-0a80-0fd100011123",
+        "name": "Пакет бумажный пищ. Уголок 160х140 жиростойкий БУЛКИ 100шт",
+        "price": 1.9,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/fc88cf75-9d3c-11ef-0a80-0fd100011123_1.png",
+          "https://apsnypack.s3.cloud.ru/products/fc88cf75-9d3c-11ef-0a80-0fd100011123_2.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/fc88cf75-9d3c-11ef-0a80-0fd100011123_1.png"
+      }
+    ]
+  },
+  {
+    "id": "0e4fc0fd-fc4e-11ef-0a80-01b1001a2583",
+    "name": "Пакеты с V-образным дном",
+    "slug": "0e4fc0fd-fc4e-11ef-0a80-01b1001a2583",
+    "icon": "/icons/uploaded/1745534724696-AD904FF8-B5AF-4A1C-9323-5742F646B0FC.jpeg",
+    "products": [
+      {
+        "id": "38f62459-ab1c-11ef-0a80-1a7300370cf3",
+        "name": "Пакет бумажный пищевой 390х250х100 лаваш крафт",
+        "price": 3.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/38f62459-ab1c-11ef-0a80-1a7300370cf3_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/38f62459-ab1c-11ef-0a80-1a7300370cf3_1.png"
+      },
+      {
+        "id": "8fdbb581-9d3c-11ef-0a80-0dc400010382",
+        "name": "Пакет бумажный пищ. 220х90х40 БЕЛЫЙ",
+        "price": 1.4,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/8fdbb581-9d3c-11ef-0a80-0dc400010382_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/8fdbb581-9d3c-11ef-0a80-0dc400010382_1.png"
+      },
+      {
+        "id": "ab2a2faa-b08f-11ef-0a80-163f00bf82de",
+        "name": "Пакет бумажный пищ. 400х250х100 лаваш крафт бурый",
+        "price": 4,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/ab2a2faa-b08f-11ef-0a80-163f00bf82de_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/ab2a2faa-b08f-11ef-0a80-163f00bf82de_1.png"
+      },
+      {
+        "id": "aef8c120-9d3c-11ef-0a80-118b00012910",
+        "name": "Пакет бумажный пищ. 250х140х60 бурый",
+        "price": 1.4,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/aef8c120-9d3c-11ef-0a80-118b00012910_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/aef8c120-9d3c-11ef-0a80-118b00012910_1.png"
+      },
+      {
+        "id": "ce909fb1-9d3c-11ef-0a80-15080000f957",
+        "name": "Пакет бумажный пищ. 300х170х70 крафт бурый 40г",
+        "price": 2.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/ce909fb1-9d3c-11ef-0a80-15080000f957_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/ce909fb1-9d3c-11ef-0a80-15080000f957_1.png"
+      }
+    ]
+  },
+  {
+    "id": "1dcd84a5-fb77-11ef-0a80-0b9c00121d72",
+    "name": "Пластиковые бутылки и Банки",
+    "slug": "1dcd84a5-fb77-11ef-0a80-0b9c00121d72",
+    "icon": "/icons/uploaded/1745534752131-8C41C242-3903-4C0C-BEDE-14439CA7BA4C.jpeg",
+    "products": [
+      {
+        "id": "04bef23e-9dac-11ef-0a80-14e90008c9b8",
+        "name": "Соусница 30мл  с ВЕРХНИМ ЗАКРЫТИЕМ (80шт/уп)",
+        "price": 2.1,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/04bef23e-9dac-11ef-0a80-14e90008c9b8_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/04bef23e-9dac-11ef-0a80-14e90008c9b8_1.png"
+      },
+      {
+        "id": "26770be6-9e77-11ef-0a80-118b001a3a78",
+        "name": "Банка 1л прозрачное 123х120 Унипак + крышка",
+        "price": 25,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/26770be6-9e77-11ef-0a80-118b001a3a78_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/26770be6-9e77-11ef-0a80-118b001a3a78_1.png"
+      },
+      {
+        "id": "4242bb4b-9cfa-11ef-0a80-1886000e6c33",
+        "name": "Банка ПЭТ Детокс 0,250",
+        "price": 15.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/4242bb4b-9cfa-11ef-0a80-1886000e6c33_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/4242bb4b-9cfa-11ef-0a80-1886000e6c33_1.png"
+      },
+      {
+        "id": "464262e1-9dac-11ef-0a80-0e1200087616",
+        "name": "Соусница 50мл с ВЕРХНИМ ЗАКРЫТИЕМ (80шт/уп)",
+        "price": 3.3,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/464262e1-9dac-11ef-0a80-0e1200087616_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/464262e1-9dac-11ef-0a80-0e1200087616_1.png"
+      },
+      {
+        "id": "4d265392-2332-11f0-0a80-158b001e8ace",
+        "name": "Банка ПЭТ 0,500 \"Детокс\" + черная крышка",
+        "price": 20,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/4d265392-2332-11f0-0a80-158b001e8ace_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/4d265392-2332-11f0-0a80-158b001e8ace_1.png"
+      },
+      {
+        "id": "b2331c5a-b632-11ef-0a80-16a4003c2db1",
+        "name": "Ведерко прозрачное с крышкой 155 мл",
+        "price": 12,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/b2331c5a-b632-11ef-0a80-16a4003c2db1_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/b2331c5a-b632-11ef-0a80-16a4003c2db1_1.png"
+      },
+      {
+        "id": "b6725eda-ab28-11ef-0a80-0e33003c409a",
+        "name": "Банка ПЭТ 0,300 \"Детокс\" + черная крышка",
+        "price": 17,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/b6725eda-ab28-11ef-0a80-0e33003c409a_1.png",
+          "https://apsnypack.s3.cloud.ru/products/b6725eda-ab28-11ef-0a80-0e33003c409a_2.png",
+          "https://apsnypack.s3.cloud.ru/products/b6725eda-ab28-11ef-0a80-0e33003c409a_3.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/b6725eda-ab28-11ef-0a80-0e33003c409a_1.png"
+      },
+      {
+        "id": "b86a37f4-9e76-11ef-0a80-0bb500193841",
+        "name": "Банка-Универсал 550мл. d=69 прозрачная + Крышка",
+        "price": 18,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/b86a37f4-9e76-11ef-0a80-0bb500193841_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/b86a37f4-9e76-11ef-0a80-0bb500193841_1.png"
+      }
+    ]
+  },
+  {
+    "id": "36040507-1212-11f0-0a80-08fb0018b7fc",
+    "name": "Инвентарь для бариста",
+    "slug": "36040507-1212-11f0-0a80-08fb0018b7fc",
+    "icon": "/icons/uploaded/1745534860888-16A63BE6-13EF-4C23-8529-0EF798AE80FE.jpeg",
+    "products": [
+      {
+        "id": "11700222-12db-11f0-0a80-06fc0021884a",
+        "name": "Темпер для кофе 58 мм с деревянной ручкой",
+        "price": 1500,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/11700222-12db-11f0-0a80-06fc0021884a_1.png",
+          "https://apsnypack.s3.cloud.ru/products/11700222-12db-11f0-0a80-06fc0021884a_2.png",
+          "https://apsnypack.s3.cloud.ru/products/11700222-12db-11f0-0a80-06fc0021884a_3.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/11700222-12db-11f0-0a80-06fc0021884a_1.png"
+      },
+      {
+        "id": "1cc2b4e1-12dc-11f0-0a80-1657002127a2",
+        "name": "Коврик для темпинга угловой",
+        "price": 750,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/1cc2b4e1-12dc-11f0-0a80-1657002127a2_1.png",
+          "https://apsnypack.s3.cloud.ru/products/1cc2b4e1-12dc-11f0-0a80-1657002127a2_2.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/1cc2b4e1-12dc-11f0-0a80-1657002127a2_1.png"
+      },
+      {
+        "id": "55b43552-1213-11f0-0a80-11080018faad",
+        "name": "Молочник (питчер) Черный 600 мл",
+        "price": 1450,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/55b43552-1213-11f0-0a80-11080018faad_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/55b43552-1213-11f0-0a80-11080018faad_1.png"
+      },
+      {
+        "id": "81b10778-1212-11f0-0a80-0b40001916e0",
+        "name": "Молочник (питчер) 600мл",
+        "price": 1200,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/81b10778-1212-11f0-0a80-0b40001916e0_1.png",
+          "https://apsnypack.s3.cloud.ru/products/81b10778-1212-11f0-0a80-0b40001916e0_2.png",
+          "https://apsnypack.s3.cloud.ru/products/81b10778-1212-11f0-0a80-0b40001916e0_3.png",
+          "https://apsnypack.s3.cloud.ru/products/81b10778-1212-11f0-0a80-0b40001916e0_4.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/81b10778-1212-11f0-0a80-0b40001916e0_1.png"
+      },
+      {
+        "id": "ab0a2ddc-12db-11f0-0a80-0e8d0021004a",
+        "name": "Темпер для кофе 51мм  со стальной ручкой",
+        "price": 1300,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/ab0a2ddc-12db-11f0-0a80-0e8d0021004a_1.png",
+          "https://apsnypack.s3.cloud.ru/products/ab0a2ddc-12db-11f0-0a80-0e8d0021004a_2.png",
+          "https://apsnypack.s3.cloud.ru/products/ab0a2ddc-12db-11f0-0a80-0e8d0021004a_3.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/ab0a2ddc-12db-11f0-0a80-0e8d0021004a_1.png"
+      },
+      {
+        "id": "cfc4bf5d-1213-11f0-0a80-165700195df8",
+        "name": "Молочник (питчер)  350 мл.",
+        "price": 900,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/cfc4bf5d-1213-11f0-0a80-165700195df8_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/cfc4bf5d-1213-11f0-0a80-165700195df8_1.png"
+      },
+      {
+        "id": "e1203b11-12dc-11f0-0a80-0e8d0021106a",
+        "name": "Пуш темпер для кофе 51мм.",
+        "price": 2500,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/e1203b11-12dc-11f0-0a80-0e8d0021106a_1.png",
+          "https://apsnypack.s3.cloud.ru/products/e1203b11-12dc-11f0-0a80-0e8d0021106a_2.png",
+          "https://apsnypack.s3.cloud.ru/products/e1203b11-12dc-11f0-0a80-0e8d0021106a_3.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/e1203b11-12dc-11f0-0a80-0e8d0021106a_1.png"
+      }
+    ]
+  },
+  {
+    "id": "362031b7-fc53-11ef-0a80-05f4001b3020",
+    "name": "Мусорные пакеты",
+    "slug": "362031b7-fc53-11ef-0a80-05f4001b3020",
+    "icon": "/icons/uploaded/1745534882379-FD78E24B-6A02-4015-A140-E78A2F4727A0.jpeg",
+    "products": [
+      {
+        "id": "9b4b163e-dd4a-11ef-0a80-15f300172977",
+        "name": "Пакет для мусора 60л 8 мкм",
+        "price": 79,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/9b4b163e-dd4a-11ef-0a80-15f300172977_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/9b4b163e-dd4a-11ef-0a80-15f300172977_1.png"
+      },
+      {
+        "id": "bde2e3a6-aa4e-11ef-0a80-01f20024ef85",
+        "name": "Пакет для мусора 2х сл. 120л ПНД (10шт в рулоне) 25 мкм 68*105",
+        "price": 120,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/bde2e3a6-aa4e-11ef-0a80-01f20024ef85_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/bde2e3a6-aa4e-11ef-0a80-01f20024ef85_1.png"
+      },
+      {
+        "id": "d45152c5-a846-11ef-0a80-02cc000171a1",
+        "name": "Пакет для мусора 20л ПНД (20шт в рулоне) 6мкм 45х48",
+        "price": 25,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/d45152c5-a846-11ef-0a80-02cc000171a1_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/d45152c5-a846-11ef-0a80-02cc000171a1_1.png"
+      }
+    ]
+  },
+  {
+    "id": "374e6467-f154-11ef-0a80-05e4001b3ef9",
+    "name": "Бумажно-гигиеническая продукция",
+    "slug": "374e6467-f154-11ef-0a80-05e4001b3ef9",
+    "icon": "/icons/uploaded/1745534934179-BD9C299F-6B5D-42E2-BA22-366A8C14D5E1.jpeg",
+    "products": [
+      {
+        "id": "40040dcc-fd19-11ef-0a80-0d80002206b4",
+        "name": "Туалетная бумага \"Богатырь + 154\" 58м.",
+        "price": 27,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/40040dcc-fd19-11ef-0a80-0d80002206b4_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/40040dcc-fd19-11ef-0a80-0d80002206b4_1.png"
+      },
+      {
+        "id": "c926e702-fd19-11ef-0a80-1ab3002202ba",
+        "name": "Туалетная бумага 2-х сл. \"Plushe \"Classic белая 4 рул.",
+        "price": 115,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/c926e702-fd19-11ef-0a80-1ab3002202ba_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/c926e702-fd19-11ef-0a80-1ab3002202ba_1.png"
+      }
+    ]
+  },
+  {
+    "id": "4400d815-fb76-11ef-0a80-1ab300127e9d",
+    "name": "Тарелки",
+    "slug": "4400d815-fb76-11ef-0a80-1ab300127e9d",
+    "icon": "/icons/uploaded/1745534960447-5F875300-7178-45A0-BC79-C0A0E4DD0D8B.jpeg",
+    "products": [
+      {
+        "id": "0709ec20-9e78-11ef-0a80-1352001a2873",
+        "name": "Тарелка суповая 500мл прозрачная Интеко/Альт Пласт Прозрачная",
+        "price": 6.2,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/0709ec20-9e78-11ef-0a80-1352001a2873_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/0709ec20-9e78-11ef-0a80-1352001a2873_1.png"
+      },
+      {
+        "id": "5f3baefc-bb7e-11ef-0a80-17d30029790e",
+        "name": "Тарелка картонная PLATE 180мм WB белая/крафт OSQ",
+        "price": 4.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/5f3baefc-bb7e-11ef-0a80-17d30029790e_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/5f3baefc-bb7e-11ef-0a80-17d30029790e_1.png"
+      },
+      {
+        "id": "6180ccb9-9e78-11ef-0a80-079d001aa290",
+        "name": "Тарелка суповая 500мл Позитрон ПП Экстра",
+        "price": 4.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/6180ccb9-9e78-11ef-0a80-079d001aa290_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/6180ccb9-9e78-11ef-0a80-079d001aa290_1.png"
+      },
+      {
+        "id": "6e7c26c8-9e74-11ef-0a80-0bb50018f2af",
+        "name": "Контейнер круглый 0,53л черный, с крышкой 50шт/уп., 150шт/кор",
+        "price": 28,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/6e7c26c8-9e74-11ef-0a80-0bb50018f2af_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/6e7c26c8-9e74-11ef-0a80-0bb50018f2af_1.png"
+      },
+      {
+        "id": "73004213-9e7a-11ef-0a80-079d001ad65c",
+        "name": "Тарелка 205мм  Позитрон 100шт/уп",
+        "price": 3.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/73004213-9e7a-11ef-0a80-079d001ad65c_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/73004213-9e7a-11ef-0a80-079d001ad65c_1.png"
+      },
+      {
+        "id": "c23242ae-aab0-11ef-0a80-0e3500910884",
+        "name": "Тарелка картонная 180мм крафт",
+        "price": 4,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/c23242ae-aab0-11ef-0a80-0e3500910884_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/c23242ae-aab0-11ef-0a80-0e3500910884_1.png"
+      },
+      {
+        "id": "fdc834cb-ab1a-11ef-0a80-140b0037b938",
+        "name": "Тарелка картонная 230мм круглая крафт 100шт/уп",
+        "price": 5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/fdc834cb-ab1a-11ef-0a80-140b0037b938_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/fdc834cb-ab1a-11ef-0a80-140b0037b938_1.png"
+      }
+    ]
+  },
+  {
+    "id": "4de75f1e-9d40-11ef-0a80-1508000118ec",
+    "name": "Пакеты",
+    "slug": "4de75f1e-9d40-11ef-0a80-1508000118ec",
+    "icon": "/icons/uploaded/1745535034620-46C2C44F-3FD6-4B17-9C4C-0D55091B0C5E.jpeg",
+    "products": []
+  },
+  {
+    "id": "580bedaf-fc53-11ef-0a80-0e3d001a3409",
+    "name": "Фасовочные пакеты",
+    "slug": "580bedaf-fc53-11ef-0a80-0e3d001a3409",
+    "icon": "/icons/uploaded/1745535052185-8F274F5D-F40C-4B73-9CD4-E6901C168496.jpeg",
+    "products": [
+      {
+        "id": "5a4c4e5f-a65f-11ef-0a80-10b8000c1be4",
+        "name": "Пакет фасовочный ПНД 24х39 6мкм Календарик",
+        "price": 60,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/5a4c4e5f-a65f-11ef-0a80-10b8000c1be4_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/5a4c4e5f-a65f-11ef-0a80-10b8000c1be4_1.png"
+      },
+      {
+        "id": "7f943a0f-eb94-11ef-0a80-0d4b004154c6",
+        "name": "Пакет фасовочный 30х40 Шапов. Зеленая",
+        "price": 68,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/7f943a0f-eb94-11ef-0a80-0d4b004154c6_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/7f943a0f-eb94-11ef-0a80-0d4b004154c6_1.png"
+      },
+      {
+        "id": "e2209d66-d5d9-11ef-0a80-19c6001b1493",
+        "name": "Пакет фасовочный пласт 18х27 6,5мкм УП новые",
+        "price": 150,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/e2209d66-d5d9-11ef-0a80-19c6001b1493_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/e2209d66-d5d9-11ef-0a80-19c6001b1493_1.png"
+      }
+    ]
+  },
+  {
+    "id": "595a5138-f153-11ef-0a80-0181001b86ac",
+    "name": "Средства индивидуальной защиты",
+    "slug": "595a5138-f153-11ef-0a80-0181001b86ac",
+    "icon": "/icons/uploaded/1745535108456-5B49E3BF-C05B-4CAA-9AF7-F3D6E9ED1CC1.jpeg",
+    "products": []
+  },
+  {
+    "id": "5c6b296a-f154-11ef-0a80-1643001b72ee",
+    "name": "Бумажные полотенца",
+    "slug": "5c6b296a-f154-11ef-0a80-1643001b72ee",
+    "icon": "/icons/uploaded/1745535129170-23903B33-0567-460C-AC99-A6D8C5B3FD84.jpeg",
+    "products": [
+      {
+        "id": "0a4f2eab-9d47-11ef-0a80-14e9000156dc",
+        "name": "Полотенца бумажные 2сл  Plushe СПАСИБО 30м",
+        "price": 120,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/0a4f2eab-9d47-11ef-0a80-14e9000156dc_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/0a4f2eab-9d47-11ef-0a80-14e9000156dc_1.png"
+      },
+      {
+        "id": "1b1d54b3-2335-11f0-0a80-16d1001f63b7",
+        "name": "Полотенца бумажные Professional PLUSHE 2-х слойные, 130м.",
+        "price": 300,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/1b1d54b3-2335-11f0-0a80-16d1001f63b7_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/1b1d54b3-2335-11f0-0a80-16d1001f63b7_1.png"
+      },
+      {
+        "id": "2cea93e2-9d47-11ef-0a80-1508000160c8",
+        "name": "Полотенца бумажные 1сл. 100% целл. 160м",
+        "price": 350,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/2cea93e2-9d47-11ef-0a80-1508000160c8_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/2cea93e2-9d47-11ef-0a80-1508000160c8_1.png"
+      },
+      {
+        "id": "4f6a1e58-9d47-11ef-0a80-090a00017f44",
+        "name": "Полотенца бумажные V-сложение 1сл",
+        "price": 160,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/4f6a1e58-9d47-11ef-0a80-090a00017f44_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/4f6a1e58-9d47-11ef-0a80-090a00017f44_1.png"
+      }
+    ]
+  },
+  {
+    "id": "6905abd5-1160-11f0-0a80-1108001094b4",
+    "name": "Однослойные бумажные стаканы",
+    "slug": "6905abd5-1160-11f0-0a80-1108001094b4",
+    "icon": "/icons/uploaded/1745535166462-094F6B7F-AF5D-4ABF-B82B-BF9915123648.jpeg",
+    "products": [
+      {
+        "id": "02d04f3e-9cfd-11ef-0a80-0902000ee3c3",
+        "name": "Бум. стакан 0,165 Белый 50шт/уп",
+        "price": 3,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/02d04f3e-9cfd-11ef-0a80-0902000ee3c3_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/02d04f3e-9cfd-11ef-0a80-0902000ee3c3_1.png"
+      },
+      {
+        "id": "13565f4f-9d00-11ef-0a80-118000109354",
+        "name": "Бум.стакан 0,350л Розовый 50шт/уп",
+        "price": 5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/13565f4f-9d00-11ef-0a80-118000109354_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/13565f4f-9d00-11ef-0a80-118000109354_1.png"
+      },
+      {
+        "id": "183fbf82-fd17-11ef-0a80-0e3d0020d181",
+        "name": "Бум.стакан 0,350л Бирюзовый 50шт/уп",
+        "price": 0,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/183fbf82-fd17-11ef-0a80-0e3d0020d181_1.png",
+          "https://apsnypack.s3.cloud.ru/products/183fbf82-fd17-11ef-0a80-0e3d0020d181_2.png",
+          "https://apsnypack.s3.cloud.ru/products/183fbf82-fd17-11ef-0a80-0e3d0020d181_3.png",
+          "https://apsnypack.s3.cloud.ru/products/183fbf82-fd17-11ef-0a80-0e3d0020d181_4.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/183fbf82-fd17-11ef-0a80-0e3d0020d181_1.png"
+      },
+      {
+        "id": "253b1bcf-fcef-11ef-0a80-0d800020018a",
+        "name": "Бум.Стакан 0,250л 80мм Крафт (БЕЖ) Л-ПАК",
+        "price": 4,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/253b1bcf-fcef-11ef-0a80-0d800020018a_1.png",
+          "https://apsnypack.s3.cloud.ru/products/253b1bcf-fcef-11ef-0a80-0d800020018a_2.png",
+          "https://apsnypack.s3.cloud.ru/products/253b1bcf-fcef-11ef-0a80-0d800020018a_3.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/253b1bcf-fcef-11ef-0a80-0d800020018a_1.png"
+      },
+      {
+        "id": "269fd3f7-9d01-11ef-0a80-0dbe0010ac7b",
+        "name": "Бум.стакан 0,400л Белый 50шт/уп",
+        "price": 6.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/269fd3f7-9d01-11ef-0a80-0dbe0010ac7b_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/269fd3f7-9d01-11ef-0a80-0dbe0010ac7b_1.png"
+      },
+      {
+        "id": "376f7629-dbd9-11ef-0a80-14a20020a38e",
+        "name": "Бум.Стакан 0,250л 80мм под Крафт Л-ПАК",
+        "price": 4,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/376f7629-dbd9-11ef-0a80-14a20020a38e_1.png",
+          "https://apsnypack.s3.cloud.ru/products/376f7629-dbd9-11ef-0a80-14a20020a38e_2.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/376f7629-dbd9-11ef-0a80-14a20020a38e_1.png"
+      },
+      {
+        "id": "42827b28-9d01-11ef-0a80-06ad000f902d",
+        "name": "Бум.стакан 0,400л Красный 50шт/уп",
+        "price": 6.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/42827b28-9d01-11ef-0a80-06ad000f902d_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/42827b28-9d01-11ef-0a80-06ad000f902d_1.png"
+      },
+      {
+        "id": "5485e01d-9cfd-11ef-0a80-0c8b000f6888",
+        "name": "Бум. стакан  0,250л Черный 50шт/уп",
+        "price": 3.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/5485e01d-9cfd-11ef-0a80-0c8b000f6888_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/5485e01d-9cfd-11ef-0a80-0c8b000f6888_1.png"
+      },
+      {
+        "id": "584c7c79-a661-11ef-0a80-096c000d2bb1",
+        "name": "Бум.стакан 0,250л Желтый 50шт/уп",
+        "price": 4,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/584c7c79-a661-11ef-0a80-096c000d2bb1_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/584c7c79-a661-11ef-0a80-096c000d2bb1_1.png"
+      },
+      {
+        "id": "5a98cced-9cfe-11ef-0a80-0162000f5a5d",
+        "name": "Бум.стакан 0,250л Красный 50шт/уп",
+        "price": 4,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/5a98cced-9cfe-11ef-0a80-0162000f5a5d_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/5a98cced-9cfe-11ef-0a80-0162000f5a5d_1.png"
+      },
+      {
+        "id": "89393ab6-9cfc-11ef-0a80-1763000eeec9",
+        "name": "Бум. стакан 0,180 Крафт 50шт/уп",
+        "price": 3,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/89393ab6-9cfc-11ef-0a80-1763000eeec9_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/89393ab6-9cfc-11ef-0a80-1763000eeec9_1.png"
+      },
+      {
+        "id": "9f1b4121-fd16-11ef-0a80-18ca00212ee4",
+        "name": "Бум.стакан 0,250л Бирюзовый 50шт/уп",
+        "price": 4,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/9f1b4121-fd16-11ef-0a80-18ca00212ee4_1.png",
+          "https://apsnypack.s3.cloud.ru/products/9f1b4121-fd16-11ef-0a80-18ca00212ee4_2.png",
+          "https://apsnypack.s3.cloud.ru/products/9f1b4121-fd16-11ef-0a80-18ca00212ee4_3.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/9f1b4121-fd16-11ef-0a80-18ca00212ee4_1.png"
+      },
+      {
+        "id": "adc63281-a65d-11ef-0a80-01db000c0da5",
+        "name": "Бум. стакан  0,350л Новый год 50шт/уп",
+        "price": 5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/adc63281-a65d-11ef-0a80-01db000c0da5_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/adc63281-a65d-11ef-0a80-01db000c0da5_1.png"
+      },
+      {
+        "id": "bef3047e-9cff-11ef-0a80-1763000fbb3b",
+        "name": "Бум.стакан 0,350л Белый 50шт/уп",
+        "price": 5.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/bef3047e-9cff-11ef-0a80-1763000fbb3b_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/bef3047e-9cff-11ef-0a80-1763000fbb3b_1.png"
+      },
+      {
+        "id": "bf578e83-fd15-11ef-0a80-0c1100217611",
+        "name": "Бум. стакан  0,350л крафт Беж 50шт/уп",
+        "price": 0,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/bf578e83-fd15-11ef-0a80-0c1100217611_1.png",
+          "https://apsnypack.s3.cloud.ru/products/bf578e83-fd15-11ef-0a80-0c1100217611_2.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/bf578e83-fd15-11ef-0a80-0c1100217611_1.png"
+      },
+      {
+        "id": "d1a6764a-dbd9-11ef-0a80-08a8001fcae3",
+        "name": "Бум.Стакан 0,350л 90мм под Крафт Л-ПАК",
+        "price": 6,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/d1a6764a-dbd9-11ef-0a80-08a8001fcae3_1.png",
+          "https://apsnypack.s3.cloud.ru/products/d1a6764a-dbd9-11ef-0a80-08a8001fcae3_2.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/d1a6764a-dbd9-11ef-0a80-08a8001fcae3_1.png"
+      },
+      {
+        "id": "dadbb16f-9cff-11ef-0a80-0c8b001011d5",
+        "name": "Бум.стакан 0,350л Черный 50шт/уп",
+        "price": 5.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/dadbb16f-9cff-11ef-0a80-0c8b001011d5_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/dadbb16f-9cff-11ef-0a80-0c8b001011d5_1.png"
+      },
+      {
+        "id": "e1021bc8-9cfd-11ef-0a80-0162000f415a",
+        "name": "Бум.стакан 0,250л Белый 50шт/уп",
+        "price": 3.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/e1021bc8-9cfd-11ef-0a80-0162000f415a_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/e1021bc8-9cfd-11ef-0a80-0162000f415a_1.png"
+      },
+      {
+        "id": "e7ac700a-9d00-11ef-0a80-016200100570",
+        "name": "Бум.стакан 0,400л Черный 50шт/уп",
+        "price": 7.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/e7ac700a-9d00-11ef-0a80-016200100570_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/e7ac700a-9d00-11ef-0a80-016200100570_1.png"
+      },
+      {
+        "id": "e90fe625-2338-11f0-0a80-16d1001f99b3",
+        "name": "Бум. стакан 0,180 белый 50шт/уп",
+        "price": 3,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/e90fe625-2338-11f0-0a80-16d1001f99b3_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/e90fe625-2338-11f0-0a80-16d1001f99b3_1.png"
+      },
+      {
+        "id": "f0c7d9a2-024a-11f0-0a80-0c28001e020a",
+        "name": "Бум стакан  0,165л диам 70мм ГН Кофе (take away)",
+        "price": 3,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/f0c7d9a2-024a-11f0-0a80-0c28001e020a_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/f0c7d9a2-024a-11f0-0a80-0c28001e020a_1.png"
+      }
+    ]
+  },
+  {
+    "id": "766c7123-a8db-11ef-0a80-0e3300136ed3",
+    "name": "Круглые контейнеры",
+    "slug": "766c7123-a8db-11ef-0a80-0e3300136ed3",
+    "icon": "/icons/uploaded/1745535187620-5716DC11-5169-4E78-BD7B-C32C03F77A8D.jpeg",
+    "products": [
+      {
+        "id": "053f2d79-9d4a-11ef-0a80-08db00017f5b",
+        "name": "Емкость+Крышка  Раунд Бол 300 (250мл) 30шт/уп",
+        "price": 18.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/053f2d79-9d4a-11ef-0a80-08db00017f5b_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/053f2d79-9d4a-11ef-0a80-08db00017f5b_1.png"
+      },
+      {
+        "id": "0f6ea5a1-a8dc-11ef-0a80-0e330013826b",
+        "name": "Емкость круглая Round Bowl 1300 дно белое",
+        "price": 15.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/0f6ea5a1-a8dc-11ef-0a80-0e330013826b_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/0f6ea5a1-a8dc-11ef-0a80-0e330013826b_1.png"
+      },
+      {
+        "id": "84aa95f7-b08e-11ef-0a80-07b600c13bdd",
+        "name": "Круглый контейнер Round Bowl 750 + крышка",
+        "price": 27.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/84aa95f7-b08e-11ef-0a80-07b600c13bdd_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/84aa95f7-b08e-11ef-0a80-07b600c13bdd_1.png"
+      },
+      {
+        "id": "9ea67e6f-9dac-11ef-0a80-08db00085cb4",
+        "name": "Бум креманка Виридо 0,250 Белая 50 в уп.",
+        "price": 5.9,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/9ea67e6f-9dac-11ef-0a80-08db00085cb4_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/9ea67e6f-9dac-11ef-0a80-08db00085cb4_1.png"
+      }
+    ]
+  },
+  {
+    "id": "7dbeea12-fc52-11ef-0a80-10550019c5b7",
+    "name": "Расходные товары для магазинов",
+    "slug": "7dbeea12-fc52-11ef-0a80-10550019c5b7",
+    "icon": "/icons/uploaded/1745535208836-17D5543C-C92B-4ACD-A8E3-A0F1319B5195.jpeg",
+    "products": [
+      {
+        "id": "2c223c95-fc00-11ef-0a80-18cb0036da33",
+        "name": "Термоэтикетки 58х40х500 чистые ЭКО",
+        "price": 170,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/2c223c95-fc00-11ef-0a80-18cb0036da33_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/2c223c95-fc00-11ef-0a80-18cb0036da33_1.png"
+      },
+      {
+        "id": "70ea8958-f133-11ef-0a80-030c0019c103",
+        "name": "Ценник 25х35мм  желтый",
+        "price": 35,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/70ea8958-f133-11ef-0a80-030c0019c103_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/70ea8958-f133-11ef-0a80-030c0019c103_1.png"
+      },
+      {
+        "id": "812ac16a-bb81-11ef-0a80-1433002a18ae",
+        "name": "кассовая лента 80мм",
+        "price": 130,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/812ac16a-bb81-11ef-0a80-1433002a18ae_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/812ac16a-bb81-11ef-0a80-1433002a18ae_1.png"
+      },
+      {
+        "id": "da9c92f4-12ce-11f0-0a80-0020001fc368",
+        "name": "Термолента 80х18 70 м.",
+        "price": 165,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/da9c92f4-12ce-11f0-0a80-0020001fc368_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/da9c92f4-12ce-11f0-0a80-0020001fc368_1.png"
+      }
+    ]
+  },
+  {
+    "id": "87acb5b8-fb79-11ef-0a80-05f400133809",
+    "name": "Стананы Bubble Cup",
+    "slug": "87acb5b8-fb79-11ef-0a80-05f400133809",
+    "icon": "/icons/uploaded/1745535257446-D481FD51-D06A-4764-994F-FC1839C46838.jpeg",
+    "products": [
+      {
+        "id": "7d808f7f-bfbf-11ef-0a80-0219001c29f9",
+        "name": "Стакан матовый Bubble Cup 375мл Матовый  (25шт/уп)",
+        "price": 12.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/7d808f7f-bfbf-11ef-0a80-0219001c29f9_1.png",
+          "https://apsnypack.s3.cloud.ru/products/7d808f7f-bfbf-11ef-0a80-0219001c29f9_2.png",
+          "https://apsnypack.s3.cloud.ru/products/7d808f7f-bfbf-11ef-0a80-0219001c29f9_3.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/7d808f7f-bfbf-11ef-0a80-0219001c29f9_1.png"
+      },
+      {
+        "id": "839466a7-9da6-11ef-0a80-079d000779f6",
+        "name": "Стакан прозрачный Bubble Cup 300мл (50шт/уп)",
+        "price": 7.6,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/839466a7-9da6-11ef-0a80-079d000779f6_1.png",
+          "https://apsnypack.s3.cloud.ru/products/839466a7-9da6-11ef-0a80-079d000779f6_2.png",
+          "https://apsnypack.s3.cloud.ru/products/839466a7-9da6-11ef-0a80-079d000779f6_3.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/839466a7-9da6-11ef-0a80-079d000779f6_1.png"
+      },
+      {
+        "id": "86dda5b2-024b-11f0-0a80-040a001e200e",
+        "name": "Стакан прозрачный  Bubble Cup375 мл. Глянцевый  (25шт/уп)",
+        "price": 12.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/86dda5b2-024b-11f0-0a80-040a001e200e_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/86dda5b2-024b-11f0-0a80-040a001e200e_1.png"
+      },
+      {
+        "id": "94a2ef4a-0e13-11f0-0a80-0304002cf1a9",
+        "name": "Крышка для стак. d-90мм прозрачная п/п с красной заглушкой тип В(Под Заказ)",
+        "price": 8,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/94a2ef4a-0e13-11f0-0a80-0304002cf1a9_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/94a2ef4a-0e13-11f0-0a80-0304002cf1a9_1.png"
+      },
+      {
+        "id": "ca87b621-9da6-11ef-0a80-079d0007844a",
+        "name": "Стакан матовый  Bubble Cup 500мл Матовый (20шт/уп)",
+        "price": 13.2,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/ca87b621-9da6-11ef-0a80-079d0007844a_1.png",
+          "https://apsnypack.s3.cloud.ru/products/ca87b621-9da6-11ef-0a80-079d0007844a_2.png",
+          "https://apsnypack.s3.cloud.ru/products/ca87b621-9da6-11ef-0a80-079d0007844a_3.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/ca87b621-9da6-11ef-0a80-079d0007844a_1.png"
+      },
+      {
+        "id": "d21f5772-9da7-11ef-0a80-0dc40007480d",
+        "name": "Крышка прозрачная купол Bubbl Cup отверстием D-90 (50шт/уп)",
+        "price": 2.8,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/d21f5772-9da7-11ef-0a80-0dc40007480d_1.png",
+          "https://apsnypack.s3.cloud.ru/products/d21f5772-9da7-11ef-0a80-0dc40007480d_2.png",
+          "https://apsnypack.s3.cloud.ru/products/d21f5772-9da7-11ef-0a80-0dc40007480d_3.png",
+          "https://apsnypack.s3.cloud.ru/products/d21f5772-9da7-11ef-0a80-0dc40007480d_4.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/d21f5772-9da7-11ef-0a80-0dc40007480d_1.png"
+      },
+      {
+        "id": "e7ff8339-c5b7-11ef-0a80-18080010f1ec",
+        "name": "Крышка для стакана d-90мм прозрачная п/п Bubble Cup плоская (50 шт.)",
+        "price": 2.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/e7ff8339-c5b7-11ef-0a80-18080010f1ec_1.png",
+          "https://apsnypack.s3.cloud.ru/products/e7ff8339-c5b7-11ef-0a80-18080010f1ec_2.png",
+          "https://apsnypack.s3.cloud.ru/products/e7ff8339-c5b7-11ef-0a80-18080010f1ec_3.png",
+          "https://apsnypack.s3.cloud.ru/products/e7ff8339-c5b7-11ef-0a80-18080010f1ec_4.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/e7ff8339-c5b7-11ef-0a80-18080010f1ec_1.png"
+      },
+      {
+        "id": "eb68e447-fb80-11ef-0a80-0b9c00128500",
+        "name": "Стакан прозрачный Bubble Cup 500мл. глянцевый (20шт/уп)",
+        "price": 14,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/eb68e447-fb80-11ef-0a80-0b9c00128500_1.png",
+          "https://apsnypack.s3.cloud.ru/products/eb68e447-fb80-11ef-0a80-0b9c00128500_2.png",
+          "https://apsnypack.s3.cloud.ru/products/eb68e447-fb80-11ef-0a80-0b9c00128500_3.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/eb68e447-fb80-11ef-0a80-0b9c00128500_1.png"
+      },
+      {
+        "id": "ff104b8c-fb7e-11ef-0a80-01b100128300",
+        "name": "Стакан прозрачный Bubble Cup 650мл(10шт/уп)❗️ОЖИДАЕТСЯ",
+        "price": 20,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/ff104b8c-fb7e-11ef-0a80-01b100128300_1.png",
+          "https://apsnypack.s3.cloud.ru/products/ff104b8c-fb7e-11ef-0a80-01b100128300_2.png",
+          "https://apsnypack.s3.cloud.ru/products/ff104b8c-fb7e-11ef-0a80-01b100128300_3.png",
+          "https://apsnypack.s3.cloud.ru/products/ff104b8c-fb7e-11ef-0a80-01b100128300_4.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/ff104b8c-fb7e-11ef-0a80-01b100128300_1.png"
+      }
+    ]
+  },
+  {
+    "id": "91247c36-9d10-11ef-0a80-079400134cf4",
+    "name": "Контейнеры на вынос ECO",
+    "slug": "91247c36-9d10-11ef-0a80-079400134cf4",
+    "icon": "/icons/uploaded/1745535299262-D0C74D1C-A13B-450C-A9F6-83C75ACA7387.jpeg",
+    "products": [
+      {
+        "id": "126c1296-b580-11ef-0a80-0bf60028c059",
+        "name": "Контейнер универсальный TABOX 1500 PRO с окном 200х200х40мм",
+        "price": 28,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/126c1296-b580-11ef-0a80-0bf60028c059_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/126c1296-b580-11ef-0a80-0bf60028c059_1.png"
+      },
+      {
+        "id": "12e044a6-9d12-11ef-0a80-050c0013caa9",
+        "name": "ДоЭко контейнер универ TABOX 1450 PRO 260х150х40мм с окном",
+        "price": 32.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/12e044a6-9d12-11ef-0a80-050c0013caa9_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/12e044a6-9d12-11ef-0a80-050c0013caa9_1.png"
+      },
+      {
+        "id": "3e7f1170-9d12-11ef-0a80-06ad00131fa8",
+        "name": "ДоЭко контейнер универ TABOX 500 PRO 170х70х40мм с окном",
+        "price": 14.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/3e7f1170-9d12-11ef-0a80-06ad00131fa8_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/3e7f1170-9d12-11ef-0a80-06ad00131fa8_1.png"
+      },
+      {
+        "id": "436b66c3-9d11-11ef-0a80-0e52001444f9",
+        "name": "ДоЭко бум салатник с прозр крышкой OpSalad-400 50шт/уп",
+        "price": 17.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/436b66c3-9d11-11ef-0a80-0e52001444f9_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/436b66c3-9d11-11ef-0a80-0e52001444f9_1.png"
+      },
+      {
+        "id": "5a0d47ac-9d11-11ef-0a80-01620013b851",
+        "name": "ДоЭко бум салатник с прозр крышкой OpSalad-500 50шт/уп",
+        "price": 18.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/5a0d47ac-9d11-11ef-0a80-01620013b851_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/5a0d47ac-9d11-11ef-0a80-01620013b851_1.png"
+      },
+      {
+        "id": "5f9869bd-233b-11f0-0a80-0945001f28b9",
+        "name": "ДоЭко бум салатник с прозр крышкой OpSalad-800",
+        "price": 24,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/5f9869bd-233b-11f0-0a80-0945001f28b9_1.png",
+          "https://apsnypack.s3.cloud.ru/products/5f9869bd-233b-11f0-0a80-0945001f28b9_2.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/5f9869bd-233b-11f0-0a80-0945001f28b9_1.png"
+      },
+      {
+        "id": "947755a3-9d11-11ef-0a80-0e5200145057",
+        "name": "ДоЭко контейнер универ TABOX 1000 PRO 200х120х40мм с окном",
+        "price": 23.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/947755a3-9d11-11ef-0a80-0e5200145057_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/947755a3-9d11-11ef-0a80-0e5200145057_1.png"
+      },
+      {
+        "id": "d9a994f0-9d11-11ef-0a80-090200138801",
+        "name": "ДоЭко контейнер универ TABOX 1000 БЕЛЫЙ 200х120х40мм с окном",
+        "price": 21.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/d9a994f0-9d11-11ef-0a80-090200138801_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/d9a994f0-9d11-11ef-0a80-090200138801_1.png"
+      }
+    ]
+  },
+  {
+    "id": "92d4f76d-fc4b-11ef-0a80-0c11001a2ea6",
+    "name": "Пакеты с ручками",
+    "slug": "92d4f76d-fc4b-11ef-0a80-0c11001a2ea6",
+    "icon": "/icons/uploaded/1745535325323-05D0E9BC-343E-4657-A43A-BD38C77E73EE.jpeg",
+    "products": [
+      {
+        "id": "4957340d-9d3d-11ef-0a80-0dc400010973",
+        "name": "Пакет крафт с крученой ручкой б/п 220х120х250 бурый 70г",
+        "price": 11.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/4957340d-9d3d-11ef-0a80-0dc400010973_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/4957340d-9d3d-11ef-0a80-0dc400010973_1.png"
+      },
+      {
+        "id": "60f9e6a6-f134-11ef-0a80-18eb0019d2d0",
+        "name": "Пакет крафт с крученой ручкой 220х120х250 белый 80г",
+        "price": 15,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/60f9e6a6-f134-11ef-0a80-18eb0019d2d0_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/60f9e6a6-f134-11ef-0a80-18eb0019d2d0_1.png"
+      },
+      {
+        "id": "891318ab-9d3d-11ef-0a80-0c9d00010d20",
+        "name": "Пакет крафт с крученой ручкой б/п 260х150х350 бурый 70гр",
+        "price": 12.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/891318ab-9d3d-11ef-0a80-0c9d00010d20_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/891318ab-9d3d-11ef-0a80-0c9d00010d20_1.png"
+      },
+      {
+        "id": "b9d81ee0-12cd-11f0-0a80-165700202864",
+        "name": "Пакет крафт с крученой ручкой 320х200х370 крафт без печати 70г",
+        "price": 15,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/b9d81ee0-12cd-11f0-0a80-165700202864_1.png",
+          "https://apsnypack.s3.cloud.ru/products/b9d81ee0-12cd-11f0-0a80-165700202864_2.png",
+          "https://apsnypack.s3.cloud.ru/products/b9d81ee0-12cd-11f0-0a80-165700202864_3.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/b9d81ee0-12cd-11f0-0a80-165700202864_1.png"
+      },
+      {
+        "id": "ba26d9ea-9d3d-11ef-0a80-0fd10001230c",
+        "name": "Пакет крафт с крученой ручкой б/п 320х180х430 бурый 78г",
+        "price": 14.8,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/ba26d9ea-9d3d-11ef-0a80-0fd10001230c_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/ba26d9ea-9d3d-11ef-0a80-0fd10001230c_1.png"
+      },
+      {
+        "id": "f18c85cd-f134-11ef-0a80-05e4001a572d",
+        "name": "Пакет крафт с крученой ручкой б/п 350х150х450 белый 80г",
+        "price": 23,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/f18c85cd-f134-11ef-0a80-05e4001a572d_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/f18c85cd-f134-11ef-0a80-05e4001a572d_1.png"
+      }
+    ]
+  },
+  {
+    "id": "a05f2cb9-f154-11ef-0a80-0f59001b3d7d",
+    "name": "Бумажные салфетки",
+    "slug": "a05f2cb9-f154-11ef-0a80-0f59001b3d7d",
+    "icon": "/icons/uploaded/1745535353270-5920972F-5594-46FB-8F1F-F8C62A06455A.jpeg",
+    "products": [
+      {
+        "id": "1a7f2668-b56e-11ef-0a80-05de0027b583",
+        "name": "Салфетки 24х24 1-сл. 400л зеленые",
+        "price": 240,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/1a7f2668-b56e-11ef-0a80-05de0027b583_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/1a7f2668-b56e-11ef-0a80-05de0027b583_1.png"
+      },
+      {
+        "id": "46fb160c-b639-11ef-0a80-1422003f9c13",
+        "name": "Салфетка из микрофибры для стекла гладкого плетения 35х40см",
+        "price": 210,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/46fb160c-b639-11ef-0a80-1422003f9c13_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/46fb160c-b639-11ef-0a80-1422003f9c13_1.png"
+      },
+      {
+        "id": "53530f71-a67e-11ef-0a80-14020014a1da",
+        "name": "Салфетки 24х24 1 сл. 400л красные",
+        "price": 240,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/53530f71-a67e-11ef-0a80-14020014a1da_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/53530f71-a67e-11ef-0a80-14020014a1da_1.png"
+      },
+      {
+        "id": "5e6755fd-fced-11ef-0a80-18ca001f634b",
+        "name": "Салфетка  24*24 1-сл 400л  бордо",
+        "price": 240,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/5e6755fd-fced-11ef-0a80-18ca001f634b_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/5e6755fd-fced-11ef-0a80-18ca001f634b_1.png"
+      },
+      {
+        "id": "71155628-9dbc-11ef-0a80-08db000bf26b",
+        "name": "Салфетки в КОРОБКЕ 2-слойные(Корич.короб.)",
+        "price": 75,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/71155628-9dbc-11ef-0a80-08db000bf26b_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/71155628-9dbc-11ef-0a80-08db000bf26b_1.png"
+      },
+      {
+        "id": "7f226343-fce2-11ef-0a80-18ca001ec43b",
+        "name": "Салфетка для стекла 30см*30см в инд упаковке (20шт/кор)",
+        "price": 65,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/7f226343-fce2-11ef-0a80-18ca001ec43b_1.png",
+          "https://apsnypack.s3.cloud.ru/products/7f226343-fce2-11ef-0a80-18ca001ec43b_2.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/7f226343-fce2-11ef-0a80-18ca001ec43b_1.png"
+      },
+      {
+        "id": "93372af6-9d47-11ef-0a80-08db0001737d",
+        "name": "Салфетки 24х24 белая",
+        "price": 22.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/93372af6-9d47-11ef-0a80-08db0001737d_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/93372af6-9d47-11ef-0a80-08db0001737d_1.png"
+      },
+      {
+        "id": "b155b39d-b944-11ef-0a80-10720020259e",
+        "name": "Влажные салфетки AURA 120 шт. с крышкой",
+        "price": 120,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/b155b39d-b944-11ef-0a80-10720020259e_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/b155b39d-b944-11ef-0a80-10720020259e_1.png"
+      },
+      {
+        "id": "bd68b76b-a67d-11ef-0a80-096c0013dbdf",
+        "name": "Салфетки 24х24 1сл. 400л  желтые",
+        "price": 240,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/bd68b76b-a67d-11ef-0a80-096c0013dbdf_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/bd68b76b-a67d-11ef-0a80-096c0013dbdf_1.png"
+      },
+      {
+        "id": "e34d1e6e-9d47-11ef-0a80-0fd1000171e5",
+        "name": "Салфетки в КОРОБКЕ 2-слойные (Бел. короб.)",
+        "price": 90,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/e34d1e6e-9d47-11ef-0a80-0fd1000171e5_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/e34d1e6e-9d47-11ef-0a80-0fd1000171e5_1.png"
+      },
+      {
+        "id": "fec78a94-aa4a-11ef-0a80-04290024f871",
+        "name": "Салфетки 24х24 1-сл. 400л черные",
+        "price": 240,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/fec78a94-aa4a-11ef-0a80-04290024f871_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/fec78a94-aa4a-11ef-0a80-04290024f871_1.png"
+      }
+    ]
+  },
+  {
+    "id": "a0a11673-a83e-11ef-0a80-140b00013536",
+    "name": "Крышки для бумажных стаканов",
+    "slug": "a0a11673-a83e-11ef-0a80-140b00013536",
+    "icon": "/icons/uploaded/1745535386533-117C638F-BFBC-47CE-A232-8A29EF6817D8.jpeg",
+    "products": [
+      {
+        "id": "21919586-9da5-11ef-0a80-0c9d0006b6d9",
+        "name": "Крышка для стак.  д.80мм прозрачная",
+        "price": 3.9,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/21919586-9da5-11ef-0a80-0c9d0006b6d9_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/21919586-9da5-11ef-0a80-0c9d0006b6d9_1.png"
+      },
+      {
+        "id": "4072840d-9da5-11ef-0a80-118b0006f725",
+        "name": "Крышка для стак.  д.80мм черная",
+        "price": 3.9,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/4072840d-9da5-11ef-0a80-118b0006f725_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/4072840d-9da5-11ef-0a80-118b0006f725_1.png"
+      },
+      {
+        "id": "48ac1525-b57d-11ef-0a80-1422002985b8",
+        "name": "Крышка для стак. д-73мм Черная",
+        "price": 3,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/48ac1525-b57d-11ef-0a80-1422002985b8_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/48ac1525-b57d-11ef-0a80-1422002985b8_1.png"
+      },
+      {
+        "id": "55d6762f-fcea-11ef-0a80-0e3d001e8f7f",
+        "name": "Крышка для стак . д-80  темно-зеленые",
+        "price": 3.8,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/55d6762f-fcea-11ef-0a80-0e3d001e8f7f_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/55d6762f-fcea-11ef-0a80-0e3d001e8f7f_1.png"
+      },
+      {
+        "id": "6f044d62-9da5-11ef-0a80-0dc40006c4b7",
+        "name": "Крышка для стак.  д.90мм прозрачная",
+        "price": 4.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/6f044d62-9da5-11ef-0a80-0dc40006c4b7_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/6f044d62-9da5-11ef-0a80-0dc40006c4b7_1.png"
+      },
+      {
+        "id": "7cbf4535-f799-11ef-0a80-19190011c166",
+        "name": "крышка для стак. д.80 Красная",
+        "price": 3.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/7cbf4535-f799-11ef-0a80-19190011c166_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/7cbf4535-f799-11ef-0a80-19190011c166_1.png"
+      },
+      {
+        "id": "83a5caf6-9da5-11ef-0a80-176d000708aa",
+        "name": "Крышка для стак.  д.90мм черная",
+        "price": 4.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/83a5caf6-9da5-11ef-0a80-176d000708aa_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/83a5caf6-9da5-11ef-0a80-176d000708aa_1.png"
+      },
+      {
+        "id": "ba82a143-fceb-11ef-0a80-1055001f3285",
+        "name": "Крышка для стак . д-90  темно-зеленые",
+        "price": 4.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/ba82a143-fceb-11ef-0a80-1055001f3285_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/ba82a143-fceb-11ef-0a80-1055001f3285_1.png"
+      },
+      {
+        "id": "ca40cd27-fcea-11ef-0a80-0b9c001f6ba7",
+        "name": "Крышка для стак. д-90 красная матовая",
+        "price": 4.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/ca40cd27-fcea-11ef-0a80-0b9c001f6ba7_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/ca40cd27-fcea-11ef-0a80-0b9c001f6ba7_1.png"
+      },
+      {
+        "id": "cd6c7b8e-0e0d-11f0-0a80-1774002bd947",
+        "name": "Крышка для стак. д.80 Желтая",
+        "price": 3.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/cd6c7b8e-0e0d-11f0-0a80-1774002bd947_1.png",
+          "https://apsnypack.s3.cloud.ru/products/cd6c7b8e-0e0d-11f0-0a80-1774002bd947_2.png",
+          "https://apsnypack.s3.cloud.ru/products/cd6c7b8e-0e0d-11f0-0a80-1774002bd947_3.png",
+          "https://apsnypack.s3.cloud.ru/products/cd6c7b8e-0e0d-11f0-0a80-1774002bd947_4.png",
+          "https://apsnypack.s3.cloud.ru/products/cd6c7b8e-0e0d-11f0-0a80-1774002bd947_5.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/cd6c7b8e-0e0d-11f0-0a80-1774002bd947_1.png"
+      },
+      {
+        "id": "fe0a40ac-0e0d-11f0-0a80-003b002b4d4a",
+        "name": "крышка для стак. д.90 Желтая",
+        "price": 4,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/fe0a40ac-0e0d-11f0-0a80-003b002b4d4a_1.png",
+          "https://apsnypack.s3.cloud.ru/products/fe0a40ac-0e0d-11f0-0a80-003b002b4d4a_2.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/fe0a40ac-0e0d-11f0-0a80-003b002b4d4a_1.png"
+      }
+    ]
+  },
+  {
+    "id": "a17fefc0-fc4f-11ef-0a80-0b9c001a5b85",
+    "name": "Лотки и Ланч-боксы ВПС",
+    "slug": "a17fefc0-fc4f-11ef-0a80-0b9c001a5b85",
+    "icon": "/icons/uploaded/1745535446918-24C962A0-A0A4-4B17-AC3F-CE02A806623A.jpeg",
+    "products": [
+      {
+        "id": "36f04497-eb94-11ef-0a80-176c0041286b",
+        "name": "Лоток D-21 белый 225х135х20",
+        "price": 4,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/36f04497-eb94-11ef-0a80-176c0041286b_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/36f04497-eb94-11ef-0a80-176c0041286b_1.png"
+      },
+      {
+        "id": "55b82c03-dbdd-11ef-0a80-03cd001fcb67",
+        "name": "Лоток C -11А БЕЛЫЙ /178х135х10",
+        "price": 2.9,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/55b82c03-dbdd-11ef-0a80-03cd001fcb67_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/55b82c03-dbdd-11ef-0a80-03cd001fcb67_1.png"
+      },
+      {
+        "id": "a54cb1bd-dbdd-11ef-0a80-009b0020f1f7",
+        "name": "Лоток D-11А БЕЛЫЙ /225х135х10",
+        "price": 4,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/a54cb1bd-dbdd-11ef-0a80-009b0020f1f7_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/a54cb1bd-dbdd-11ef-0a80-009b0020f1f7_1.png"
+      }
+    ]
+  },
+  {
+    "id": "a4c57e69-dbe0-11ef-0a80-115c00216ab1",
+    "name": "Пищевая пленка",
+    "slug": "a4c57e69-dbe0-11ef-0a80-115c00216ab1",
+    "icon": "/icons/uploaded/1745535472989-345A5EF8-1977-4180-B2F0-346C0CA0D680.jpeg",
+    "products": [
+      {
+        "id": "0963cf84-d5d9-11ef-0a80-1823001c3263",
+        "name": "Пищевая пленка 30см х 100м белая 5мкм",
+        "price": 105,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/0963cf84-d5d9-11ef-0a80-1823001c3263_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/0963cf84-d5d9-11ef-0a80-1823001c3263_1.png"
+      },
+      {
+        "id": "4004ce1b-dbe1-11ef-0a80-03cd0020072a",
+        "name": "Пищевая пленка ПВХ 45см х 700м.х 8мкм",
+        "price": 1680,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/4004ce1b-dbe1-11ef-0a80-03cd0020072a_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/4004ce1b-dbe1-11ef-0a80-03cd0020072a_1.png"
+      }
+    ]
+  },
+  {
+    "id": "a6074b7c-a840-11ef-0a80-11b500019cf3",
+    "name": "Подставки, капхолдеры",
+    "slug": "a6074b7c-a840-11ef-0a80-11b500019cf3",
+    "icon": "/icons/uploaded/1745535486041-3145A93C-1BB8-4E11-8DDD-1BBBB018D068.jpeg",
+    "products": [
+      {
+        "id": "3a1e597e-a842-11ef-0a80-02cc00015246",
+        "name": "Держатель для 2-х стаканов 193х108х42 Розовый",
+        "price": 4.7,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/3a1e597e-a842-11ef-0a80-02cc00015246_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/3a1e597e-a842-11ef-0a80-02cc00015246_1.png"
+      },
+      {
+        "id": "8b41bd05-9d0f-11ef-0a80-17630012ffe0",
+        "name": "Держатель для 2-х стаканов Натуральный 150шт/уп",
+        "price": 4.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/8b41bd05-9d0f-11ef-0a80-17630012ffe0_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/8b41bd05-9d0f-11ef-0a80-17630012ffe0_1.png"
+      },
+      {
+        "id": "9577fe7e-9d0f-11ef-0a80-06ad00129ceb",
+        "name": "Держатель для 4-х стаканов Натуральный 130шт/уп",
+        "price": 6.9,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/9577fe7e-9d0f-11ef-0a80-06ad00129ceb_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/9577fe7e-9d0f-11ef-0a80-06ad00129ceb_1.png"
+      },
+      {
+        "id": "c945c026-9d0f-11ef-0a80-090200132c5e",
+        "name": "Манжета на стакан 280х55 КРАФТ 2 -хсл 70шт/уп",
+        "price": 2.8,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/c945c026-9d0f-11ef-0a80-090200132c5e_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/c945c026-9d0f-11ef-0a80-090200132c5e_1.png"
+      },
+      {
+        "id": "d55acef3-a841-11ef-0a80-11b50001a956",
+        "name": "Держатель для 2-х стаканов 193х108х42 Зеленый",
+        "price": 4.7,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/d55acef3-a841-11ef-0a80-11b50001a956_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/d55acef3-a841-11ef-0a80-11b50001a956_1.png"
+      }
+    ]
+  },
+  {
+    "id": "aaa2fc23-fb82-11ef-0a80-168e0013ca77",
+    "name": "Стаканы PET",
+    "slug": "aaa2fc23-fb82-11ef-0a80-168e0013ca77",
+    "icon": "/icons/uploaded/1745535509591-69D6A9C3-5382-46F1-AF7E-C06134A4B691.jpeg",
+    "products": [
+      {
+        "id": "04f4ff13-9da7-11ef-0a80-06b200073ea3",
+        "name": "Стакан прозрачный PET PULSAR-200мл  D-95  (50шт/уп)",
+        "price": 5.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/04f4ff13-9da7-11ef-0a80-06b200073ea3_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/04f4ff13-9da7-11ef-0a80-06b200073ea3_1.png"
+      },
+      {
+        "id": "07e79e20-9da8-11ef-0a80-0bb500075390",
+        "name": "Крышка прозрачная купол PET с отверстием D-95 (100шт/уп)",
+        "price": 2.9,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/07e79e20-9da8-11ef-0a80-0bb500075390_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/07e79e20-9da8-11ef-0a80-0bb500075390_1.png"
+      },
+      {
+        "id": "2bed5acc-9da7-11ef-0a80-0c9d00072d1a",
+        "name": "Стакан прозрачный PET PULSAR-300мл  D-95  (50шт/уп",
+        "price": 5.7,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/2bed5acc-9da7-11ef-0a80-0c9d00072d1a_1.png",
+          "https://apsnypack.s3.cloud.ru/products/2bed5acc-9da7-11ef-0a80-0c9d00072d1a_2.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/2bed5acc-9da7-11ef-0a80-0c9d00072d1a_1.png"
+      },
+      {
+        "id": "6020da5e-9da7-11ef-0a80-118b00077023",
+        "name": "Стакан прозрачный PET PULSAR-400мл  D-95  (50шт/уп",
+        "price": 7.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/6020da5e-9da7-11ef-0a80-118b00077023_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/6020da5e-9da7-11ef-0a80-118b00077023_1.png"
+      },
+      {
+        "id": "616d2f72-9da8-11ef-0a80-0e120007aa50",
+        "name": "Крышка прозрачная плоская PET с крестиком  D-95  (50шт/уп)",
+        "price": 2.7,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/616d2f72-9da8-11ef-0a80-0e120007aa50_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/616d2f72-9da8-11ef-0a80-0e120007aa50_1.png"
+      },
+      {
+        "id": "9e99d108-9da7-11ef-0a80-079d0007b425",
+        "name": "Стакан прозрачный PET 200мл D.95 (50шт/уп)",
+        "price": 6.2,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/9e99d108-9da7-11ef-0a80-079d0007b425_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/9e99d108-9da7-11ef-0a80-079d0007b425_1.png"
+      },
+      {
+        "id": "b275cad4-fb84-11ef-0a80-0e3d0012e7f3",
+        "name": "Стакан прозрачный PET PULSAR-500мл  D-95  (50шт/уп❗️ОЖИДАЕТСЯ",
+        "price": 10.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/b275cad4-fb84-11ef-0a80-0e3d0012e7f3_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/b275cad4-fb84-11ef-0a80-0e3d0012e7f3_1.png"
+      }
+    ]
+  },
+  {
+    "id": "ab7e3f93-fc47-11ef-0a80-0e3d0019fd30",
+    "name": "Пищевая упаковка",
+    "slug": "ab7e3f93-fc47-11ef-0a80-0e3d0019fd30",
+    "icon": "/icons/uploaded/1745535547977-0D861251-73E7-4185-BA38-92C85268C394.jpeg",
+    "products": []
+  },
+  {
+    "id": "b099c30a-9d48-11ef-0a80-06b200013c98",
+    "name": "Контейнеры пластиковые",
+    "slug": "b099c30a-9d48-11ef-0a80-06b200013c98",
+    "icon": "/icons/uploaded/1745535571128-97933924-50B6-45B1-BCCA-5DA0D86D2C1F.jpeg",
+    "products": [
+      {
+        "id": "01988fa6-9e74-11ef-0a80-06b200194775",
+        "name": "Емкость КР-7   /195*115*65/ 400шт/кор.  (Комус РК-21  400шт/кор)",
+        "price": 13.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/01988fa6-9e74-11ef-0a80-06b200194775_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/01988fa6-9e74-11ef-0a80-06b200194775_1.png"
+      },
+      {
+        "id": "0633e38a-9e79-11ef-0a80-1352001a4135",
+        "name": "Контейнер 1,5л 186х132х100 прямоугольный низкий",
+        "price": 10.9,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/0633e38a-9e79-11ef-0a80-1352001a4135_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/0633e38a-9e79-11ef-0a80-1352001a4135_1.png"
+      },
+      {
+        "id": "1280d62a-9e7a-11ef-0a80-118b001a811a",
+        "name": "Салатник УК-250Е 250мл 156х129х27(РКС-250)",
+        "price": 6.8,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/1280d62a-9e7a-11ef-0a80-118b001a811a_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/1280d62a-9e7a-11ef-0a80-118b001a811a_1.png"
+      },
+      {
+        "id": "15179712-fbfe-11ef-0a80-02f00036b951",
+        "name": "Контейнер 0,500л 108х82х106 прямоугольный Упакс - Юнити",
+        "price": 4.8,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/15179712-fbfe-11ef-0a80-02f00036b951_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/15179712-fbfe-11ef-0a80-02f00036b951_1.png"
+      },
+      {
+        "id": "217790fc-9d49-11ef-0a80-0dc40001700c",
+        "name": "Емкость КР-19ВА /190*85*65  (Комус РК-19)",
+        "price": 11.8,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/217790fc-9d49-11ef-0a80-0dc40001700c_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/217790fc-9d49-11ef-0a80-0dc40001700c_1.png"
+      },
+      {
+        "id": "2a0d2688-fc01-11ef-0a80-0c130036ec27",
+        "name": "Емкость КР-19В АВ /190*85*55/ Интерпластик (300шт)",
+        "price": 16,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/2a0d2688-fc01-11ef-0a80-0c130036ec27_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/2a0d2688-fc01-11ef-0a80-0c130036ec27_1.png"
+      },
+      {
+        "id": "4918f5a4-9e73-11ef-0a80-0c9d001a0c7f",
+        "name": "Крышка к контейнеру  Упакс-Юнити 108*82  (100шт/уп)",
+        "price": 2.2,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/4918f5a4-9e73-11ef-0a80-0c9d001a0c7f_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/4918f5a4-9e73-11ef-0a80-0c9d001a0c7f_1.png"
+      },
+      {
+        "id": "4e3c85d3-9d49-11ef-0a80-0bb5000153b0",
+        "name": "Емкость КР-25   /245*160*62/  (Комус РК-25)",
+        "price": 28,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/4e3c85d3-9d49-11ef-0a80-0bb5000153b0_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/4e3c85d3-9d49-11ef-0a80-0bb5000153b0_1.png"
+      },
+      {
+        "id": "5dcba2b7-fce7-11ef-0a80-15c200210d02",
+        "name": "Контейнер РКС-350 ОП 159х130х40мм с крышкой (360 шт.)",
+        "price": 8.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/5dcba2b7-fce7-11ef-0a80-15c200210d02_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/5dcba2b7-fce7-11ef-0a80-15c200210d02_1.png"
+      },
+      {
+        "id": "889496d4-9e72-11ef-0a80-08db0019d196",
+        "name": "Контейнер прямоуг. 0,350л  Упакс - Юнити 108*82*49  (100шт/уп)",
+        "price": 4.2,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/889496d4-9e72-11ef-0a80-08db0019d196_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/889496d4-9e72-11ef-0a80-08db0019d196_1.png"
+      },
+      {
+        "id": "9115ed32-9e79-11ef-0a80-176d001a862f",
+        "name": "Крышка к контейнеру 1.5 (186х132) \" 50шт/уп",
+        "price": 4.6,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/9115ed32-9e79-11ef-0a80-176d001a862f_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/9115ed32-9e79-11ef-0a80-176d001a862f_1.png"
+      },
+      {
+        "id": "924a93e3-fce6-11ef-0a80-13ce001efcd6",
+        "name": "Контейнер РКС-750 176х147х64мм 750мл с крышкой",
+        "price": 13.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/924a93e3-fce6-11ef-0a80-13ce001efcd6_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/924a93e3-fce6-11ef-0a80-13ce001efcd6_1.png"
+      },
+      {
+        "id": "c9187ab8-fbfd-11ef-0a80-117c0036b557",
+        "name": "Контейнер 0,200л 108х82х40 прямоугольный Упакс-Юнити /10уп х 100шт/",
+        "price": 3,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/c9187ab8-fbfd-11ef-0a80-117c0036b557_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/c9187ab8-fbfd-11ef-0a80-117c0036b557_1.png"
+      },
+      {
+        "id": "ccf88a0f-fce5-11ef-0a80-01b1001e5d2d",
+        "name": "Контейнер РК-17 185х112х65,5мм, 400мл с крышкой (570 шт.)",
+        "price": 14.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/ccf88a0f-fce5-11ef-0a80-01b1001e5d2d_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/ccf88a0f-fce5-11ef-0a80-01b1001e5d2d_1.png"
+      },
+      {
+        "id": "d1c30744-9d48-11ef-0a80-15080001679a",
+        "name": "Емкость ИП-30С А  /220*155*60/  (Комус РК-30)",
+        "price": 19,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/d1c30744-9d48-11ef-0a80-15080001679a_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/d1c30744-9d48-11ef-0a80-15080001679a_1.png"
+      },
+      {
+        "id": "f21d1da4-9dac-11ef-0a80-13520008a455",
+        "name": "Емкость РК-14",
+        "price": 13.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/f21d1da4-9dac-11ef-0a80-13520008a455_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/f21d1da4-9dac-11ef-0a80-13520008a455_1.png"
+      },
+      {
+        "id": "fa74eac2-fce6-11ef-0a80-168e001fdae7",
+        "name": "Контейнер РКС-350 оп 159х130х40мм с крышкой (360 шт.)",
+        "price": 7.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/fa74eac2-fce6-11ef-0a80-168e001fdae7_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/fa74eac2-fce6-11ef-0a80-168e001fdae7_1.png"
+      },
+      {
+        "id": "fbc5ca71-9d48-11ef-0a80-135200017e45",
+        "name": "Емкость КР-15ВА   /139*139*75/ (Комус РК-15)",
+        "price": 11,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/fbc5ca71-9d48-11ef-0a80-135200017e45_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/fbc5ca71-9d48-11ef-0a80-135200017e45_1.png"
+      }
+    ]
+  },
+  {
+    "id": "b2670bee-fb78-11ef-0a80-1ab300129a2d",
+    "name": "Пластиковые стаканы",
+    "slug": "b2670bee-fb78-11ef-0a80-1ab300129a2d",
+    "icon": "/icons/uploaded/1745535620465-8C41C242-3903-4C0C-BEDE-14439CA7BA4C.jpeg",
+    "products": [
+      {
+        "id": "2fb6b02b-fcee-11ef-0a80-05f400202898",
+        "name": "Стакан 200мл прозрачный  (100 шт.)",
+        "price": 100,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/2fb6b02b-fcee-11ef-0a80-05f400202898_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/2fb6b02b-fcee-11ef-0a80-05f400202898_1.png"
+      },
+      {
+        "id": "3c59ddd4-9d4c-11ef-0a80-0dc40001802b",
+        "name": "Креманка 200мл \"Кристалл\" прозрачная (16шт/уп)",
+        "price": 11,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/3c59ddd4-9d4c-11ef-0a80-0dc40001802b_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/3c59ddd4-9d4c-11ef-0a80-0dc40001802b_1.png"
+      },
+      {
+        "id": "51eefc3c-fb86-11ef-0a80-05f40013b2e6",
+        "name": "Стакан 100мл прозрачный (100шт/уп)❗️ОЖИДАЕТСЯ",
+        "price": 90,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/51eefc3c-fb86-11ef-0a80-05f40013b2e6_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/51eefc3c-fb86-11ef-0a80-05f40013b2e6_1.png"
+      },
+      {
+        "id": "67f574ac-9d4c-11ef-0a80-0e1200018c43",
+        "name": "Крышка для креманки  200мл \"Кристалл\"ПЭТ прозрачная",
+        "price": 4.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/67f574ac-9d4c-11ef-0a80-0e1200018c43_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/67f574ac-9d4c-11ef-0a80-0e1200018c43_1.png"
+      },
+      {
+        "id": "cf39828d-fb88-11ef-0a80-18ca00138fda",
+        "name": "Стакан 500мл прозрачный п/п Факел (50шт.уп)❗️ОЖИДАЕТСЯ",
+        "price": 145,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/cf39828d-fb88-11ef-0a80-18ca00138fda_1.png",
+          "https://apsnypack.s3.cloud.ru/products/cf39828d-fb88-11ef-0a80-18ca00138fda_2.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/cf39828d-fb88-11ef-0a80-18ca00138fda_1.png"
+      }
+    ]
+  },
+  {
+    "id": "bfe9567f-fc48-11ef-0a80-18ca001ab16a",
+    "name": "Контейнеры для суши и роллов",
+    "slug": "bfe9567f-fc48-11ef-0a80-18ca001ab16a",
+    "icon": "/icons/uploaded/1745535658002-C4BC0C62-F3DE-4D43-9384-CF2F648CB02B.jpeg",
+    "products": [
+      {
+        "id": "5d6b8eac-9da9-11ef-0a80-0dc4000798b3",
+        "name": "Суши УК-703 крышка+дно  160*105*24  С-19",
+        "price": 14,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/5d6b8eac-9da9-11ef-0a80-0dc4000798b3_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/5d6b8eac-9da9-11ef-0a80-0dc4000798b3_1.png"
+      },
+      {
+        "id": "eece25e0-9da9-11ef-0a80-14e9000848f7",
+        "name": "Суши УК-704 дно+крышка 212*140*24  С-25",
+        "price": 24,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/eece25e0-9da9-11ef-0a80-14e9000848f7_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/eece25e0-9da9-11ef-0a80-14e9000848f7_1.png"
+      }
+    ]
+  },
+  {
+    "id": "c29f5422-1203-11f0-0a80-17480018786a",
+    "name": "Органайзеры для Бара",
+    "slug": "c29f5422-1203-11f0-0a80-17480018786a",
+    "icon": "/icons/uploaded/1745535673321-C0F5C5E2-78C8-43DD-90F6-0C7185DEF10D.jpeg",
+    "products": [
+      {
+        "id": "07aeaa47-1205-11f0-0a80-092100184e9f",
+        "name": "Стойка с 4 секциями под стаканы и 4 секциями под аксессуары ДЕРЕВО",
+        "price": 7800,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/07aeaa47-1205-11f0-0a80-092100184e9f_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/07aeaa47-1205-11f0-0a80-092100184e9f_1.png"
+      },
+      {
+        "id": "364a32ef-1204-11f0-0a80-11080017a6d9",
+        "name": "Стойка с 3 секциями под стаканы и 6 секциями под аксессуары  ДЕРЕВО(ПОД ЗАКАЗ)",
+        "price": 7900,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/364a32ef-1204-11f0-0a80-11080017a6d9_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/364a32ef-1204-11f0-0a80-11080017a6d9_1.png"
+      },
+      {
+        "id": "90277701-1206-11f0-0a80-06fc0018d2cc",
+        "name": "Стойка с 4 секциями под стаканы  Пластик",
+        "price": 3500,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/90277701-1206-11f0-0a80-06fc0018d2cc_1.png",
+          "https://apsnypack.s3.cloud.ru/products/90277701-1206-11f0-0a80-06fc0018d2cc_2.png",
+          "https://apsnypack.s3.cloud.ru/products/90277701-1206-11f0-0a80-06fc0018d2cc_3.png",
+          "https://apsnypack.s3.cloud.ru/products/90277701-1206-11f0-0a80-06fc0018d2cc_4.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/90277701-1206-11f0-0a80-06fc0018d2cc_1.png"
+      },
+      {
+        "id": "95045263-1207-11f0-0a80-06fc0018e908",
+        "name": "Стойка с 4 секциями под стаканы и 7 секциями под аксессуары Пластик",
+        "price": 5800,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/95045263-1207-11f0-0a80-06fc0018e908_1.png",
+          "https://apsnypack.s3.cloud.ru/products/95045263-1207-11f0-0a80-06fc0018e908_2.png",
+          "https://apsnypack.s3.cloud.ru/products/95045263-1207-11f0-0a80-06fc0018e908_3.png",
+          "https://apsnypack.s3.cloud.ru/products/95045263-1207-11f0-0a80-06fc0018e908_4.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/95045263-1207-11f0-0a80-06fc0018e908_1.png"
+      },
+      {
+        "id": "9abbd479-1205-11f0-0a80-0e8d00183453",
+        "name": "Стойка с 4 секциями под стаканы диагональ, Пластик",
+        "price": 4800,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/9abbd479-1205-11f0-0a80-0e8d00183453_1.png",
+          "https://apsnypack.s3.cloud.ru/products/9abbd479-1205-11f0-0a80-0e8d00183453_2.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/9abbd479-1205-11f0-0a80-0e8d00183453_1.png"
+      },
+      {
+        "id": "c3fa3504-1204-11f0-0a80-03b50017e308",
+        "name": "Стойка с 3 секциями под стаканы и 6 секциями под аксессуары  ДЕРЕВО",
+        "price": 6300,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/c3fa3504-1204-11f0-0a80-03b50017e308_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/c3fa3504-1204-11f0-0a80-03b50017e308_1.png"
+      }
+    ]
+  },
+  {
+    "id": "c3fcbcbf-aa70-11ef-0a80-0e330029acf6",
+    "name": "Барные аксессуары и товары для сервировки",
+    "slug": "c3fcbcbf-aa70-11ef-0a80-0e330029acf6",
+    "icon": "/icons/uploaded/1745535692840-0C91DA6A-412E-4D67-A5FF-E0B046394A9F.png",
+    "products": [
+      {
+        "id": "24ae38a8-9d44-11ef-0a80-0fd100015689",
+        "name": "Палочка для мороженого кассетированная 50шт/уп",
+        "price": 75,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/24ae38a8-9d44-11ef-0a80-0fd100015689_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/24ae38a8-9d44-11ef-0a80-0fd100015689_1.png"
+      },
+      {
+        "id": "274ec5dc-fce9-11ef-0a80-15c200212436",
+        "name": "Заменитель сахара Стеверит 2 гр. 1000шт.",
+        "price": 3900,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/274ec5dc-fce9-11ef-0a80-15c200212436_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/274ec5dc-fce9-11ef-0a80-15c200212436_1.png"
+      },
+      {
+        "id": "335fc8aa-9d48-11ef-0a80-1508000165c4",
+        "name": "Сахар порционный 5гр. 1000шт/кор.",
+        "price": 1600,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/335fc8aa-9d48-11ef-0a80-1508000165c4_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/335fc8aa-9d48-11ef-0a80-1508000165c4_1.png"
+      },
+      {
+        "id": "479b9d93-9d41-11ef-0a80-0c9d00012d72",
+        "name": "Пакеты для льда  SPINO",
+        "price": 75,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/479b9d93-9d41-11ef-0a80-0c9d00012d72_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/479b9d93-9d41-11ef-0a80-0c9d00012d72_1.png"
+      },
+      {
+        "id": "58d40d40-9df8-11ef-0a80-06b200153020",
+        "name": "Зубочистки в индивидуальной бумажной упаковке  1000шт.",
+        "price": 235,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/58d40d40-9df8-11ef-0a80-06b200153020_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/58d40d40-9df8-11ef-0a80-06b200153020_1.png"
+      },
+      {
+        "id": "87391d2d-9d45-11ef-0a80-090a0001734b",
+        "name": "Размешиватель деревянный  140мм 500шт/уп",
+        "price": 330,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/87391d2d-9d45-11ef-0a80-090a0001734b_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/87391d2d-9d45-11ef-0a80-090a0001734b_1.png"
+      },
+      {
+        "id": "89ddd627-9d43-11ef-0a80-150800014665",
+        "name": "Пика Феста СЕРДЦЕ бамбук 100шт/уп 12см",
+        "price": 250,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/89ddd627-9d43-11ef-0a80-150800014665_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/89ddd627-9d43-11ef-0a80-150800014665_1.png"
+      },
+      {
+        "id": "981fa013-9d45-11ef-0a80-06b2000126c0",
+        "name": "Размешиватель деревянный (упх250шт) 178мм AVIORA в индивид.упак",
+        "price": 380,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/981fa013-9d45-11ef-0a80-06b2000126c0_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/981fa013-9d45-11ef-0a80-06b2000126c0_1.png"
+      },
+      {
+        "id": "de571995-9d41-11ef-0a80-1508000127c7",
+        "name": "Фильтр пакеты для завариваия чая и трав. 5*7см (100шт/уп)",
+        "price": 250,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/de571995-9d41-11ef-0a80-1508000127c7_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/de571995-9d41-11ef-0a80-1508000127c7_1.png"
+      },
+      {
+        "id": "ff60dbe0-f79b-11ef-0a80-183800120caf",
+        "name": "Размешиватель деревянный 178мм 500шт/уп",
+        "price": 300,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/ff60dbe0-f79b-11ef-0a80-183800120caf_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/ff60dbe0-f79b-11ef-0a80-183800120caf_1.png"
+      }
+    ]
+  },
+  {
+    "id": "c696ba84-a83d-11ef-0a80-07b600013cab",
+    "name": "Бумажные Стаканы и аксессуары",
+    "slug": "c696ba84-a83d-11ef-0a80-07b600013cab",
+    "icon": "/icons/uploaded/1745535717731-D61389D4-22C5-4966-932B-92515783877A.jpeg",
+    "products": []
+  },
+  {
+    "id": "c71b4cd3-9d0c-11ef-0a80-0dbe00131ace",
+    "name": "Перчатки",
+    "slug": "c71b4cd3-9d0c-11ef-0a80-0dbe00131ace",
+    "icon": "/icons/uploaded/1745535745177-5B49E3BF-C05B-4CAA-9AF7-F3D6E9ED1CC1.jpeg",
+    "products": [
+      {
+        "id": "039db38a-9d0e-11ef-0a80-01620012f9a0",
+        "name": "Виниловые перчатки:Бел.прозр.размер( L)",
+        "price": 380,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/039db38a-9d0e-11ef-0a80-01620012f9a0_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/039db38a-9d0e-11ef-0a80-01620012f9a0_1.png"
+      },
+      {
+        "id": "1687d4af-9d0e-11ef-0a80-09020012cb21",
+        "name": "Виниловые перчатки:Бел.прозр.размер( XL)",
+        "price": 380,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/1687d4af-9d0e-11ef-0a80-09020012cb21_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/1687d4af-9d0e-11ef-0a80-09020012cb21_1.png"
+      },
+      {
+        "id": "30444af7-9d0e-11ef-0a80-07940012d93b",
+        "name": "Нитриловые перч.Черные M",
+        "price": 570,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/30444af7-9d0e-11ef-0a80-07940012d93b_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/30444af7-9d0e-11ef-0a80-07940012d93b_1.png"
+      },
+      {
+        "id": "3cb7a91c-9d0e-11ef-0a80-0dbe00135f7d",
+        "name": "Нитриловые перч.Черные XL",
+        "price": 580,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/3cb7a91c-9d0e-11ef-0a80-0dbe00135f7d_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/3cb7a91c-9d0e-11ef-0a80-0dbe00135f7d_1.png"
+      },
+      {
+        "id": "4d4813d2-9d0e-11ef-0a80-17630012acfa",
+        "name": "Нитриловые перч.Черные L",
+        "price": 575,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/4d4813d2-9d0e-11ef-0a80-17630012acfa_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/4d4813d2-9d0e-11ef-0a80-17630012acfa_1.png"
+      },
+      {
+        "id": "b05147aa-9d0e-11ef-0a80-06ad0012695d",
+        "name": "Перчатки одноразовые AVIORA L /уп х100шт/",
+        "price": 50,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/b05147aa-9d0e-11ef-0a80-06ad0012695d_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/b05147aa-9d0e-11ef-0a80-06ad0012695d_1.png"
+      },
+      {
+        "id": "f0e769a7-9d0d-11ef-0a80-14e40012af65",
+        "name": "Виниловые перчатки:Бел.прозр.размер( M)",
+        "price": 380,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/f0e769a7-9d0d-11ef-0a80-14e40012af65_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/f0e769a7-9d0d-11ef-0a80-14e40012af65_1.png"
+      }
+    ]
+  },
+  {
+    "id": "cf61e2b8-9d12-11ef-0a80-07940013b5b1",
+    "name": "Упаковка для фаст-фуда и пиццы",
+    "slug": "cf61e2b8-9d12-11ef-0a80-07940013b5b1",
+    "icon": "/icons/uploaded/1745535781630-11086F16-F2B5-4213-8367-B101A96DDE2B.jpeg",
+    "products": [
+      {
+        "id": "1091ae73-9d13-11ef-0a80-14e40013bea7",
+        "name": "ДоЭко Короб под гамбургер ECO BURGER M 100x100х60 крафт",
+        "price": 6.2,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/1091ae73-9d13-11ef-0a80-14e40013bea7_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/1091ae73-9d13-11ef-0a80-14e40013bea7_1.png"
+      },
+      {
+        "id": "12e1cdcb-b57f-11ef-0a80-1a9100288b97",
+        "name": "Короб под пиццу цельный гофрокартон 310х310 бурый без печати",
+        "price": 20,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/12e1cdcb-b57f-11ef-0a80-1a9100288b97_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/12e1cdcb-b57f-11ef-0a80-1a9100288b97_1.png"
+      },
+      {
+        "id": "1f057526-aa4a-11ef-0a80-1a7300239ca4",
+        "name": "Короб под пиццу цельный гофрокартон 310х310 белый без печати",
+        "price": 25,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/1f057526-aa4a-11ef-0a80-1a7300239ca4_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/1f057526-aa4a-11ef-0a80-1a7300239ca4_1.png"
+      },
+      {
+        "id": "2a985d2e-9d13-11ef-0a80-0162001409f1",
+        "name": "ДоЭко Короб под гамбургер ECO BURGER XL 112x112х112 крафт 55шт/уп",
+        "price": 13.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/2a985d2e-9d13-11ef-0a80-0162001409f1_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/2a985d2e-9d13-11ef-0a80-0162001409f1_1.png"
+      },
+      {
+        "id": "31a0c74b-9d4a-11ef-0a80-0e1200016786",
+        "name": "Контейнер Смарт ПАК 550мл +крышка 142х142х56",
+        "price": 33,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/31a0c74b-9d4a-11ef-0a80-0e1200016786_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/31a0c74b-9d4a-11ef-0a80-0e1200016786_1.png"
+      },
+      {
+        "id": "4515be8d-aa4e-11ef-0a80-11b50025edea",
+        "name": "Пакет бумажный пищевой 115х100 для фри жиростойкий белый 40гр",
+        "price": 0.9,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/4515be8d-aa4e-11ef-0a80-11b50025edea_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/4515be8d-aa4e-11ef-0a80-11b50025edea_1.png"
+      },
+      {
+        "id": "487e063c-9f59-11ef-0a80-0298007ca171",
+        "name": "Пакеты для гриля 25х30см 200шт\\уп",
+        "price": 13,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/487e063c-9f59-11ef-0a80-0298007ca171_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/487e063c-9f59-11ef-0a80-0298007ca171_1.png"
+      },
+      {
+        "id": "59a74ba2-aa4a-11ef-0a80-140b00255341",
+        "name": "Короб под пиццу цельный гофрокартон 330х330 белый без печати",
+        "price": 27,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/59a74ba2-aa4a-11ef-0a80-140b00255341_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/59a74ba2-aa4a-11ef-0a80-140b00255341_1.png"
+      },
+      {
+        "id": "820fcf02-9d13-11ef-0a80-050c00140ad5",
+        "name": "Короб для фри ECO FRY L 90х48х132 150гр",
+        "price": 5.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/820fcf02-9d13-11ef-0a80-050c00140ad5_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/820fcf02-9d13-11ef-0a80-050c00140ad5_1.png"
+      },
+      {
+        "id": "8317b1bc-aa4c-11ef-0a80-0d890024c4f8",
+        "name": "Короб-Стакан для картофеля фри малый желтый 34х62х85 80гр",
+        "price": 4.8,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/8317b1bc-aa4c-11ef-0a80-0d890024c4f8_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/8317b1bc-aa4c-11ef-0a80-0d890024c4f8_1.png"
+      },
+      {
+        "id": "9f317fb2-aa49-11ef-0a80-140b002547b3",
+        "name": "Лоток TRAY 550 Pure Kraft 139х139х42мм",
+        "price": 5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/9f317fb2-aa49-11ef-0a80-140b002547b3_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/9f317fb2-aa49-11ef-0a80-140b002547b3_1.png"
+      },
+      {
+        "id": "b0ac1687-2336-11f0-0a80-1095001ee0c3",
+        "name": "Бутербродница УК-20 /165*59*77/ Каштан",
+        "price": 12,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/b0ac1687-2336-11f0-0a80-1095001ee0c3_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/b0ac1687-2336-11f0-0a80-1095001ee0c3_1.png"
+      },
+      {
+        "id": "b44ac326-9d49-11ef-0a80-0c9d00017869",
+        "name": "Емкость РС-1",
+        "price": 12,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/b44ac326-9d49-11ef-0a80-0c9d00017869_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/b44ac326-9d49-11ef-0a80-0c9d00017869_1.png"
+      },
+      {
+        "id": "bec49006-aa4a-11ef-0a80-1a730023a7d8",
+        "name": "Короб под пиццу цельный гофрокартон 330х330 бурый без печати",
+        "price": 24,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/bec49006-aa4a-11ef-0a80-1a730023a7d8_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/bec49006-aa4a-11ef-0a80-1a730023a7d8_1.png"
+      },
+      {
+        "id": "bf26dc82-9d40-11ef-0a80-0bb50001181c",
+        "name": "Пакет под короб для пиццы 380х140х700 100шт/уп",
+        "price": 550,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/bf26dc82-9d40-11ef-0a80-0bb50001181c_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/bf26dc82-9d40-11ef-0a80-0bb50001181c_1.png"
+      },
+      {
+        "id": "c87ca053-0e06-11f0-0a80-03040029dcc7",
+        "name": "Короб под фри FRY M 110х54х111 OSQ",
+        "price": 5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/c87ca053-0e06-11f0-0a80-03040029dcc7_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/c87ca053-0e06-11f0-0a80-03040029dcc7_1.png"
+      },
+      {
+        "id": "db563b47-b08d-11ef-0a80-01f200bd1c76",
+        "name": "Короб ЛОДОЧКА 285х160х60 Белый",
+        "price": 26.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/db563b47-b08d-11ef-0a80-01f200bd1c76_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/db563b47-b08d-11ef-0a80-01f200bd1c76_1.png"
+      },
+      {
+        "id": "ec1ebf71-aa49-11ef-0a80-1a7300239980",
+        "name": "Короб под пиццу цельный гофрокартон 260х260 белый без печати",
+        "price": 18,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/ec1ebf71-aa49-11ef-0a80-1a7300239980_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/ec1ebf71-aa49-11ef-0a80-1a7300239980_1.png"
+      },
+      {
+        "id": "f6380ec9-9d12-11ef-0a80-07940013bbfd",
+        "name": "ДоЭко Короб под гамбургер ECO BURGER L 120x120х70 крафт",
+        "price": 10,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/f6380ec9-9d12-11ef-0a80-07940013bbfd_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/f6380ec9-9d12-11ef-0a80-07940013bbfd_1.png"
+      },
+      {
+        "id": "fb13cb92-c5ba-11ef-0a80-022b00114602",
+        "name": "PIT STOP Tray цвет Крафт",
+        "price": 2.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/fb13cb92-c5ba-11ef-0a80-022b00114602_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/fb13cb92-c5ba-11ef-0a80-022b00114602_1.png"
+      }
+    ]
+  },
+  {
+    "id": "d170cdb4-aa6f-11ef-0a80-09750028aa3f",
+    "name": "Трубочки для коктейлей",
+    "slug": "d170cdb4-aa6f-11ef-0a80-09750028aa3f",
+    "icon": "/icons/uploaded/1745535808026-4A892798-2D41-4B8A-A93F-C1E47069CD73.jpeg",
+    "products": [
+      {
+        "id": "03e1e7bc-10c4-11f0-0a80-1a5b0000d697",
+        "name": "Трубочки бум.197*8 Шоу-Бокс 150шт",
+        "price": 550,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/03e1e7bc-10c4-11f0-0a80-1a5b0000d697_1.png",
+          "https://apsnypack.s3.cloud.ru/products/03e1e7bc-10c4-11f0-0a80-1a5b0000d697_2.png",
+          "https://apsnypack.s3.cloud.ru/products/03e1e7bc-10c4-11f0-0a80-1a5b0000d697_3.png",
+          "https://apsnypack.s3.cloud.ru/products/03e1e7bc-10c4-11f0-0a80-1a5b0000d697_4.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/03e1e7bc-10c4-11f0-0a80-1a5b0000d697_1.png"
+      },
+      {
+        "id": "0dd2a91d-10c6-11f0-0a80-092100010e4a",
+        "name": "Трубочки бум. 140*6 Черный, Крафт; уп/150 шт.",
+        "price": 300,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/0dd2a91d-10c6-11f0-0a80-092100010e4a_1.png",
+          "https://apsnypack.s3.cloud.ru/products/0dd2a91d-10c6-11f0-0a80-092100010e4a_2.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/0dd2a91d-10c6-11f0-0a80-092100010e4a_1.png"
+      },
+      {
+        "id": "26349bfd-9dab-11ef-0a80-14e900089079",
+        "name": "Трубочки для коктейля в инд.бум.уп. 8х240 черная /250шт/уп",
+        "price": 280,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/26349bfd-9dab-11ef-0a80-14e900089079_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/26349bfd-9dab-11ef-0a80-14e900089079_1.png"
+      },
+      {
+        "id": "35949170-10c7-11f0-0a80-146400011604",
+        "name": "Трубочки бум.197*8 Шоу-Бокс мини  50шт",
+        "price": 220,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/35949170-10c7-11f0-0a80-146400011604_1.png",
+          "https://apsnypack.s3.cloud.ru/products/35949170-10c7-11f0-0a80-146400011604_2.png",
+          "https://apsnypack.s3.cloud.ru/products/35949170-10c7-11f0-0a80-146400011604_3.png",
+          "https://apsnypack.s3.cloud.ru/products/35949170-10c7-11f0-0a80-146400011604_4.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/35949170-10c7-11f0-0a80-146400011604_1.png"
+      },
+      {
+        "id": "4e98836a-9daa-11ef-0a80-118b00080f3a",
+        "name": "Трубочки для коктейля  5х125 черные МИНИ 400 шт в уп.",
+        "price": 160,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/4e98836a-9daa-11ef-0a80-118b00080f3a_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/4e98836a-9daa-11ef-0a80-118b00080f3a_1.png"
+      },
+      {
+        "id": "88fd4a62-9daa-11ef-0a80-0c9d0007e560",
+        "name": "Трубочки для коктейля  5х210 с изгибом черные /250шт/",
+        "price": 190,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/88fd4a62-9daa-11ef-0a80-0c9d0007e560_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/88fd4a62-9daa-11ef-0a80-0c9d0007e560_1.png"
+      },
+      {
+        "id": "93eb19fd-9dab-11ef-0a80-135200085f81",
+        "name": "Трубочки для коктейля в инд.уп. 12х210 прямая черная (250шт/уп)",
+        "price": 850,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/93eb19fd-9dab-11ef-0a80-135200085f81_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/93eb19fd-9dab-11ef-0a80-135200085f81_1.png"
+      },
+      {
+        "id": "b92b012a-9daa-11ef-0a80-118b00082216",
+        "name": "Трубочки для коктейля  8х240 черные МК /250шт/",
+        "price": 220,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/b92b012a-9daa-11ef-0a80-118b00082216_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/b92b012a-9daa-11ef-0a80-118b00082216_1.png"
+      },
+      {
+        "id": "d9194970-10c7-11f0-0a80-174800011374",
+        "name": "Бумажная трубочка",
+        "price": 1.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/d9194970-10c7-11f0-0a80-174800011374_1.png",
+          "https://apsnypack.s3.cloud.ru/products/d9194970-10c7-11f0-0a80-174800011374_10.png",
+          "https://apsnypack.s3.cloud.ru/products/d9194970-10c7-11f0-0a80-174800011374_2.png",
+          "https://apsnypack.s3.cloud.ru/products/d9194970-10c7-11f0-0a80-174800011374_3.png",
+          "https://apsnypack.s3.cloud.ru/products/d9194970-10c7-11f0-0a80-174800011374_4.png",
+          "https://apsnypack.s3.cloud.ru/products/d9194970-10c7-11f0-0a80-174800011374_5.png",
+          "https://apsnypack.s3.cloud.ru/products/d9194970-10c7-11f0-0a80-174800011374_6.png",
+          "https://apsnypack.s3.cloud.ru/products/d9194970-10c7-11f0-0a80-174800011374_7.png",
+          "https://apsnypack.s3.cloud.ru/products/d9194970-10c7-11f0-0a80-174800011374_8.png",
+          "https://apsnypack.s3.cloud.ru/products/d9194970-10c7-11f0-0a80-174800011374_9.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/d9194970-10c7-11f0-0a80-174800011374_1.png"
+      },
+      {
+        "id": "f50a2933-9daa-11ef-0a80-08db0007f7fe",
+        "name": "Трубочки для коктейля в инд.бум.уп. 5х210 прямая черная 250\\уп",
+        "price": 220,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/f50a2933-9daa-11ef-0a80-08db0007f7fe_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/f50a2933-9daa-11ef-0a80-08db0007f7fe_1.png"
+      }
+    ]
+  },
+  {
+    "id": "d1d26f26-1164-11f0-0a80-14640012470b",
+    "name": "Трехслойные бумажные стаканы",
+    "slug": "d1d26f26-1164-11f0-0a80-14640012470b",
+    "icon": "/icons/uploaded/1745535834595-8CF8C0EF-BE47-4E38-96C6-1130BE7C5416.jpeg",
+    "products": [
+      {
+        "id": "02e61d58-116f-11f0-0a80-0b4000129887",
+        "name": "Стакан 300 мл бум. d=90 мм гофрированный черный Волна",
+        "price": 0,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/02e61d58-116f-11f0-0a80-0b4000129887_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/02e61d58-116f-11f0-0a80-0b4000129887_1.png"
+      },
+      {
+        "id": "0674c646-116d-11f0-0a80-146400130fe9",
+        "name": "Стакан 250 мл бум. d=80 мм гофрированный черный Волна",
+        "price": 0,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/0674c646-116d-11f0-0a80-146400130fe9_1.png",
+          "https://apsnypack.s3.cloud.ru/products/0674c646-116d-11f0-0a80-146400130fe9_2.png",
+          "https://apsnypack.s3.cloud.ru/products/0674c646-116d-11f0-0a80-146400130fe9_3.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/0674c646-116d-11f0-0a80-146400130fe9_1.png"
+      },
+      {
+        "id": "1588c8a8-1166-11f0-0a80-03b50011de9e",
+        "name": "Стакан 250 мл бум. d=80 мм гофрированный Крафт",
+        "price": 0,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/1588c8a8-1166-11f0-0a80-03b50011de9e_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/1588c8a8-1166-11f0-0a80-03b50011de9e_1.png"
+      },
+      {
+        "id": "22fb3005-1174-11f0-0a80-07f10012c883",
+        "name": "Стакан 250 мл бум. d=80 мм гофрированный серый Волна",
+        "price": 0,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/22fb3005-1174-11f0-0a80-07f10012c883_1.png",
+          "https://apsnypack.s3.cloud.ru/products/22fb3005-1174-11f0-0a80-07f10012c883_2.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/22fb3005-1174-11f0-0a80-07f10012c883_1.png"
+      },
+      {
+        "id": "2cf7e919-116d-11f0-0a80-0b4000127055",
+        "name": "Стакан 300 мл бум. d=90 мм гофрированный Black",
+        "price": 0,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/2cf7e919-116d-11f0-0a80-0b4000127055_1.png",
+          "https://apsnypack.s3.cloud.ru/products/2cf7e919-116d-11f0-0a80-0b4000127055_2.png",
+          "https://apsnypack.s3.cloud.ru/products/2cf7e919-116d-11f0-0a80-0b4000127055_3.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/2cf7e919-116d-11f0-0a80-0b4000127055_1.png"
+      },
+      {
+        "id": "2f267ad1-1201-11f0-0a80-08fb00174668",
+        "name": "Стакан 360 мл бум. d=80 мм гофрированный черный 3D",
+        "price": 12.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/2f267ad1-1201-11f0-0a80-08fb00174668_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/2f267ad1-1201-11f0-0a80-08fb00174668_1.png"
+      },
+      {
+        "id": "37694b9d-1182-11f0-0a80-1a5b0013226d",
+        "name": "Стакан 250 мл бум. d=80 мм гофрированный Тиффани Волна",
+        "price": 0,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/37694b9d-1182-11f0-0a80-1a5b0013226d_1.png",
+          "https://apsnypack.s3.cloud.ru/products/37694b9d-1182-11f0-0a80-1a5b0013226d_2.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/37694b9d-1182-11f0-0a80-1a5b0013226d_1.png"
+      },
+      {
+        "id": "3bfa8433-1170-11f0-0a80-012a0011f0fd",
+        "name": "Стакан 400 мл бум. d=90 мм гофрированный Клетка",
+        "price": 0,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/3bfa8433-1170-11f0-0a80-012a0011f0fd_1.png",
+          "https://apsnypack.s3.cloud.ru/products/3bfa8433-1170-11f0-0a80-012a0011f0fd_2.png",
+          "https://apsnypack.s3.cloud.ru/products/3bfa8433-1170-11f0-0a80-012a0011f0fd_3.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/3bfa8433-1170-11f0-0a80-012a0011f0fd_1.png"
+      },
+      {
+        "id": "46823fdd-1172-11f0-0a80-0e8d0012e928",
+        "name": "Стакан 250 мл бум. d=80 мм гофрированный зеленый 3D",
+        "price": 0,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/46823fdd-1172-11f0-0a80-0e8d0012e928_1.png",
+          "https://apsnypack.s3.cloud.ru/products/46823fdd-1172-11f0-0a80-0e8d0012e928_2.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/46823fdd-1172-11f0-0a80-0e8d0012e928_1.png"
+      },
+      {
+        "id": "4dfcecea-116b-11f0-0a80-07f10012269e",
+        "name": "Стакан 250 мл бум. d=80 мм гофрированный Клетка",
+        "price": 0,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/4dfcecea-116b-11f0-0a80-07f10012269e_1.png",
+          "https://apsnypack.s3.cloud.ru/products/4dfcecea-116b-11f0-0a80-07f10012269e_2.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/4dfcecea-116b-11f0-0a80-07f10012269e_1.png"
+      },
+      {
+        "id": "62f84b06-116f-11f0-0a80-174800131c6c",
+        "name": "Стакан 400 мл бум. d=90 мм гофрированный Бордо",
+        "price": 0,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/62f84b06-116f-11f0-0a80-174800131c6c_1.png",
+          "https://apsnypack.s3.cloud.ru/products/62f84b06-116f-11f0-0a80-174800131c6c_2.png",
+          "https://apsnypack.s3.cloud.ru/products/62f84b06-116f-11f0-0a80-174800131c6c_3.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/62f84b06-116f-11f0-0a80-174800131c6c_1.png"
+      },
+      {
+        "id": "6322f31f-116b-11f0-0a80-03b5001252e7",
+        "name": "Стакан 250 мл бум. d=80 мм гофрированный Крафт",
+        "price": 0,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/6322f31f-116b-11f0-0a80-03b5001252e7_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/6322f31f-116b-11f0-0a80-03b5001252e7_1.png"
+      },
+      {
+        "id": "642615a9-116d-11f0-0a80-012a0011bb43",
+        "name": "Стакан 300 мл бум. d=90 мм гофрированный Бордо",
+        "price": 0,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/642615a9-116d-11f0-0a80-012a0011bb43_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/642615a9-116d-11f0-0a80-012a0011bb43_1.png"
+      },
+      {
+        "id": "6620fb00-1170-11f0-0a80-174800132d9f",
+        "name": "Стакан 400 мл бум.d=90 мм гофрированный красный Волна",
+        "price": 0,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/6620fb00-1170-11f0-0a80-174800132d9f_1.png",
+          "https://apsnypack.s3.cloud.ru/products/6620fb00-1170-11f0-0a80-174800132d9f_2.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/6620fb00-1170-11f0-0a80-174800132d9f_1.png"
+      },
+      {
+        "id": "6721576d-116c-11f0-0a80-092100129b5e",
+        "name": "Стакан 250 мл бум. d=80 мм гофрированный красный Волна",
+        "price": 0,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/6721576d-116c-11f0-0a80-092100129b5e_1.png",
+          "https://apsnypack.s3.cloud.ru/products/6721576d-116c-11f0-0a80-092100129b5e_2.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/6721576d-116c-11f0-0a80-092100129b5e_1.png"
+      },
+      {
+        "id": "7dac2bd8-116e-11f0-0a80-110800120fbf",
+        "name": "Стакан 300 мл бум. d=90 мм гофрированный красный Волна",
+        "price": 14,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/7dac2bd8-116e-11f0-0a80-110800120fbf_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/7dac2bd8-116e-11f0-0a80-110800120fbf_1.png"
+      },
+      {
+        "id": "9a17f4d3-116d-11f0-0a80-06fc00130dc0",
+        "name": "Стакан 300 мл бум. d=90 мм гофрированный  двухсторонний крафт",
+        "price": 0,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/9a17f4d3-116d-11f0-0a80-06fc00130dc0_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/9a17f4d3-116d-11f0-0a80-06fc00130dc0_1.png"
+      },
+      {
+        "id": "9c26e8fd-116f-11f0-0a80-06fc00132ab9",
+        "name": "Стакан 400 мл бум. d=90 мм гофрированный двухсторонний Краф",
+        "price": 0,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/9c26e8fd-116f-11f0-0a80-06fc00132ab9_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/9c26e8fd-116f-11f0-0a80-06fc00132ab9_1.png"
+      },
+      {
+        "id": "a89c2425-1182-11f0-0a80-06fc0014422d",
+        "name": "Стакан 300 мл бум.d=90 мм гофрированный Тиффани Волна",
+        "price": 0,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/a89c2425-1182-11f0-0a80-06fc0014422d_1.png",
+          "https://apsnypack.s3.cloud.ru/products/a89c2425-1182-11f0-0a80-06fc0014422d_2.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/a89c2425-1182-11f0-0a80-06fc0014422d_1.png"
+      },
+      {
+        "id": "bc282f9c-1173-11f0-0a80-1a5b00128538",
+        "name": "Стакан 250 мл бум. d=80 мм гофрированный Лаванда Волна",
+        "price": 0,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/bc282f9c-1173-11f0-0a80-1a5b00128538_1.png",
+          "https://apsnypack.s3.cloud.ru/products/bc282f9c-1173-11f0-0a80-1a5b00128538_2.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/bc282f9c-1173-11f0-0a80-1a5b00128538_1.png"
+      },
+      {
+        "id": "bd5286aa-1170-11f0-0a80-16570012f2e2",
+        "name": "Стакан 400 мл бум. d=90 мм гофрированный Крафт",
+        "price": 0,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/bd5286aa-1170-11f0-0a80-16570012f2e2_1.png",
+          "https://apsnypack.s3.cloud.ru/products/bd5286aa-1170-11f0-0a80-16570012f2e2_2.png",
+          "https://apsnypack.s3.cloud.ru/products/bd5286aa-1170-11f0-0a80-16570012f2e2_3.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/bd5286aa-1170-11f0-0a80-16570012f2e2_1.png"
+      },
+      {
+        "id": "c83bf57d-1172-11f0-0a80-0921001325e4",
+        "name": "Стакан 360 мл бум. d=80 мм гофрированный зеленый 3D",
+        "price": 12.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/c83bf57d-1172-11f0-0a80-0921001325e4_1.png",
+          "https://apsnypack.s3.cloud.ru/products/c83bf57d-1172-11f0-0a80-0921001325e4_2.png",
+          "https://apsnypack.s3.cloud.ru/products/c83bf57d-1172-11f0-0a80-0921001325e4_3.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/c83bf57d-1172-11f0-0a80-0921001325e4_1.png"
+      },
+      {
+        "id": "c8b67e84-1165-11f0-0a80-0f430011fb1c",
+        "name": "Стакан 250 мл бум. d=80 мм гофрированный Бордо",
+        "price": 0,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/c8b67e84-1165-11f0-0a80-0f430011fb1c_1.png",
+          "https://apsnypack.s3.cloud.ru/products/c8b67e84-1165-11f0-0a80-0f430011fb1c_2.png",
+          "https://apsnypack.s3.cloud.ru/products/c8b67e84-1165-11f0-0a80-0f430011fb1c_3.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/c8b67e84-1165-11f0-0a80-0f430011fb1c_1.png"
+      },
+      {
+        "id": "ca1902ae-1182-11f0-0a80-0f430013eafb",
+        "name": "Стакан 400 мл бум. d=90 мм гофрированный серый Волна",
+        "price": 0,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/ca1902ae-1182-11f0-0a80-0f430013eafb_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/ca1902ae-1182-11f0-0a80-0f430013eafb_1.png"
+      },
+      {
+        "id": "e35d56e0-1173-11f0-0a80-0c53001372af",
+        "name": "Стакан 250 мл бум.d=80 мм гофрированный Пыльная роза Волна",
+        "price": 0,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/e35d56e0-1173-11f0-0a80-0c53001372af_1.png",
+          "https://apsnypack.s3.cloud.ru/products/e35d56e0-1173-11f0-0a80-0c53001372af_2.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/e35d56e0-1173-11f0-0a80-0c53001372af_1.png"
+      },
+      {
+        "id": "eba44516-116d-11f0-0a80-06fc001311f4",
+        "name": "Стакан 300 мл бум. d=90 мм гофрированный Клетка",
+        "price": 0,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/eba44516-116d-11f0-0a80-06fc001311f4_1.png",
+          "https://apsnypack.s3.cloud.ru/products/eba44516-116d-11f0-0a80-06fc001311f4_2.png",
+          "https://apsnypack.s3.cloud.ru/products/eba44516-116d-11f0-0a80-06fc001311f4_3.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/eba44516-116d-11f0-0a80-06fc001311f4_1.png"
+      },
+      {
+        "id": "ee112939-116e-11f0-0a80-16570012d43b",
+        "name": "Стакан 300 мл бум. d=90 мм гофрированный Крафт",
+        "price": 0,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/ee112939-116e-11f0-0a80-16570012d43b_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/ee112939-116e-11f0-0a80-16570012d43b_1.png"
+      },
+      {
+        "id": "fba2924d-1170-11f0-0a80-0b400012b333",
+        "name": "Стакан 400 мл бум.d=90 мм гофрированный черный Волна",
+        "price": 0,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/fba2924d-1170-11f0-0a80-0b400012b333_1.png",
+          "https://apsnypack.s3.cloud.ru/products/fba2924d-1170-11f0-0a80-0b400012b333_2.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/fba2924d-1170-11f0-0a80-0b400012b333_1.png"
+      }
+    ]
+  },
+  {
+    "id": "d7e4ef8d-fc4a-11ef-0a80-03ca001ad4b9",
+    "name": "Коробки для лапши WOK",
+    "slug": "d7e4ef8d-fc4a-11ef-0a80-03ca001ad4b9",
+    "icon": "/icons/uploaded/1745533933671-orig__2_.webp",
+    "products": [
+      {
+        "id": "2f64b43e-9d4b-11ef-0a80-135200018804",
+        "name": "Короб бумажный China Pack 750мл",
+        "price": 32.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/2f64b43e-9d4b-11ef-0a80-135200018804_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/2f64b43e-9d4b-11ef-0a80-135200018804_1.png"
+      },
+      {
+        "id": "78e78fc4-9d4b-11ef-0a80-08db000184ba",
+        "name": "Короб бумажный для лапши  China Pack Китай   450мл",
+        "price": 16.9,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/78e78fc4-9d4b-11ef-0a80-08db000184ba_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/78e78fc4-9d4b-11ef-0a80-08db000184ba_1.png"
+      }
+    ]
+  },
+  {
+    "id": "df402d62-f153-11ef-0a80-05e4001b3e4e",
+    "name": "Головные уборы",
+    "slug": "df402d62-f153-11ef-0a80-05e4001b3e4e",
+    "icon": "/icons/uploaded/1745535963432-DE6AE9BE-B4CF-4ACA-92E0-4C1E44BA0CBC.png",
+    "products": [
+      {
+        "id": "858b8c9a-c5bb-11ef-0a80-170a001066e4",
+        "name": "Шапочка-берет нетканная, белая 100шт/уп",
+        "price": 280,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/858b8c9a-c5bb-11ef-0a80-170a001066e4_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/858b8c9a-c5bb-11ef-0a80-170a001066e4_1.png"
+      }
+    ]
+  },
+  {
+    "id": "e2b27ded-fc4b-11ef-0a80-1ab3001ae46a",
+    "name": "Пакеты с плоским дном",
+    "slug": "e2b27ded-fc4b-11ef-0a80-1ab3001ae46a",
+    "icon": "/icons/uploaded/1745535982003-F9E0FC05-F689-4D59-B2F2-801EB40E37F7.jpeg",
+    "products": [
+      {
+        "id": "0a78ffff-f75b-11ef-0a80-1420003619cd",
+        "name": "Пакет крафт без ручки 220*120*290",
+        "price": 4.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/0a78ffff-f75b-11ef-0a80-1420003619cd_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/0a78ffff-f75b-11ef-0a80-1420003619cd_1.png"
+      },
+      {
+        "id": "c96ff63e-f133-11ef-0a80-1413001a8a95",
+        "name": "Пакет крафт без ручки б/п 240х140х400 крафт бурый 70г",
+        "price": 8,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/c96ff63e-f133-11ef-0a80-1413001a8a95_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/c96ff63e-f133-11ef-0a80-1413001a8a95_1.png"
+      }
+    ]
+  },
+  {
+    "id": "eac65de8-9d3a-11ef-0a80-0c9d0000f0b8",
+    "name": "Кондитерская упаковка",
+    "slug": "eac65de8-9d3a-11ef-0a80-0c9d0000f0b8",
+    "icon": "/icons/uploaded/1745536004316-F4DBEA1F-3F50-4CF3-B9C7-7F60019C3586.jpeg",
+    "products": [
+      {
+        "id": "3f2fb9dc-bc50-11ef-0a80-04540025b6d4",
+        "name": "Пакет Дой-пак 135*225 с замком",
+        "price": 16,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/3f2fb9dc-bc50-11ef-0a80-04540025b6d4_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/3f2fb9dc-bc50-11ef-0a80-04540025b6d4_1.png"
+      },
+      {
+        "id": "4766e795-9d3f-11ef-0a80-14e9000123fc",
+        "name": "Упаковка для торта Т-370",
+        "price": 110,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/4766e795-9d3f-11ef-0a80-14e9000123fc_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/4766e795-9d3f-11ef-0a80-14e9000123fc_1.png"
+      },
+      {
+        "id": "50f18917-9d3e-11ef-0a80-08db00012bb4",
+        "name": "Тарталетка OV7 овал 34х136х26 белая 1000шт",
+        "price": 1700,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/50f18917-9d3e-11ef-0a80-08db00012bb4_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/50f18917-9d3e-11ef-0a80-08db00012bb4_1.png"
+      },
+      {
+        "id": "723d0e56-9d3e-11ef-0a80-14e900011de7",
+        "name": "Тарталетка бум круглая белая D 50 H 30 8уп*1000шт.",
+        "price": 650,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/723d0e56-9d3e-11ef-0a80-14e900011de7_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/723d0e56-9d3e-11ef-0a80-14e900011de7_1.png"
+      },
+      {
+        "id": "7d2b9ee2-9d3b-11ef-0a80-090a00010474",
+        "name": "ДоЭко Подложка 1,5мм  D-240 золото/жемчуг",
+        "price": 31.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/7d2b9ee2-9d3b-11ef-0a80-090a00010474_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/7d2b9ee2-9d3b-11ef-0a80-090a00010474_1.png"
+      },
+      {
+        "id": "8805213b-9d3f-11ef-0a80-08db00013940",
+        "name": "Упаковка для торта Т-214",
+        "price": 46,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/8805213b-9d3f-11ef-0a80-08db00013940_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/8805213b-9d3f-11ef-0a80-08db00013940_1.png"
+      },
+      {
+        "id": "9fe0c074-9d3e-11ef-0a80-14e900011fd0",
+        "name": "Упаковка для торта Т-270",
+        "price": 98,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/9fe0c074-9d3e-11ef-0a80-14e900011fd0_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/9fe0c074-9d3e-11ef-0a80-14e900011fd0_1.png"
+      },
+      {
+        "id": "b2fcffb3-9d3f-11ef-0a80-0e1200011de8",
+        "name": "Упаковка для торта Т-450",
+        "price": 157,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/b2fcffb3-9d3f-11ef-0a80-0e1200011de8_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/b2fcffb3-9d3f-11ef-0a80-0e1200011de8_1.png"
+      },
+      {
+        "id": "cfa57967-9d3b-11ef-0a80-13520000dac7",
+        "name": "ДоЭко Подложка 1,5мм д260мм GWD золото/жемчуг",
+        "price": 32.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/cfa57967-9d3b-11ef-0a80-13520000dac7_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/cfa57967-9d3b-11ef-0a80-13520000dac7_1.png"
+      }
+    ]
+  },
+  {
+    "id": "ee94c557-9d04-11ef-0a80-0dbe00116cae",
+    "name": "Бумага и фольга для выпечки",
+    "slug": "ee94c557-9d04-11ef-0a80-0dbe00116cae",
+    "icon": "/icons/uploaded/1745536031966-64114422-3B36-41AB-B866-7B2CE4BB29B9.jpeg",
+    "products": [
+      {
+        "id": "0695dc9f-fd1b-11ef-0a80-117a00226241",
+        "name": "Фольга алюминиевая ЭКО  29см х 50м (11мкм)",
+        "price": 420,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/0695dc9f-fd1b-11ef-0a80-117a00226241_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/0695dc9f-fd1b-11ef-0a80-117a00226241_1.png"
+      },
+      {
+        "id": "14fd04a8-9d42-11ef-0a80-079d00013f98",
+        "name": "Форма бум. ТЮЛЬПАН",
+        "price": 3,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/14fd04a8-9d42-11ef-0a80-079d00013f98_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/14fd04a8-9d42-11ef-0a80-079d00013f98_1.png"
+      },
+      {
+        "id": "2906efad-9d06-11ef-0a80-016200113b50",
+        "name": "Бумага для выпечки Силикон. Горница  38*50",
+        "price": 580,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/2906efad-9d06-11ef-0a80-016200113b50_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/2906efad-9d06-11ef-0a80-016200113b50_1.png"
+      },
+      {
+        "id": "7a76bc2a-9d05-11ef-0a80-18860010e7c1",
+        "name": "Бумага для выпечки Силикон. ГУРМАНОФ  38*100",
+        "price": 870,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/7a76bc2a-9d05-11ef-0a80-18860010e7c1_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/7a76bc2a-9d05-11ef-0a80-18860010e7c1_1.png"
+      },
+      {
+        "id": "a28ab1ea-9d42-11ef-0a80-090a00015d2e",
+        "name": "Фольга Горница 440мм х 80м 11 мкр  Прочная",
+        "price": 950,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/a28ab1ea-9d42-11ef-0a80-090a00015d2e_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/a28ab1ea-9d42-11ef-0a80-090a00015d2e_1.png"
+      },
+      {
+        "id": "b5fbe789-9d05-11ef-0a80-0c8b00116689",
+        "name": "Бумага для выпечки 38х100м коричневая",
+        "price": 390,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/b5fbe789-9d05-11ef-0a80-0c8b00116689_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/b5fbe789-9d05-11ef-0a80-0c8b00116689_1.png"
+      },
+      {
+        "id": "c1e85af4-9d42-11ef-0a80-08db00015916",
+        "name": "Фольга алюминеевая Горница 30х80 11мкр Прочная",
+        "price": 800,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/c1e85af4-9d42-11ef-0a80-08db00015916_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/c1e85af4-9d42-11ef-0a80-08db00015916_1.png"
+      }
+    ]
+  },
+  {
+    "id": "ef136d9f-1163-11f0-0a80-174800121d8d",
+    "name": "Двухслойные бумажные стаканы",
+    "slug": "ef136d9f-1163-11f0-0a80-174800121d8d",
+    "icon": "/icons/uploaded/1745536054875-EAA629CF-32FC-4306-8629-D704BE958BC9.jpeg",
+    "products": [
+      {
+        "id": "25aa4851-9cff-11ef-0a80-050c000fee0d",
+        "name": "Бум.стакан 0,250л Белый 2-х слойн",
+        "price": 7.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/25aa4851-9cff-11ef-0a80-050c000fee0d_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/25aa4851-9cff-11ef-0a80-050c000fee0d_1.png"
+      },
+      {
+        "id": "2c0b566b-1185-11f0-0a80-012a0012fa74",
+        "name": "Стакан бум. 2сл 400мл d=90мм пастель персик",
+        "price": 0,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/2c0b566b-1185-11f0-0a80-012a0012fa74_1.png",
+          "https://apsnypack.s3.cloud.ru/products/2c0b566b-1185-11f0-0a80-012a0012fa74_2.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/2c0b566b-1185-11f0-0a80-012a0012fa74_1.png"
+      },
+      {
+        "id": "33f1099d-0c91-11f0-0a80-1899003aa079",
+        "name": "Стакан бум.350 мл двухслойный крафт",
+        "price": 10,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/33f1099d-0c91-11f0-0a80-1899003aa079_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/33f1099d-0c91-11f0-0a80-1899003aa079_1.png"
+      },
+      {
+        "id": "7263cc5f-1184-11f0-0a80-0b400013af54",
+        "name": "Стакан бум. 2сл 250мл d=80мм пастель пудра",
+        "price": 0,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/7263cc5f-1184-11f0-0a80-0b400013af54_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/7263cc5f-1184-11f0-0a80-0b400013af54_1.png"
+      },
+      {
+        "id": "77733f81-d5e1-11ef-0a80-03bf001bcc3f",
+        "name": "Бум.Стакан 0,250л 80мм  Крафт 2-х слойн.  24шт/уп(ПОД ЗАКАЗ)",
+        "price": 7.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/77733f81-d5e1-11ef-0a80-03bf001bcc3f_1.png",
+          "https://apsnypack.s3.cloud.ru/products/77733f81-d5e1-11ef-0a80-03bf001bcc3f_2.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/77733f81-d5e1-11ef-0a80-03bf001bcc3f_1.png"
+      },
+      {
+        "id": "7833ed8c-9d00-11ef-0a80-0794000fe21a",
+        "name": "Бум.стакан 0,350л Черный 2-х слойн",
+        "price": 9.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/7833ed8c-9d00-11ef-0a80-0794000fe21a_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/7833ed8c-9d00-11ef-0a80-0794000fe21a_1.png"
+      },
+      {
+        "id": "b3a6dc6b-9d00-11ef-0a80-06ad000f7106",
+        "name": "Бум.стакан 0,350л Белый 2-х слойн",
+        "price": 9.5,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/b3a6dc6b-9d00-11ef-0a80-06ad000f7106_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/b3a6dc6b-9d00-11ef-0a80-06ad000f7106_1.png"
+      },
+      {
+        "id": "c4ab8dc6-1184-11f0-0a80-1a5b001332fa",
+        "name": "Стакан бум. 2сл 400мл d=90мм Красный",
+        "price": 0,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/c4ab8dc6-1184-11f0-0a80-1a5b001332fa_1.png",
+          "https://apsnypack.s3.cloud.ru/products/c4ab8dc6-1184-11f0-0a80-1a5b001332fa_2.png",
+          "https://apsnypack.s3.cloud.ru/products/c4ab8dc6-1184-11f0-0a80-1a5b001332fa_3.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/c4ab8dc6-1184-11f0-0a80-1a5b001332fa_1.png"
+      },
+      {
+        "id": "f0364d6d-1183-11f0-0a80-0f430013f349",
+        "name": "Стакан бум. 2сл 250мл d=80мм пастель салатовый",
+        "price": 0,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/f0364d6d-1183-11f0-0a80-0f430013f349_1.png",
+          "https://apsnypack.s3.cloud.ru/products/f0364d6d-1183-11f0-0a80-0f430013f349_2.png",
+          "https://apsnypack.s3.cloud.ru/products/f0364d6d-1183-11f0-0a80-0f430013f349_3.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/f0364d6d-1183-11f0-0a80-0f430013f349_1.png"
+      },
+      {
+        "id": "f18515a7-1184-11f0-0a80-1a5b001333f1",
+        "name": "Стакан бум. 2сл 400мл d=90мм пастель персик",
+        "price": 0,
+        "images": [
+          "https://apsnypack.s3.cloud.ru/products/f18515a7-1184-11f0-0a80-1a5b001333f1_1.png"
+        ],
+        "imageUrl": "https://apsnypack.s3.cloud.ru/products/f18515a7-1184-11f0-0a80-1a5b001333f1_1.png"
+      }
+    ]
+  }
+]

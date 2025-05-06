@@ -60,11 +60,13 @@ export default function GroupPhotoUploader() {
         {groups.map(g => (
           <div key={g.id} className="flex flex-col items-center bg-gray-50 p-3 rounded shadow-sm mb-4">
             <div className="relative w-20 h-20 mb-2">
-              <img
-                src={g.image || "/category-placeholder.svg"}
-                alt={g.name}
-                className="w-20 h-20 object-contain rounded border bg-white"
-              />
+              {g.image && (
+                <img
+                  src={g.image}
+                  alt={g.name}
+                  className="w-20 h-20 object-contain rounded border bg-white"
+                />
+              )}
               {uploading === g.id && (
                 <div className="absolute inset-0 bg-white/70 flex items-center justify-center text-gray-600 text-xs">Загрузка...</div>
               )}

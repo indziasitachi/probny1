@@ -8,9 +8,13 @@ import CategorySliderMobile from "./CategorySliderMobile";
 export default function Home() {
   const [products, setProducts] = useState([]);
   useEffect(() => {
-    fetch('/api/products')
+    fetch('/products-frontend.json')
       .then(r => r.json())
-      .then(setProducts);
+      .then((groups) => {
+        // Собираем все товары из всех групп в один массив
+        const allProducts = groups.flatMap(group => group.products);
+        setProducts(allProducts);
+      });
   }, []);
   return (
     <main className="p-4 md:p-8 max-w-5xl mx-auto flex flex-col" style={{ gap: '8px' }}>

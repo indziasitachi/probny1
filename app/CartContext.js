@@ -37,8 +37,30 @@ export function CartProvider({ children }) {
   // Получить общее количество товаров в корзине
   const cartCount = cart.reduce((sum, item) => sum + item.qty, 0);
 
+  // Увеличить количество товара
+  const increaseQty = (id) => {
+    setCart((prev) => prev.map(item => item.id === id ? { ...item, qty: item.qty + 1 } : item));
+  };
+
+  // Уменьшить количество товара (и удалить, если qty=1)
+  const decreaseQty = (id) => {
+    setCart((prev) => prev.flatMap(item => {
+      if (item.id === id) {
+        if (item.qty > 1) return { ...item, qty: item.qty - 1 };
+        // Если qty=1, удаляем товар
+        return [];
+      }
+      return item;
+    }));
+  };
+
+  // Удалить товар из корзины
+  const removeFromCart = (id) => {
+    setCart((prev) => prev.filter(item => item.id !== id));
+  };
+
   return (
-    <CartContext.Provider value={{ cart, addToCart, cartCount }}>
+    <CartContext.Provider value={{ cart, addToCart, cartCount, increaseQty, decreaseQty, removeFromCart }}>
       {children}
     </CartContext.Provider>
   );

@@ -2,12 +2,6 @@
 import React, { useState } from 'react';
 import { useCart } from "./CartContext";
 import { useFavorites } from "./FavoritesContext";
-import imageMap from '../cloudru-images-map.json';
-
-function getCloudImage(productId) {
-  const found = imageMap.find(item => item.productId === productId);
-  return found ? found.imageUrl : null;
-}
 
 export default function ProductCard({ product }) {
   const [activeIndex, setActiveIndex] = useState(0);
@@ -17,21 +11,18 @@ export default function ProductCard({ product }) {
   const isInCart = cart && cart.some(item => item.id === product.id);
 
   let images = [];
-  const cloudImage = getCloudImage(product.id);
-  if (cloudImage) {
-    images = [cloudImage];
+  if (Array.isArray(product.images) && product.images.length > 0) {
+    images = product.images;
+  } else if (product.imageUrl) {
+    images = [product.imageUrl];
   } else if (typeof product.image === 'string') {
     images = [product.image];
   } else if (typeof product.picture === 'string') {
     images = [product.picture];
   }
   const validImages = images.length > 0
-    ? images.map(img =>
-      (typeof img === 'string' && img.startsWith('https://apsnypack.s3.cloud.ru/'))
-        ? img
-        : '/placeholder.svg'
-    )
-    : ["/placeholder.svg"];
+    ? images.filter(img => typeof img === 'string' && (img.startsWith('https://apsnypack.s3.cloud.ru/') || img.startsWith('/images/') || img.startsWith('http')))
+    : [];
 
   const showPrev = () => setActiveIndex(i => (i - 1 + validImages.length) % validImages.length);
   const showNext = () => setActiveIndex(i => (i + 1) % validImages.length);
@@ -96,13 +87,15 @@ export default function ProductCard({ product }) {
         onTouchMove={onTouchMove}
         onTouchEnd={onTouchEnd}
       >
-        <img
-          src={validImages[activeIndex]}
-          alt={product.name}
-          className="object-contain w-full h-full transition-transform duration-200 group-hover:scale-105"
-          loading="lazy"
-          onError={e => (e.target.src = "/placeholder.svg")}
-        />
+        {validImages[activeIndex] && (
+          <img
+            src={validImages[activeIndex]}
+            alt={product.name}
+            className="object-contain w-full h-full transition-transform duration-200 group-hover:scale-105"
+            loading="lazy"
+            onError={e => (e.target.style.display = 'none')}
+          />
+        )}
         {validImages.length > 1 && (
           <div className="absolute bottom-2 left-1/2 -translate-x-1/2 flex gap-1">
             {validImages.map((_, idx) => (
@@ -111,6 +104,20 @@ export default function ProductCard({ product }) {
           </div>
         )}
       </div>
+      {/* Галерея всех фото */}
+      {validImages.length > 1 && (
+        <div className="flex gap-2 mb-2 flex-wrap justify-center">
+          {validImages.map((img, idx) => (
+            <img
+              key={idx}
+              src={img}
+              alt={`Фото товара ${idx + 1}`}
+              className={`w-12 h-12 object-contain rounded border border-gray-200 bg-white shadow cursor-pointer ${activeIndex === idx ? 'ring-2 ring-blue-500' : ''}`}
+              onClick={() => setActiveIndex(idx)}
+            />
+          ))}
+        </div>
+      )}
       <div className="flex-1 flex flex-col justify-end px-2 pb-3">
         <div className="font-semibold text-base text-gray-900 text-center mb-1 line-clamp-2 min-h-[40px]">{product.name}</div>
         <div className="text-green-600 font-bold text-base text-center">

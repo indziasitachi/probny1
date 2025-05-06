@@ -2,9 +2,7 @@
   {
     "id": "01988fa6-9e74-11ef-0a80-06b200194775",
     "name": "Емкость КР-7   /195*115*65/ 400шт/кор.  (Комус РК-21  400шт/кор)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/ca8096e3-dfbd-4904-a6cd-23479f5c2bfa?miniature=true"
-    ],
+    "images": [],
     "price": 13.5,
     "productFolder": {
       "id": "b099c30a-9d48-11ef-0a80-06b200013c98"
@@ -13,9 +11,7 @@
   {
     "id": "02d04f3e-9cfd-11ef-0a80-0902000ee3c3",
     "name": "Бум. стакан 0,165 Белый 50шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/30a36c6c-9851-4e0a-b518-906bb282884a?miniature=true"
-    ],
+    "images": [],
     "price": 3,
     "productFolder": {
       "id": "6905abd5-1160-11f0-0a80-1108001094b4"
@@ -24,9 +20,7 @@
   {
     "id": "02e61d58-116f-11f0-0a80-0b4000129887",
     "name": "Стакан 300 мл бум. d=90 мм гофрированный черный Волна",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/bdbf51bb-a56e-4951-8d2a-5514ca575e39?miniature=true"
-    ],
+    "images": [],
     "price": 0,
     "productFolder": {
       "id": "d1d26f26-1164-11f0-0a80-14640012470b"
@@ -35,9 +29,7 @@
   {
     "id": "039db38a-9d0e-11ef-0a80-01620012f9a0",
     "name": "Виниловые перчатки:Бел.прозр.размер( L)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/c997e56b-3e17-4350-a537-2d558d5438c6?miniature=true"
-    ],
+    "images": [],
     "price": 380,
     "productFolder": {
       "id": "c71b4cd3-9d0c-11ef-0a80-0dbe00131ace"
@@ -46,12 +38,7 @@
   {
     "id": "03e1e7bc-10c4-11f0-0a80-1a5b0000d697",
     "name": "Трубочки бум.197*8 Шоу-Бокс 150шт",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/e6d93b1f-d0cd-48f5-9e93-45517dc988ec?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/abd4be6b-8988-47c2-83c2-0d3df9185448?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/dbcdf33a-f1bc-41ce-9b85-2c9c52ecb8c3?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/8d6c9ef2-9135-4d97-9cd9-24df83a4f10f?miniature=true"
-    ],
+    "images": [],
     "price": 550,
     "productFolder": {
       "id": "d170cdb4-aa6f-11ef-0a80-09750028aa3f"
@@ -60,9 +47,7 @@
   {
     "id": "04bef23e-9dac-11ef-0a80-14e90008c9b8",
     "name": "Соусница 30мл  с ВЕРХНИМ ЗАКРЫТИЕМ (80шт/уп)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/39d8bf5b-d37a-4782-b0f9-55aaebdad942?miniature=true"
-    ],
+    "images": [],
     "price": 2.1,
     "productFolder": {
       "id": "1dcd84a5-fb77-11ef-0a80-0b9c00121d72"
@@ -71,9 +56,7 @@
   {
     "id": "04f4ff13-9da7-11ef-0a80-06b200073ea3",
     "name": "Стакан прозрачный PET PULSAR-200мл  D-95  (50шт/уп)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/f15993b7-4bed-4af8-b787-d57db5acd79e?miniature=true"
-    ],
+    "images": [],
     "price": 5.5,
     "productFolder": {
       "id": "aaa2fc23-fb82-11ef-0a80-168e0013ca77"
@@ -82,9 +65,7 @@
   {
     "id": "053f2d79-9d4a-11ef-0a80-08db00017f5b",
     "name": "Емкость+Крышка  Раунд Бол 300 (250мл) 30шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/3d163dd7-7d88-4ae4-bfa4-fc9f99d686ce?miniature=true"
-    ],
+    "images": [],
     "price": 18.5,
     "productFolder": {
       "id": "766c7123-a8db-11ef-0a80-0e3300136ed3"
@@ -93,9 +74,7 @@
   {
     "id": "0633e38a-9e79-11ef-0a80-1352001a4135",
     "name": "Контейнер 1,5л 186х132х100 прямоугольный низкий",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/741b8152-1ee8-4612-a9b6-3d72373048a0?miniature=true"
-    ],
+    "images": [],
     "price": 10.9,
     "productFolder": {
       "id": "b099c30a-9d48-11ef-0a80-06b200013c98"
@@ -104,11 +83,7 @@
   {
     "id": "0674c646-116d-11f0-0a80-146400130fe9",
     "name": "Стакан 250 мл бум. d=80 мм гофрированный черный Волна",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/1571c193-2a21-4e8a-9a57-439f3775f372?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/6e66f7d7-1fee-42c4-816e-7dca44d8e162?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/467c3738-79c9-4352-84e0-186a47a3891c?miniature=true"
-    ],
+    "images": [],
     "price": 0,
     "productFolder": {
       "id": "d1d26f26-1164-11f0-0a80-14640012470b"
@@ -117,9 +92,7 @@
   {
     "id": "0695dc9f-fd1b-11ef-0a80-117a00226241",
     "name": "Фольга алюминиевая ЭКО  29см х 50м (11мкм)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/919d0b06-03a9-452a-ae6a-d7141e9a3581?miniature=true"
-    ],
+    "images": [],
     "price": 420,
     "productFolder": {
       "id": "ee94c557-9d04-11ef-0a80-0dbe00116cae"
@@ -128,9 +101,7 @@
   {
     "id": "0709ec20-9e78-11ef-0a80-1352001a2873",
     "name": "Тарелка суповая 500мл прозрачная Интеко/Альт Пласт Прозрачная",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/548be237-47ac-4dc0-b428-7ff251bfb563?miniature=true"
-    ],
+    "images": [],
     "price": 6.2,
     "productFolder": {
       "id": "4400d815-fb76-11ef-0a80-1ab300127e9d"
@@ -139,9 +110,7 @@
   {
     "id": "07aeaa47-1205-11f0-0a80-092100184e9f",
     "name": "Стойка с 4 секциями под стаканы и 4 секциями под аксессуары ДЕРЕВО",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/7ceeb535-5d32-4ebc-a903-f3501fdded4d?miniature=true"
-    ],
+    "images": [],
     "price": 7800,
     "productFolder": {
       "id": "c29f5422-1203-11f0-0a80-17480018786a"
@@ -150,9 +119,7 @@
   {
     "id": "07e79e20-9da8-11ef-0a80-0bb500075390",
     "name": "Крышка прозрачная купол PET с отверстием D-95 (100шт/уп)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/3078eb58-03e6-4b0f-b679-1aee303c1117?miniature=true"
-    ],
+    "images": [],
     "price": 2.9,
     "productFolder": {
       "id": "aaa2fc23-fb82-11ef-0a80-168e0013ca77"
@@ -161,9 +128,7 @@
   {
     "id": "0963cf84-d5d9-11ef-0a80-1823001c3263",
     "name": "Пищевая пленка 30см х 100м белая 5мкм",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/aaf2afbe-ff96-4530-a6ba-0b3266982845?miniature=true"
-    ],
+    "images": [],
     "price": 105,
     "productFolder": {
       "id": "a4c57e69-dbe0-11ef-0a80-115c00216ab1"
@@ -172,9 +137,7 @@
   {
     "id": "0a4f2eab-9d47-11ef-0a80-14e9000156dc",
     "name": "Полотенца бумажные 2сл  Plushe СПАСИБО 30м",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/89961ca9-a67b-443a-92a3-2af9f33e048e?miniature=true"
-    ],
+    "images": [],
     "price": 120,
     "productFolder": {
       "id": "5c6b296a-f154-11ef-0a80-1643001b72ee"
@@ -183,9 +146,7 @@
   {
     "id": "0a78ffff-f75b-11ef-0a80-1420003619cd",
     "name": "Пакет крафт без ручки 220*120*290",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/212bb47e-bde9-4d45-80df-4288d847caf6?miniature=true"
-    ],
+    "images": [],
     "price": 4.5,
     "productFolder": {
       "id": "e2b27ded-fc4b-11ef-0a80-1ab3001ae46a"
@@ -194,11 +155,7 @@
   {
     "id": "0b470623-9d45-11ef-0a80-0c9d00015713",
     "name": "Палочки для еды в индив. плен. упаковке 23см Патичерри (уп х 100шт)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/97c11c7e-859a-4fe9-8c05-424eaa95c306?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/420f171a-7437-40d7-91cb-bb23a6a426b9?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/b4049d2d-5b57-4ec2-bcb5-069fb50b5b01?miniature=true"
-    ],
+    "images": [],
     "price": 300,
     "productFolder": {
       "id": "055880d1-9d0b-11ef-0a80-0dbe0012ab38"
@@ -207,10 +164,7 @@
   {
     "id": "0dd2a91d-10c6-11f0-0a80-092100010e4a",
     "name": "Трубочки бум. 140*6 Черный, Крафт; уп/150 шт.",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/8999b540-5a4c-4b78-9197-f11b22a01fd0?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/c4fb7ab5-b05b-4a0e-adce-af2dd779464a?miniature=true"
-    ],
+    "images": [],
     "price": 300,
     "productFolder": {
       "id": "d170cdb4-aa6f-11ef-0a80-09750028aa3f"
@@ -219,9 +173,7 @@
   {
     "id": "0f6ea5a1-a8dc-11ef-0a80-0e330013826b",
     "name": "Емкость круглая Round Bowl 1300 дно белое",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/dd359bfc-580b-4a7d-9faf-9341a6ebf59c?miniature=true"
-    ],
+    "images": [],
     "price": 15.5,
     "productFolder": {
       "id": "766c7123-a8db-11ef-0a80-0e3300136ed3"
@@ -230,9 +182,7 @@
   {
     "id": "1091ae73-9d13-11ef-0a80-14e40013bea7",
     "name": "ДоЭко Короб под гамбургер ECO BURGER M 100x100х60 крафт",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/3f4085a8-24e8-4ef9-ac72-6d77d074970c?miniature=true"
-    ],
+    "images": [],
     "price": 6.2,
     "productFolder": {
       "id": "cf61e2b8-9d12-11ef-0a80-07940013b5b1"
@@ -241,11 +191,7 @@
   {
     "id": "11700222-12db-11f0-0a80-06fc0021884a",
     "name": "Темпер для кофе 58 мм с деревянной ручкой",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/ec9b06ce-e2b9-4b9d-b160-68b6e216543d?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/215bc160-99ab-46a4-915c-801b5ad293b4?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/2699d378-8951-4261-9325-3691ba1b98df?miniature=true"
-    ],
+    "images": [],
     "price": 1500,
     "productFolder": {
       "id": "36040507-1212-11f0-0a80-08fb0018b7fc"
@@ -254,9 +200,7 @@
   {
     "id": "126c1296-b580-11ef-0a80-0bf60028c059",
     "name": "Контейнер универсальный TABOX 1500 PRO с окном 200х200х40мм",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/a5577938-10f7-42e0-b83e-2486350288fd?miniature=true"
-    ],
+    "images": [],
     "price": 28,
     "productFolder": {
       "id": "91247c36-9d10-11ef-0a80-079400134cf4"
@@ -265,9 +209,7 @@
   {
     "id": "1280d62a-9e7a-11ef-0a80-118b001a811a",
     "name": "Салатник УК-250Е 250мл 156х129х27(РКС-250)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/98a7de47-3ab5-4f3e-9ec5-eca5bd7187f4?miniature=true"
-    ],
+    "images": [],
     "price": 6.8,
     "productFolder": {
       "id": "b099c30a-9d48-11ef-0a80-06b200013c98"
@@ -276,9 +218,7 @@
   {
     "id": "12e044a6-9d12-11ef-0a80-050c0013caa9",
     "name": "ДоЭко контейнер универ TABOX 1450 PRO 260х150х40мм с окном",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/26ca710c-171d-48c3-9066-6faee5e2656f?miniature=true"
-    ],
+    "images": [],
     "price": 32.5,
     "productFolder": {
       "id": "91247c36-9d10-11ef-0a80-079400134cf4"
@@ -287,9 +227,7 @@
   {
     "id": "12e1cdcb-b57f-11ef-0a80-1a9100288b97",
     "name": "Короб под пиццу цельный гофрокартон 310х310 бурый без печати",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/f8dbc156-1989-4b2e-84c2-4a7c99951171?miniature=true"
-    ],
+    "images": [],
     "price": 20,
     "productFolder": {
       "id": "cf61e2b8-9d12-11ef-0a80-07940013b5b1"
@@ -298,9 +236,7 @@
   {
     "id": "13565f4f-9d00-11ef-0a80-118000109354",
     "name": "Бум.стакан 0,350л Розовый 50шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/5e88d534-8e43-49ac-8455-33374fd4414b?miniature=true"
-    ],
+    "images": [],
     "price": 5,
     "productFolder": {
       "id": "6905abd5-1160-11f0-0a80-1108001094b4"
@@ -309,9 +245,7 @@
   {
     "id": "14fd04a8-9d42-11ef-0a80-079d00013f98",
     "name": "Форма бум. ТЮЛЬПАН",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/290bf442-ad0b-436b-b1c4-5afe7ba2eab0?miniature=true"
-    ],
+    "images": [],
     "price": 3,
     "productFolder": {
       "id": "ee94c557-9d04-11ef-0a80-0dbe00116cae"
@@ -320,9 +254,7 @@
   {
     "id": "15179712-fbfe-11ef-0a80-02f00036b951",
     "name": "Контейнер 0,500л 108х82х106 прямоугольный Упакс - Юнити",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/77a68eba-a47a-4cf3-97b3-f25b53fdf584?miniature=true"
-    ],
+    "images": [],
     "price": 4.8,
     "productFolder": {
       "id": "b099c30a-9d48-11ef-0a80-06b200013c98"
@@ -331,9 +263,7 @@
   {
     "id": "1588c8a8-1166-11f0-0a80-03b50011de9e",
     "name": "Стакан 250 мл бум. d=80 мм гофрированный Крафт",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/07955428-2f5b-46f6-9ed1-2b9afd583125?miniature=true"
-    ],
+    "images": [],
     "price": 0,
     "productFolder": {
       "id": "d1d26f26-1164-11f0-0a80-14640012470b"
@@ -342,9 +272,7 @@
   {
     "id": "1687d4af-9d0e-11ef-0a80-09020012cb21",
     "name": "Виниловые перчатки:Бел.прозр.размер( XL)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/c997e56b-3e17-4350-a537-2d558d5438c6?miniature=true"
-    ],
+    "images": [],
     "price": 380,
     "productFolder": {
       "id": "c71b4cd3-9d0c-11ef-0a80-0dbe00131ace"
@@ -353,12 +281,7 @@
   {
     "id": "183fbf82-fd17-11ef-0a80-0e3d0020d181",
     "name": "Бум.стакан 0,350л Бирюзовый 50шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/5b95c461-cfbc-4b9a-9528-92f5ffed5e1f?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/7b01bd96-d0d7-43c1-9979-67561d127afc?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/f2493638-3015-4332-bc15-04a0e380a006?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/b4d27a8e-d31f-4fbe-8148-84510b53dfc0?miniature=true"
-    ],
+    "images": [],
     "price": 0,
     "productFolder": {
       "id": "6905abd5-1160-11f0-0a80-1108001094b4"
@@ -367,9 +290,7 @@
   {
     "id": "1a7f2668-b56e-11ef-0a80-05de0027b583",
     "name": "Салфетки 24х24 1-сл. 400л зеленые",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/e72faefe-0584-4112-a5b3-1d42ad81a730?miniature=true"
-    ],
+    "images": [],
     "price": 240,
     "productFolder": {
       "id": "a05f2cb9-f154-11ef-0a80-0f59001b3d7d"
@@ -378,9 +299,7 @@
   {
     "id": "1b126918-9d0c-11ef-0a80-079400127f07",
     "name": "Нож \"ПРЕМИУМ\" 175мм черный 50шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/c2f0a00a-4cd4-4ccc-be20-acd50bd7f153?miniature=true"
-    ],
+    "images": [],
     "price": 130,
     "productFolder": {
       "id": "055880d1-9d0b-11ef-0a80-0dbe0012ab38"
@@ -389,9 +308,7 @@
   {
     "id": "1b1d54b3-2335-11f0-0a80-16d1001f63b7",
     "name": "Полотенца бумажные Professional PLUSHE 2-х слойные, 130м.",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/9bd3a822-d079-43b1-b70e-7d018fddb41a?miniature=true"
-    ],
+    "images": [],
     "price": 300,
     "productFolder": {
       "id": "5c6b296a-f154-11ef-0a80-1643001b72ee"
@@ -400,10 +317,7 @@
   {
     "id": "1cc2b4e1-12dc-11f0-0a80-1657002127a2",
     "name": "Коврик для темпинга угловой",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/477e909e-e5c0-4140-9bc6-247638b47f61?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/14f878d9-4139-4174-b5c7-582389e0a44d?miniature=true"
-    ],
+    "images": [],
     "price": 750,
     "productFolder": {
       "id": "36040507-1212-11f0-0a80-08fb0018b7fc"
@@ -412,9 +326,7 @@
   {
     "id": "1f057526-aa4a-11ef-0a80-1a7300239ca4",
     "name": "Короб под пиццу цельный гофрокартон 310х310 белый без печати",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/784cb2ec-0a67-4a63-9c35-c9c3baecc3df?miniature=true"
-    ],
+    "images": [],
     "price": 25,
     "productFolder": {
       "id": "cf61e2b8-9d12-11ef-0a80-07940013b5b1"
@@ -423,9 +335,7 @@
   {
     "id": "217790fc-9d49-11ef-0a80-0dc40001700c",
     "name": "Емкость КР-19ВА /190*85*65  (Комус РК-19)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/0c549816-eb38-4da2-80c5-58049ae94bcd?miniature=true"
-    ],
+    "images": [],
     "price": 11.8,
     "productFolder": {
       "id": "b099c30a-9d48-11ef-0a80-06b200013c98"
@@ -434,9 +344,7 @@
   {
     "id": "21919586-9da5-11ef-0a80-0c9d0006b6d9",
     "name": "Крышка для стак.  д.80мм прозрачная",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/0f1c6494-a892-47eb-aa7b-52d074b4653c?miniature=true"
-    ],
+    "images": [],
     "price": 3.9,
     "productFolder": {
       "id": "a0a11673-a83e-11ef-0a80-140b00013536"
@@ -445,10 +353,7 @@
   {
     "id": "22fb3005-1174-11f0-0a80-07f10012c883",
     "name": "Стакан 250 мл бум. d=80 мм гофрированный серый Волна",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/3a1fb068-ada5-4e2d-af1d-1923c894b331?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/ab11041a-be04-4d18-8923-f5f8d902a0fd?miniature=true"
-    ],
+    "images": [],
     "price": 0,
     "productFolder": {
       "id": "d1d26f26-1164-11f0-0a80-14640012470b"
@@ -457,9 +362,7 @@
   {
     "id": "24ae38a8-9d44-11ef-0a80-0fd100015689",
     "name": "Палочка для мороженого кассетированная 50шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/e18e577d-4280-4990-ad50-53f45ccfee3a?miniature=true"
-    ],
+    "images": [],
     "price": 75,
     "productFolder": {
       "id": "c3fcbcbf-aa70-11ef-0a80-0e330029acf6"
@@ -468,11 +371,7 @@
   {
     "id": "253b1bcf-fcef-11ef-0a80-0d800020018a",
     "name": "Бум.Стакан 0,250л 80мм Крафт (БЕЖ) Л-ПАК",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/d036dd19-dd3f-4864-8ca8-77895ff5e125?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/3f3fe3d1-8ee4-4fa5-a121-e0aa181c704b?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/b9fa7b87-4139-492d-8aae-4495f24c0326?miniature=true"
-    ],
+    "images": [],
     "price": 4,
     "productFolder": {
       "id": "6905abd5-1160-11f0-0a80-1108001094b4"
@@ -481,9 +380,7 @@
   {
     "id": "25aa4851-9cff-11ef-0a80-050c000fee0d",
     "name": "Бум.стакан 0,250л Белый 2-х слойн",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/10419413-2c5e-4721-85ef-be36259cfab6?miniature=true"
-    ],
+    "images": [],
     "price": 7.5,
     "productFolder": {
       "id": "ef136d9f-1163-11f0-0a80-174800121d8d"
@@ -492,9 +389,7 @@
   {
     "id": "26349bfd-9dab-11ef-0a80-14e900089079",
     "name": "Трубочки для коктейля в инд.бум.уп. 8х240 черная /250шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/ab5cb7d6-1636-43f1-9ed7-b798ae3edb19?miniature=true"
-    ],
+    "images": [],
     "price": 280,
     "productFolder": {
       "id": "d170cdb4-aa6f-11ef-0a80-09750028aa3f"
@@ -503,9 +398,7 @@
   {
     "id": "26770be6-9e77-11ef-0a80-118b001a3a78",
     "name": "Банка 1л прозрачное 123х120 Унипак + крышка",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/061ef90e-89ec-485d-8b66-fe32a19f2d31?miniature=true"
-    ],
+    "images": [],
     "price": 25,
     "productFolder": {
       "id": "1dcd84a5-fb77-11ef-0a80-0b9c00121d72"
@@ -514,9 +407,7 @@
   {
     "id": "269fd3f7-9d01-11ef-0a80-0dbe0010ac7b",
     "name": "Бум.стакан 0,400л Белый 50шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/3253ae90-b4c5-4890-8579-0097a7dba472?miniature=true"
-    ],
+    "images": [],
     "price": 6.5,
     "productFolder": {
       "id": "6905abd5-1160-11f0-0a80-1108001094b4"
@@ -525,9 +416,7 @@
   {
     "id": "274ec5dc-fce9-11ef-0a80-15c200212436",
     "name": "Заменитель сахара Стеверит 2 гр. 1000шт.",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/1d8eaa6a-cbf4-4981-bb31-6698259fcfc7?miniature=true"
-    ],
+    "images": [],
     "price": 3900,
     "productFolder": {
       "id": "c3fcbcbf-aa70-11ef-0a80-0e330029acf6"
@@ -536,9 +425,7 @@
   {
     "id": "2906efad-9d06-11ef-0a80-016200113b50",
     "name": "Бумага для выпечки Силикон. Горница  38*50",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/62edf138-7786-4cb5-86e8-c14466a688b4?miniature=true"
-    ],
+    "images": [],
     "price": 580,
     "productFolder": {
       "id": "ee94c557-9d04-11ef-0a80-0dbe00116cae"
@@ -547,9 +434,7 @@
   {
     "id": "2a0d2688-fc01-11ef-0a80-0c130036ec27",
     "name": "Емкость КР-19В АВ /190*85*55/ Интерпластик (300шт)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/913053a8-95eb-455b-93d6-312c229069bf?miniature=true"
-    ],
+    "images": [],
     "price": 16,
     "productFolder": {
       "id": "b099c30a-9d48-11ef-0a80-06b200013c98"
@@ -558,9 +443,7 @@
   {
     "id": "2a985d2e-9d13-11ef-0a80-0162001409f1",
     "name": "ДоЭко Короб под гамбургер ECO BURGER XL 112x112х112 крафт 55шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/b46374a5-b6e9-420f-96af-9a93e2212352?miniature=true"
-    ],
+    "images": [],
     "price": 13.5,
     "productFolder": {
       "id": "cf61e2b8-9d12-11ef-0a80-07940013b5b1"
@@ -569,10 +452,7 @@
   {
     "id": "2bed5acc-9da7-11ef-0a80-0c9d00072d1a",
     "name": "Стакан прозрачный PET PULSAR-300мл  D-95  (50шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/5d9a4afc-056e-42ab-888d-3284c53aa86b?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/463b4e28-c8db-49d6-8e7c-2ce1905abbb0?miniature=true"
-    ],
+    "images": [],
     "price": 5.7,
     "productFolder": {
       "id": "aaa2fc23-fb82-11ef-0a80-168e0013ca77"
@@ -581,10 +461,7 @@
   {
     "id": "2c0b566b-1185-11f0-0a80-012a0012fa74",
     "name": "Стакан бум. 2сл 400мл d=90мм пастель персик",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/81d30068-9b33-4a4b-8454-406c3f2726f5?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/fb5ed32d-ef02-49bd-aee4-c974c7108fe4?miniature=true"
-    ],
+    "images": [],
     "price": 0,
     "productFolder": {
       "id": "ef136d9f-1163-11f0-0a80-174800121d8d"
@@ -593,9 +470,7 @@
   {
     "id": "2c223c95-fc00-11ef-0a80-18cb0036da33",
     "name": "Термоэтикетки 58х40х500 чистые ЭКО",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/3e8f1ca8-a8f7-4d77-b6bc-f37d7227343b?miniature=true"
-    ],
+    "images": [],
     "price": 170,
     "productFolder": {
       "id": "7dbeea12-fc52-11ef-0a80-10550019c5b7"
@@ -604,9 +479,7 @@
   {
     "id": "2cea93e2-9d47-11ef-0a80-1508000160c8",
     "name": "Полотенца бумажные 1сл. 100% целл. 160м",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/5d1f2100-9266-4554-9c54-22783c10c453?miniature=true"
-    ],
+    "images": [],
     "price": 350,
     "productFolder": {
       "id": "5c6b296a-f154-11ef-0a80-1643001b72ee"
@@ -615,11 +488,7 @@
   {
     "id": "2cf7e919-116d-11f0-0a80-0b4000127055",
     "name": "Стакан 300 мл бум. d=90 мм гофрированный Black",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/6ebd55ca-76e2-4f91-ad31-ac169a877113?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/b498ea86-41a3-493d-a10d-127c0b084d1e?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/9cdcba9d-a307-4044-a809-8cfb4cedad96?miniature=true"
-    ],
+    "images": [],
     "price": 0,
     "productFolder": {
       "id": "d1d26f26-1164-11f0-0a80-14640012470b"
@@ -628,9 +497,7 @@
   {
     "id": "2f267ad1-1201-11f0-0a80-08fb00174668",
     "name": "Стакан 360 мл бум. d=80 мм гофрированный черный 3D",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/a5d1a290-7171-413a-b399-0a5d007c20ba?miniature=true"
-    ],
+    "images": [],
     "price": 12.5,
     "productFolder": {
       "id": "d1d26f26-1164-11f0-0a80-14640012470b"
@@ -639,9 +506,7 @@
   {
     "id": "2f64b43e-9d4b-11ef-0a80-135200018804",
     "name": "Короб бумажный China Pack 750мл",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/7eaad9ae-659b-401a-ae90-0a965b04d88b?miniature=true"
-    ],
+    "images": [],
     "price": 32.5,
     "productFolder": {
       "id": "d7e4ef8d-fc4a-11ef-0a80-03ca001ad4b9"
@@ -650,9 +515,7 @@
   {
     "id": "2fb6b02b-fcee-11ef-0a80-05f400202898",
     "name": "Стакан 200мл прозрачный  (100 шт.)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/f9dad927-b2eb-46f3-827e-be8616869ae6?miniature=true"
-    ],
+    "images": [],
     "price": 100,
     "productFolder": {
       "id": "b2670bee-fb78-11ef-0a80-1ab300129a2d"
@@ -661,9 +524,7 @@
   {
     "id": "30444af7-9d0e-11ef-0a80-07940012d93b",
     "name": "Нитриловые перч.Черные M",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/4d722bf4-eaab-4667-a8a0-c672542a1348?miniature=true"
-    ],
+    "images": [],
     "price": 570,
     "productFolder": {
       "id": "c71b4cd3-9d0c-11ef-0a80-0dbe00131ace"
@@ -672,9 +533,7 @@
   {
     "id": "31a0c74b-9d4a-11ef-0a80-0e1200016786",
     "name": "Контейнер Смарт ПАК 550мл +крышка 142х142х56",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/fa9aa4a4-f35b-4829-9a15-5ac5e0ccde37?miniature=true"
-    ],
+    "images": [],
     "price": 33,
     "productFolder": {
       "id": "cf61e2b8-9d12-11ef-0a80-07940013b5b1"
@@ -683,9 +542,7 @@
   {
     "id": "335fc8aa-9d48-11ef-0a80-1508000165c4",
     "name": "Сахар порционный 5гр. 1000шт/кор.",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/b6d716e4-3d32-4c66-a00b-42e643f7c110?miniature=true"
-    ],
+    "images": [],
     "price": 1600,
     "productFolder": {
       "id": "c3fcbcbf-aa70-11ef-0a80-0e330029acf6"
@@ -694,9 +551,7 @@
   {
     "id": "33f1099d-0c91-11f0-0a80-1899003aa079",
     "name": "Стакан бум.350 мл двухслойный крафт",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/0e7f572d-ab0e-4f4f-8bb0-ea6fb3e5ba8e?miniature=true"
-    ],
+    "images": [],
     "price": 10,
     "productFolder": {
       "id": "ef136d9f-1163-11f0-0a80-174800121d8d"
@@ -705,12 +560,7 @@
   {
     "id": "35949170-10c7-11f0-0a80-146400011604",
     "name": "Трубочки бум.197*8 Шоу-Бокс мини  50шт",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/30024922-3765-4b40-98a8-55acc440af9d?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/e696dcd3-191d-44a4-aa8c-cbeb41a407e8?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/1da95cfd-df2f-4ed3-b6c7-8c6535963c65?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/f10cadde-a363-4e83-bab3-954996d466b1?miniature=true"
-    ],
+    "images": [],
     "price": 220,
     "productFolder": {
       "id": "d170cdb4-aa6f-11ef-0a80-09750028aa3f"
@@ -719,9 +569,7 @@
   {
     "id": "364a32ef-1204-11f0-0a80-11080017a6d9",
     "name": "Стойка с 3 секциями под стаканы и 6 секциями под аксессуары  ДЕРЕВО(ПОД ЗАКАЗ)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/c8fcba16-fc95-479f-853d-5e5bb8f8d51e?miniature=true"
-    ],
+    "images": [],
     "price": 7900,
     "productFolder": {
       "id": "c29f5422-1203-11f0-0a80-17480018786a"
@@ -730,9 +578,7 @@
   {
     "id": "36f04497-eb94-11ef-0a80-176c0041286b",
     "name": "Лоток D-21 белый 225х135х20",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/adedb572-c97e-49ec-995e-41a90092fb13?miniature=true"
-    ],
+    "images": [],
     "price": 4,
     "productFolder": {
       "id": "a17fefc0-fc4f-11ef-0a80-0b9c001a5b85"
@@ -741,10 +587,7 @@
   {
     "id": "37694b9d-1182-11f0-0a80-1a5b0013226d",
     "name": "Стакан 250 мл бум. d=80 мм гофрированный Тиффани Волна",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/8d0d3a6d-8eb3-4045-b842-61bbed407389?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/1195d673-7d30-4a09-bcb6-5e040b9c897f?miniature=true"
-    ],
+    "images": [],
     "price": 0,
     "productFolder": {
       "id": "d1d26f26-1164-11f0-0a80-14640012470b"
@@ -753,10 +596,7 @@
   {
     "id": "376f7629-dbd9-11ef-0a80-14a20020a38e",
     "name": "Бум.Стакан 0,250л 80мм под Крафт Л-ПАК",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/ff5eb441-d55c-45d4-af74-f6d84292c99d?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/0f6892d6-d60c-4c35-8646-be9ee2d63d04?miniature=true"
-    ],
+    "images": [],
     "price": 4,
     "productFolder": {
       "id": "6905abd5-1160-11f0-0a80-1108001094b4"
@@ -765,9 +605,7 @@
   {
     "id": "38f62459-ab1c-11ef-0a80-1a7300370cf3",
     "name": "Пакет бумажный пищевой 390х250х100 лаваш крафт",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/d79b9afc-a7e1-42ce-8b3a-749c7e4f8449?miniature=true"
-    ],
+    "images": [],
     "price": 3.5,
     "productFolder": {
       "id": "0e4fc0fd-fc4e-11ef-0a80-01b1001a2583"
@@ -776,9 +614,7 @@
   {
     "id": "3a1e597e-a842-11ef-0a80-02cc00015246",
     "name": "Держатель для 2-х стаканов 193х108х42 Розовый",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/fdec0e4e-229c-412f-81ef-d65405335c33?miniature=true"
-    ],
+    "images": [],
     "price": 4.7,
     "productFolder": {
       "id": "a6074b7c-a840-11ef-0a80-11b500019cf3"
@@ -787,9 +623,7 @@
   {
     "id": "3bb4175e-fcec-11ef-0a80-075b001f0465",
     "name": "Ложка столовая пластиковая 16,5см белая  (100 шт.)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/1035329b-04e5-407e-b53b-155a198bc13d?miniature=true"
-    ],
+    "images": [],
     "price": 145,
     "productFolder": {
       "id": "055880d1-9d0b-11ef-0a80-0dbe0012ab38"
@@ -798,11 +632,7 @@
   {
     "id": "3bfa8433-1170-11f0-0a80-012a0011f0fd",
     "name": "Стакан 400 мл бум. d=90 мм гофрированный Клетка",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/e94ceb4b-98c9-4e8a-8a4a-a5f16a9a50d6?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/2fa96925-0a4b-4a17-bec3-337e2bfae964?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/86c84f94-daf8-4cc3-acbe-5b94b76f7e30?miniature=true"
-    ],
+    "images": [],
     "price": 0,
     "productFolder": {
       "id": "d1d26f26-1164-11f0-0a80-14640012470b"
@@ -811,9 +641,7 @@
   {
     "id": "3c59ddd4-9d4c-11ef-0a80-0dc40001802b",
     "name": "Креманка 200мл \"Кристалл\" прозрачная (16шт/уп)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/119ac876-8808-45c5-9047-0f234e1acb72?miniature=true"
-    ],
+    "images": [],
     "price": 11,
     "productFolder": {
       "id": "b2670bee-fb78-11ef-0a80-1ab300129a2d"
@@ -822,9 +650,7 @@
   {
     "id": "3cb7a91c-9d0e-11ef-0a80-0dbe00135f7d",
     "name": "Нитриловые перч.Черные XL",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/4d722bf4-eaab-4667-a8a0-c672542a1348?miniature=true"
-    ],
+    "images": [],
     "price": 580,
     "productFolder": {
       "id": "c71b4cd3-9d0c-11ef-0a80-0dbe00131ace"
@@ -833,9 +659,7 @@
   {
     "id": "3e7f1170-9d12-11ef-0a80-06ad00131fa8",
     "name": "ДоЭко контейнер универ TABOX 500 PRO 170х70х40мм с окном",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/478d06a6-7beb-43d7-b030-c052c5660397?miniature=true"
-    ],
+    "images": [],
     "price": 14.5,
     "productFolder": {
       "id": "91247c36-9d10-11ef-0a80-079400134cf4"
@@ -844,9 +668,7 @@
   {
     "id": "3f2fb9dc-bc50-11ef-0a80-04540025b6d4",
     "name": "Пакет Дой-пак 135*225 с замком",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/ab118436-183f-4c5c-828f-b60a77d6140c?miniature=true"
-    ],
+    "images": [],
     "price": 16,
     "productFolder": {
       "id": "eac65de8-9d3a-11ef-0a80-0c9d0000f0b8"
@@ -855,9 +677,7 @@
   {
     "id": "40040dcc-fd19-11ef-0a80-0d80002206b4",
     "name": "Туалетная бумага \"Богатырь + 154\" 58м.",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/ca14349f-3120-47e6-9233-23fbd3eff6a8?miniature=true"
-    ],
+    "images": [],
     "price": 27,
     "productFolder": {
       "id": "374e6467-f154-11ef-0a80-05e4001b3ef9"
@@ -866,9 +686,7 @@
   {
     "id": "4004ce1b-dbe1-11ef-0a80-03cd0020072a",
     "name": "Пищевая пленка ПВХ 45см х 700м.х 8мкм",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/846c4874-2ab2-452e-a30d-8ec7d9016024?miniature=true"
-    ],
+    "images": [],
     "price": 1680,
     "productFolder": {
       "id": "a4c57e69-dbe0-11ef-0a80-115c00216ab1"
@@ -877,9 +695,7 @@
   {
     "id": "4072840d-9da5-11ef-0a80-118b0006f725",
     "name": "Крышка для стак.  д.80мм черная",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/26463196-1c7d-4bc5-9dd7-acd254713738?miniature=true"
-    ],
+    "images": [],
     "price": 3.9,
     "productFolder": {
       "id": "a0a11673-a83e-11ef-0a80-140b00013536"
@@ -888,9 +704,7 @@
   {
     "id": "4242bb4b-9cfa-11ef-0a80-1886000e6c33",
     "name": "Банка ПЭТ Детокс 0,250",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/54d9b45c-3f5a-4d82-926a-97190787da50?miniature=true"
-    ],
+    "images": [],
     "price": 15.5,
     "productFolder": {
       "id": "1dcd84a5-fb77-11ef-0a80-0b9c00121d72"
@@ -899,9 +713,7 @@
   {
     "id": "42827b28-9d01-11ef-0a80-06ad000f902d",
     "name": "Бум.стакан 0,400л Красный 50шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/ced57745-a0bc-4204-9369-6d0d351ef1be?miniature=true"
-    ],
+    "images": [],
     "price": 6.5,
     "productFolder": {
       "id": "6905abd5-1160-11f0-0a80-1108001094b4"
@@ -910,9 +722,7 @@
   {
     "id": "436b66c3-9d11-11ef-0a80-0e52001444f9",
     "name": "ДоЭко бум салатник с прозр крышкой OpSalad-400 50шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/31556072-38a6-4177-b9bd-7ce9351a3517?miniature=true"
-    ],
+    "images": [],
     "price": 17.5,
     "productFolder": {
       "id": "91247c36-9d10-11ef-0a80-079400134cf4"
@@ -921,9 +731,7 @@
   {
     "id": "4515be8d-aa4e-11ef-0a80-11b50025edea",
     "name": "Пакет бумажный пищевой 115х100 для фри жиростойкий белый 40гр",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/ef488711-9c9c-48f1-a82e-761b09188182?miniature=true"
-    ],
+    "images": [],
     "price": 0.9,
     "productFolder": {
       "id": "cf61e2b8-9d12-11ef-0a80-07940013b5b1"
@@ -932,9 +740,7 @@
   {
     "id": "464262e1-9dac-11ef-0a80-0e1200087616",
     "name": "Соусница 50мл с ВЕРХНИМ ЗАКРЫТИЕМ (80шт/уп)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/c2f74934-0ec5-4d45-aac0-5a9bd6ab56cb?miniature=true"
-    ],
+    "images": [],
     "price": 3.3,
     "productFolder": {
       "id": "1dcd84a5-fb77-11ef-0a80-0b9c00121d72"
@@ -943,10 +749,7 @@
   {
     "id": "46823fdd-1172-11f0-0a80-0e8d0012e928",
     "name": "Стакан 250 мл бум. d=80 мм гофрированный зеленый 3D",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/38fce62c-2333-4fce-baf3-3e1101253b27?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/36c43b6b-6152-4906-a362-8c34dcf078f6?miniature=true"
-    ],
+    "images": [],
     "price": 0,
     "productFolder": {
       "id": "d1d26f26-1164-11f0-0a80-14640012470b"
@@ -955,9 +758,7 @@
   {
     "id": "46fb160c-b639-11ef-0a80-1422003f9c13",
     "name": "Салфетка из микрофибры для стекла гладкого плетения 35х40см",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/a84a25ae-a667-4597-b16e-95c3e4585bc0?miniature=true"
-    ],
+    "images": [],
     "price": 210,
     "productFolder": {
       "id": "a05f2cb9-f154-11ef-0a80-0f59001b3d7d"
@@ -966,9 +767,7 @@
   {
     "id": "4766e795-9d3f-11ef-0a80-14e9000123fc",
     "name": "Упаковка для торта Т-370",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/5e94af63-a9be-4ace-9e01-2dad01716608?miniature=true"
-    ],
+    "images": [],
     "price": 110,
     "productFolder": {
       "id": "eac65de8-9d3a-11ef-0a80-0c9d0000f0b8"
@@ -977,9 +776,7 @@
   {
     "id": "479b9d93-9d41-11ef-0a80-0c9d00012d72",
     "name": "Пакеты для льда  SPINO",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/0743a6a4-54fe-42ed-aad0-1e669989d4ff?miniature=true"
-    ],
+    "images": [],
     "price": 75,
     "productFolder": {
       "id": "c3fcbcbf-aa70-11ef-0a80-0e330029acf6"
@@ -988,9 +785,7 @@
   {
     "id": "487e063c-9f59-11ef-0a80-0298007ca171",
     "name": "Пакеты для гриля 25х30см 200шт\\уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/0bcc7cf7-6a03-436c-b55e-67165a9e2fe4?miniature=true"
-    ],
+    "images": [],
     "price": 13,
     "productFolder": {
       "id": "cf61e2b8-9d12-11ef-0a80-07940013b5b1"
@@ -999,9 +794,7 @@
   {
     "id": "48ac1525-b57d-11ef-0a80-1422002985b8",
     "name": "Крышка для стак. д-73мм Черная",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/a304d8c7-c25d-4483-82d8-9a05d5cc2680?miniature=true"
-    ],
+    "images": [],
     "price": 3,
     "productFolder": {
       "id": "a0a11673-a83e-11ef-0a80-140b00013536"
@@ -1010,9 +803,7 @@
   {
     "id": "4918f5a4-9e73-11ef-0a80-0c9d001a0c7f",
     "name": "Крышка к контейнеру  Упакс-Юнити 108*82  (100шт/уп)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/f7585509-7c61-4ac8-89d6-e3448971df20?miniature=true"
-    ],
+    "images": [],
     "price": 2.2,
     "productFolder": {
       "id": "b099c30a-9d48-11ef-0a80-06b200013c98"
@@ -1021,9 +812,7 @@
   {
     "id": "4957340d-9d3d-11ef-0a80-0dc400010973",
     "name": "Пакет крафт с крученой ручкой б/п 220х120х250 бурый 70г",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/209bfba5-ac1f-4213-996e-97b9b64a04b3?miniature=true"
-    ],
+    "images": [],
     "price": 11.5,
     "productFolder": {
       "id": "92d4f76d-fc4b-11ef-0a80-0c11001a2ea6"
@@ -1032,9 +821,7 @@
   {
     "id": "4c508f68-9d43-11ef-0a80-176d0001207a",
     "name": "Пакет бумажный пищ. для СТОЛОВЫХ ПРИБОРОВ 220*70 крафт. 100шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/1fc0a8ca-a0d8-4462-ab37-a6c9c379e68f?miniature=true"
-    ],
+    "images": [],
     "price": 1.1,
     "productFolder": {
       "id": "055880d1-9d0b-11ef-0a80-0dbe0012ab38"
@@ -1043,9 +830,7 @@
   {
     "id": "4d265392-2332-11f0-0a80-158b001e8ace",
     "name": "Банка ПЭТ 0,500 \"Детокс\" + черная крышка",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/c3dba712-9a70-4872-bad1-e76d008ea83e?miniature=true"
-    ],
+    "images": [],
     "price": 20,
     "productFolder": {
       "id": "1dcd84a5-fb77-11ef-0a80-0b9c00121d72"
@@ -1054,9 +839,7 @@
   {
     "id": "4d4813d2-9d0e-11ef-0a80-17630012acfa",
     "name": "Нитриловые перч.Черные L",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/4d722bf4-eaab-4667-a8a0-c672542a1348?miniature=true"
-    ],
+    "images": [],
     "price": 575,
     "productFolder": {
       "id": "c71b4cd3-9d0c-11ef-0a80-0dbe00131ace"
@@ -1065,10 +848,7 @@
   {
     "id": "4dfcecea-116b-11f0-0a80-07f10012269e",
     "name": "Стакан 250 мл бум. d=80 мм гофрированный Клетка",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/870ed237-91b9-4155-89fb-58e213b423fe?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/ae7f66c1-7c88-425a-b106-9f29bdee5d5f?miniature=true"
-    ],
+    "images": [],
     "price": 0,
     "productFolder": {
       "id": "d1d26f26-1164-11f0-0a80-14640012470b"
@@ -1077,9 +857,7 @@
   {
     "id": "4e3c85d3-9d49-11ef-0a80-0bb5000153b0",
     "name": "Емкость КР-25   /245*160*62/  (Комус РК-25)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/58beb6bd-3e50-4d9c-a937-b4e580481161?miniature=true"
-    ],
+    "images": [],
     "price": 28,
     "productFolder": {
       "id": "b099c30a-9d48-11ef-0a80-06b200013c98"
@@ -1088,9 +866,7 @@
   {
     "id": "4e98836a-9daa-11ef-0a80-118b00080f3a",
     "name": "Трубочки для коктейля  5х125 черные МИНИ 400 шт в уп.",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/b0da6af9-6bcb-4449-b814-5390b91528a4?miniature=true"
-    ],
+    "images": [],
     "price": 160,
     "productFolder": {
       "id": "d170cdb4-aa6f-11ef-0a80-09750028aa3f"
@@ -1099,18 +875,14 @@
   {
     "id": "4eb4b1a4-2334-11f0-0a80-0173001ed072",
     "name": "Пакет мусорный 120лит 10шт  2-х сл. 40мкм",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/6f70c986-4828-4b7e-b263-e6ad7964afae?miniature=true"
-    ],
+    "images": [],
     "price": 140,
     "productFolder": null
   },
   {
     "id": "4f6a1e58-9d47-11ef-0a80-090a00017f44",
     "name": "Полотенца бумажные V-сложение 1сл",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/8b269c96-0920-4e3b-8a01-1171f170ec0a?miniature=true"
-    ],
+    "images": [],
     "price": 160,
     "productFolder": {
       "id": "5c6b296a-f154-11ef-0a80-1643001b72ee"
@@ -1119,9 +891,7 @@
   {
     "id": "50a586a9-9d0b-11ef-0a80-0dbe0012c7ea",
     "name": "Вилка ПРЕМИУМ прозрачная 50штуп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/e8def090-760a-4ab8-bbdb-18525aa5d952?miniature=true"
-    ],
+    "images": [],
     "price": 140,
     "productFolder": {
       "id": "055880d1-9d0b-11ef-0a80-0dbe0012ab38"
@@ -1130,9 +900,7 @@
   {
     "id": "50f18917-9d3e-11ef-0a80-08db00012bb4",
     "name": "Тарталетка OV7 овал 34х136х26 белая 1000шт",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/58f9105f-1dd3-4d46-8056-d08115c47fb4?miniature=true"
-    ],
+    "images": [],
     "price": 1700,
     "productFolder": {
       "id": "eac65de8-9d3a-11ef-0a80-0c9d0000f0b8"
@@ -1141,9 +909,7 @@
   {
     "id": "51eefc3c-fb86-11ef-0a80-05f40013b2e6",
     "name": "Стакан 100мл прозрачный (100шт/уп)❗️ОЖИДАЕТСЯ",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/6d27e2e3-5294-48f3-bab0-70e42a73d31d?miniature=true"
-    ],
+    "images": [],
     "price": 90,
     "productFolder": {
       "id": "b2670bee-fb78-11ef-0a80-1ab300129a2d"
@@ -1152,9 +918,7 @@
   {
     "id": "53530f71-a67e-11ef-0a80-14020014a1da",
     "name": "Салфетки 24х24 1 сл. 400л красные",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/0996ec55-1d54-4231-9fed-6bc8a62bb304?miniature=true"
-    ],
+    "images": [],
     "price": 240,
     "productFolder": {
       "id": "a05f2cb9-f154-11ef-0a80-0f59001b3d7d"
@@ -1163,9 +927,7 @@
   {
     "id": "5485e01d-9cfd-11ef-0a80-0c8b000f6888",
     "name": "Бум. стакан  0,250л Черный 50шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/448c027d-3626-4eea-85b9-576a827b461a?miniature=true"
-    ],
+    "images": [],
     "price": 3.5,
     "productFolder": {
       "id": "6905abd5-1160-11f0-0a80-1108001094b4"
@@ -1174,9 +936,7 @@
   {
     "id": "55b43552-1213-11f0-0a80-11080018faad",
     "name": "Молочник (питчер) Черный 600 мл",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/e5cc737c-d7bc-49a6-8f8b-cda18fb096e0?miniature=true"
-    ],
+    "images": [],
     "price": 1450,
     "productFolder": {
       "id": "36040507-1212-11f0-0a80-08fb0018b7fc"
@@ -1185,9 +945,7 @@
   {
     "id": "55b82c03-dbdd-11ef-0a80-03cd001fcb67",
     "name": "Лоток C -11А БЕЛЫЙ /178х135х10",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/8ff7428a-fc9c-438b-8b19-509b15748841?miniature=true"
-    ],
+    "images": [],
     "price": 2.9,
     "productFolder": {
       "id": "a17fefc0-fc4f-11ef-0a80-0b9c001a5b85"
@@ -1196,9 +954,7 @@
   {
     "id": "55d6762f-fcea-11ef-0a80-0e3d001e8f7f",
     "name": "Крышка для стак . д-80  темно-зеленые",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/db568438-786d-49f0-8a8b-f5c73c322b67?miniature=true"
-    ],
+    "images": [],
     "price": 3.8,
     "productFolder": {
       "id": "a0a11673-a83e-11ef-0a80-140b00013536"
@@ -1207,9 +963,7 @@
   {
     "id": "584c7c79-a661-11ef-0a80-096c000d2bb1",
     "name": "Бум.стакан 0,250л Желтый 50шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/9e80ff61-f081-4335-8193-a04bfe37fae5?miniature=true"
-    ],
+    "images": [],
     "price": 4,
     "productFolder": {
       "id": "6905abd5-1160-11f0-0a80-1108001094b4"
@@ -1218,9 +972,7 @@
   {
     "id": "58d40d40-9df8-11ef-0a80-06b200153020",
     "name": "Зубочистки в индивидуальной бумажной упаковке  1000шт.",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/89b5db93-f039-4272-9c99-90c9ce17cb82?miniature=true"
-    ],
+    "images": [],
     "price": 235,
     "productFolder": {
       "id": "c3fcbcbf-aa70-11ef-0a80-0e330029acf6"
@@ -1229,9 +981,7 @@
   {
     "id": "59a74ba2-aa4a-11ef-0a80-140b00255341",
     "name": "Короб под пиццу цельный гофрокартон 330х330 белый без печати",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/784cb2ec-0a67-4a63-9c35-c9c3baecc3df?miniature=true"
-    ],
+    "images": [],
     "price": 27,
     "productFolder": {
       "id": "cf61e2b8-9d12-11ef-0a80-07940013b5b1"
@@ -1240,9 +990,7 @@
   {
     "id": "5a0d47ac-9d11-11ef-0a80-01620013b851",
     "name": "ДоЭко бум салатник с прозр крышкой OpSalad-500 50шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/1f29eb1f-97a7-432c-953f-6b2224381b86?miniature=true"
-    ],
+    "images": [],
     "price": 18.5,
     "productFolder": {
       "id": "91247c36-9d10-11ef-0a80-079400134cf4"
@@ -1251,9 +999,7 @@
   {
     "id": "5a4c4e5f-a65f-11ef-0a80-10b8000c1be4",
     "name": "Пакет фасовочный ПНД 24х39 6мкм Календарик",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/e25477f6-2ebd-4ab3-9021-0164112bacb9?miniature=true"
-    ],
+    "images": [],
     "price": 60,
     "productFolder": {
       "id": "580bedaf-fc53-11ef-0a80-0e3d001a3409"
@@ -1262,9 +1008,7 @@
   {
     "id": "5a98cced-9cfe-11ef-0a80-0162000f5a5d",
     "name": "Бум.стакан 0,250л Красный 50шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/ced57745-a0bc-4204-9369-6d0d351ef1be?miniature=true"
-    ],
+    "images": [],
     "price": 4,
     "productFolder": {
       "id": "6905abd5-1160-11f0-0a80-1108001094b4"
@@ -1273,9 +1017,7 @@
   {
     "id": "5d6b8eac-9da9-11ef-0a80-0dc4000798b3",
     "name": "Суши УК-703 крышка+дно  160*105*24  С-19",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/cf40d681-1b41-4acb-9254-cf4c84d0de8f?miniature=true"
-    ],
+    "images": [],
     "price": 14,
     "productFolder": {
       "id": "bfe9567f-fc48-11ef-0a80-18ca001ab16a"
@@ -1284,9 +1026,7 @@
   {
     "id": "5dcba2b7-fce7-11ef-0a80-15c200210d02",
     "name": "Контейнер РКС-350 ОП 159х130х40мм с крышкой (360 шт.)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/d0d6fc1f-e16f-42c1-a1d8-5b187d117f2a?miniature=true"
-    ],
+    "images": [],
     "price": 8.5,
     "productFolder": {
       "id": "b099c30a-9d48-11ef-0a80-06b200013c98"
@@ -1295,9 +1035,7 @@
   {
     "id": "5e6755fd-fced-11ef-0a80-18ca001f634b",
     "name": "Салфетка  24*24 1-сл 400л  бордо",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/a8759c6c-23be-4b84-b005-1a9dc475fdea?miniature=true"
-    ],
+    "images": [],
     "price": 240,
     "productFolder": {
       "id": "a05f2cb9-f154-11ef-0a80-0f59001b3d7d"
@@ -1306,9 +1044,7 @@
   {
     "id": "5f3baefc-bb7e-11ef-0a80-17d30029790e",
     "name": "Тарелка картонная PLATE 180мм WB белая/крафт OSQ",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/6766d229-fb97-476a-a9bf-301ee4e23756?miniature=true"
-    ],
+    "images": [],
     "price": 4.5,
     "productFolder": {
       "id": "4400d815-fb76-11ef-0a80-1ab300127e9d"
@@ -1317,10 +1053,7 @@
   {
     "id": "5f9869bd-233b-11f0-0a80-0945001f28b9",
     "name": "ДоЭко бум салатник с прозр крышкой OpSalad-800",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/4fc91c26-967b-4c6e-ad84-e5c539d13bc7?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/8962c6ff-7158-447d-afa9-8230c1d9fb76?miniature=true"
-    ],
+    "images": [],
     "price": 24,
     "productFolder": {
       "id": "91247c36-9d10-11ef-0a80-079400134cf4"
@@ -1329,9 +1062,7 @@
   {
     "id": "6020da5e-9da7-11ef-0a80-118b00077023",
     "name": "Стакан прозрачный PET PULSAR-400мл  D-95  (50шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/f63bb5e2-aaa6-470f-8192-c517d2840199?miniature=true"
-    ],
+    "images": [],
     "price": 7.5,
     "productFolder": {
       "id": "aaa2fc23-fb82-11ef-0a80-168e0013ca77"
@@ -1340,9 +1071,7 @@
   {
     "id": "60f9e6a6-f134-11ef-0a80-18eb0019d2d0",
     "name": "Пакет крафт с крученой ручкой 220х120х250 белый 80г",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/13ccf310-08da-4e08-8303-93bed1f4ffec?miniature=true"
-    ],
+    "images": [],
     "price": 15,
     "productFolder": {
       "id": "92d4f76d-fc4b-11ef-0a80-0c11001a2ea6"
@@ -1351,9 +1080,7 @@
   {
     "id": "616d2f72-9da8-11ef-0a80-0e120007aa50",
     "name": "Крышка прозрачная плоская PET с крестиком  D-95  (50шт/уп)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/b56513c2-b97c-415d-8b5d-c90382c8e04e?miniature=true"
-    ],
+    "images": [],
     "price": 2.7,
     "productFolder": {
       "id": "aaa2fc23-fb82-11ef-0a80-168e0013ca77"
@@ -1362,9 +1089,7 @@
   {
     "id": "6180ccb9-9e78-11ef-0a80-079d001aa290",
     "name": "Тарелка суповая 500мл Позитрон ПП Экстра",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/8ed5d15d-cbe4-4df0-9801-8194ecdc2500?miniature=true"
-    ],
+    "images": [],
     "price": 4.5,
     "productFolder": {
       "id": "4400d815-fb76-11ef-0a80-1ab300127e9d"
@@ -1373,11 +1098,7 @@
   {
     "id": "62f84b06-116f-11f0-0a80-174800131c6c",
     "name": "Стакан 400 мл бум. d=90 мм гофрированный Бордо",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/49036026-9566-4bed-a411-3c494fb8d9f9?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/1ec96200-ac89-44e0-853b-aa4b4e5a62d2?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/8b1bb11f-e0ab-4278-9d8f-ced8c88d4cfc?miniature=true"
-    ],
+    "images": [],
     "price": 0,
     "productFolder": {
       "id": "d1d26f26-1164-11f0-0a80-14640012470b"
@@ -1386,9 +1107,7 @@
   {
     "id": "6322f31f-116b-11f0-0a80-03b5001252e7",
     "name": "Стакан 250 мл бум. d=80 мм гофрированный Крафт",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/1545ec0c-7c02-47d3-8e7e-e5ac6a378323?miniature=true"
-    ],
+    "images": [],
     "price": 0,
     "productFolder": {
       "id": "d1d26f26-1164-11f0-0a80-14640012470b"
@@ -1397,9 +1116,7 @@
   {
     "id": "642615a9-116d-11f0-0a80-012a0011bb43",
     "name": "Стакан 300 мл бум. d=90 мм гофрированный Бордо",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/7978442a-f3b5-4ae5-9954-eae4f2ab516d?miniature=true"
-    ],
+    "images": [],
     "price": 0,
     "productFolder": {
       "id": "d1d26f26-1164-11f0-0a80-14640012470b"
@@ -1408,10 +1125,7 @@
   {
     "id": "6620fb00-1170-11f0-0a80-174800132d9f",
     "name": "Стакан 400 мл бум.d=90 мм гофрированный красный Волна",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/56107cba-44e6-432b-9b9c-6178295c2016?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/8667acb4-efe3-43de-baad-d966fbf12ab9?miniature=true"
-    ],
+    "images": [],
     "price": 0,
     "productFolder": {
       "id": "d1d26f26-1164-11f0-0a80-14640012470b"
@@ -1420,10 +1134,7 @@
   {
     "id": "6721576d-116c-11f0-0a80-092100129b5e",
     "name": "Стакан 250 мл бум. d=80 мм гофрированный красный Волна",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/955e09bd-4364-4a93-81a1-80cce1188db9?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/ff05430a-588c-4efb-8676-27c4e05abf13?miniature=true"
-    ],
+    "images": [],
     "price": 0,
     "productFolder": {
       "id": "d1d26f26-1164-11f0-0a80-14640012470b"
@@ -1432,9 +1143,7 @@
   {
     "id": "67f574ac-9d4c-11ef-0a80-0e1200018c43",
     "name": "Крышка для креманки  200мл \"Кристалл\"ПЭТ прозрачная",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/16dd24e3-8c23-438d-aa83-f856ae95e1eb?miniature=true"
-    ],
+    "images": [],
     "price": 4.5,
     "productFolder": {
       "id": "b2670bee-fb78-11ef-0a80-1ab300129a2d"
@@ -1443,9 +1152,7 @@
   {
     "id": "6e7c26c8-9e74-11ef-0a80-0bb50018f2af",
     "name": "Контейнер круглый 0,53л черный, с крышкой 50шт/уп., 150шт/кор",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/72008e9e-8771-4e7a-95b1-c570f1330580?miniature=true"
-    ],
+    "images": [],
     "price": 28,
     "productFolder": {
       "id": "4400d815-fb76-11ef-0a80-1ab300127e9d"
@@ -1454,9 +1161,7 @@
   {
     "id": "6f044d62-9da5-11ef-0a80-0dc40006c4b7",
     "name": "Крышка для стак.  д.90мм прозрачная",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/0f1c6494-a892-47eb-aa7b-52d074b4653c?miniature=true"
-    ],
+    "images": [],
     "price": 4.5,
     "productFolder": {
       "id": "a0a11673-a83e-11ef-0a80-140b00013536"
@@ -1465,9 +1170,7 @@
   {
     "id": "70ea8958-f133-11ef-0a80-030c0019c103",
     "name": "Ценник 25х35мм  желтый",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/25484f4e-f85d-4d03-b1b0-50a45d1b735e?miniature=true"
-    ],
+    "images": [],
     "price": 35,
     "productFolder": {
       "id": "7dbeea12-fc52-11ef-0a80-10550019c5b7"
@@ -1476,9 +1179,7 @@
   {
     "id": "71155628-9dbc-11ef-0a80-08db000bf26b",
     "name": "Салфетки в КОРОБКЕ 2-слойные(Корич.короб.)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/db6c9f6d-e8da-42c0-95ac-914f09464657?miniature=true"
-    ],
+    "images": [],
     "price": 75,
     "productFolder": {
       "id": "a05f2cb9-f154-11ef-0a80-0f59001b3d7d"
@@ -1487,9 +1188,7 @@
   {
     "id": "723d0e56-9d3e-11ef-0a80-14e900011de7",
     "name": "Тарталетка бум круглая белая D 50 H 30 8уп*1000шт.",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/c451bb42-a989-467e-91f6-5ce40dd1f3ee?miniature=true"
-    ],
+    "images": [],
     "price": 650,
     "productFolder": {
       "id": "eac65de8-9d3a-11ef-0a80-0c9d0000f0b8"
@@ -1498,9 +1197,7 @@
   {
     "id": "7263cc5f-1184-11f0-0a80-0b400013af54",
     "name": "Стакан бум. 2сл 250мл d=80мм пастель пудра",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/29f13de7-01fd-4692-9879-70336146240d?miniature=true"
-    ],
+    "images": [],
     "price": 0,
     "productFolder": {
       "id": "ef136d9f-1163-11f0-0a80-174800121d8d"
@@ -1509,9 +1206,7 @@
   {
     "id": "73004213-9e7a-11ef-0a80-079d001ad65c",
     "name": "Тарелка 205мм  Позитрон 100шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/6dd2d64d-8835-412a-8e0d-d7f378211ace?miniature=true"
-    ],
+    "images": [],
     "price": 3.5,
     "productFolder": {
       "id": "4400d815-fb76-11ef-0a80-1ab300127e9d"
@@ -1520,10 +1215,7 @@
   {
     "id": "77733f81-d5e1-11ef-0a80-03bf001bcc3f",
     "name": "Бум.Стакан 0,250л 80мм  Крафт 2-х слойн.  24шт/уп(ПОД ЗАКАЗ)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/d1b809ca-6d47-4bd3-82b7-2af2f0ff4931?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/fb98a44e-c035-48aa-8a8f-52b55c0d440e?miniature=true"
-    ],
+    "images": [],
     "price": 7.5,
     "productFolder": {
       "id": "ef136d9f-1163-11f0-0a80-174800121d8d"
@@ -1532,9 +1224,7 @@
   {
     "id": "7811c051-fcec-11ef-0a80-117a00204426",
     "name": "Ложка чайная (ВЗЛП) 125мм",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/e8711e5b-7891-4a1d-b3b0-0f52a757cbc8?miniature=true"
-    ],
+    "images": [],
     "price": 80,
     "productFolder": {
       "id": "055880d1-9d0b-11ef-0a80-0dbe0012ab38"
@@ -1543,9 +1233,7 @@
   {
     "id": "7833ed8c-9d00-11ef-0a80-0794000fe21a",
     "name": "Бум.стакан 0,350л Черный 2-х слойн",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/664cfe3e-9570-4bcf-a85d-58b0ebfeacbb?miniature=true"
-    ],
+    "images": [],
     "price": 9.5,
     "productFolder": {
       "id": "ef136d9f-1163-11f0-0a80-174800121d8d"
@@ -1554,9 +1242,7 @@
   {
     "id": "785cd87b-a845-11ef-0a80-0c1000017152",
     "name": "Пакет майка 27х49 \"Мерседес\" 4,2 гр серый Премиум",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/e28b8bf0-676b-4f0f-808a-f88e51c22810?miniature=true"
-    ],
+    "images": [],
     "price": 1.7,
     "productFolder": {
       "id": "0afea635-fc53-11ef-0a80-142b001a76a3"
@@ -1565,9 +1251,7 @@
   {
     "id": "78e78fc4-9d4b-11ef-0a80-08db000184ba",
     "name": "Короб бумажный для лапши  China Pack Китай   450мл",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/5a3d4606-4ec7-4b74-b705-a06beb037c46?miniature=true"
-    ],
+    "images": [],
     "price": 16.9,
     "productFolder": {
       "id": "d7e4ef8d-fc4a-11ef-0a80-03ca001ad4b9"
@@ -1576,9 +1260,7 @@
   {
     "id": "794a2530-024d-11f0-0a80-040a001e3da6",
     "name": "Пакет майка 27х49  4гр бирюза Премиум 100шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/3a8a58ea-936b-46dd-818e-4bc76546872d?miniature=true"
-    ],
+    "images": [],
     "price": 150,
     "productFolder": {
       "id": "0afea635-fc53-11ef-0a80-142b001a76a3"
@@ -1587,9 +1269,7 @@
   {
     "id": "7a76bc2a-9d05-11ef-0a80-18860010e7c1",
     "name": "Бумага для выпечки Силикон. ГУРМАНОФ  38*100",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/5dfd97b7-9469-408e-9763-0f7b96f15ed0?miniature=true"
-    ],
+    "images": [],
     "price": 870,
     "productFolder": {
       "id": "ee94c557-9d04-11ef-0a80-0dbe00116cae"
@@ -1598,9 +1278,7 @@
   {
     "id": "7cbf4535-f799-11ef-0a80-19190011c166",
     "name": "крышка для стак. д.80 Красная",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/7e6a41a8-fc76-465c-aebe-cd33898aff19?miniature=true"
-    ],
+    "images": [],
     "price": 3.5,
     "productFolder": {
       "id": "a0a11673-a83e-11ef-0a80-140b00013536"
@@ -1609,9 +1287,7 @@
   {
     "id": "7d2b9ee2-9d3b-11ef-0a80-090a00010474",
     "name": "ДоЭко Подложка 1,5мм  D-240 золото/жемчуг",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/9cb90122-2373-420b-ad7a-b0fc99fe99ea?miniature=true"
-    ],
+    "images": [],
     "price": 31.5,
     "productFolder": {
       "id": "eac65de8-9d3a-11ef-0a80-0c9d0000f0b8"
@@ -1620,11 +1296,7 @@
   {
     "id": "7d808f7f-bfbf-11ef-0a80-0219001c29f9",
     "name": "Стакан матовый Bubble Cup 375мл Матовый  (25шт/уп)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/c9a2dba7-174e-444f-89ea-362150792c4a?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/520832f5-00ff-4c9f-a7ff-0691712c5b9e?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/84f18d8c-f1ca-4949-a96d-14858b876daa?miniature=true"
-    ],
+    "images": [],
     "price": 12.5,
     "productFolder": {
       "id": "87acb5b8-fb79-11ef-0a80-05f400133809"
@@ -1633,9 +1305,7 @@
   {
     "id": "7dac2bd8-116e-11f0-0a80-110800120fbf",
     "name": "Стакан 300 мл бум. d=90 мм гофрированный красный Волна",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/531f385e-19ed-47c8-aaca-e1f8785254c9?miniature=true"
-    ],
+    "images": [],
     "price": 14,
     "productFolder": {
       "id": "d1d26f26-1164-11f0-0a80-14640012470b"
@@ -1644,9 +1314,7 @@
   {
     "id": "7eb0da7f-a65b-11ef-0a80-119e000b636d",
     "name": "Пакет майка 24х44 2,5гр  100шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/581dabef-833a-4ecb-a518-ea28bea1c59e?miniature=true"
-    ],
+    "images": [],
     "price": 115,
     "productFolder": {
       "id": "0afea635-fc53-11ef-0a80-142b001a76a3"
@@ -1655,10 +1323,7 @@
   {
     "id": "7f226343-fce2-11ef-0a80-18ca001ec43b",
     "name": "Салфетка для стекла 30см*30см в инд упаковке (20шт/кор)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/67cff39b-090c-4fca-9c47-d6c1d2d45f14?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/840cd277-e4b1-4e3f-a312-b0a25fb1befe?miniature=true"
-    ],
+    "images": [],
     "price": 65,
     "productFolder": {
       "id": "a05f2cb9-f154-11ef-0a80-0f59001b3d7d"
@@ -1667,9 +1332,7 @@
   {
     "id": "7f943a0f-eb94-11ef-0a80-0d4b004154c6",
     "name": "Пакет фасовочный 30х40 Шапов. Зеленая",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/97eaa922-6d5e-4698-814e-cb6d667733c9?miniature=true"
-    ],
+    "images": [],
     "price": 68,
     "productFolder": {
       "id": "580bedaf-fc53-11ef-0a80-0e3d001a3409"
@@ -1678,9 +1341,7 @@
   {
     "id": "812ac16a-bb81-11ef-0a80-1433002a18ae",
     "name": "кассовая лента 80мм",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/3b81a829-b108-424f-9236-6baadc97bb60?miniature=true"
-    ],
+    "images": [],
     "price": 130,
     "productFolder": {
       "id": "7dbeea12-fc52-11ef-0a80-10550019c5b7"
@@ -1689,12 +1350,7 @@
   {
     "id": "81b10778-1212-11f0-0a80-0b40001916e0",
     "name": "Молочник (питчер) 600мл",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/50bbd000-07a5-42d4-80ff-4749becd9049?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/8aaa09c5-f2e4-4ec3-90e6-67375219ed7b?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/ba6773ae-46b8-4084-8d4e-7f1c029851b7?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/cf71581d-bccb-4e25-910c-f91246ccb72f?miniature=true"
-    ],
+    "images": [],
     "price": 1200,
     "productFolder": {
       "id": "36040507-1212-11f0-0a80-08fb0018b7fc"
@@ -1703,9 +1359,7 @@
   {
     "id": "820fcf02-9d13-11ef-0a80-050c00140ad5",
     "name": "Короб для фри ECO FRY L 90х48х132 150гр",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/331e29c0-ab2f-4e49-a4d1-0795dd425a30?miniature=true"
-    ],
+    "images": [],
     "price": 5.5,
     "productFolder": {
       "id": "cf61e2b8-9d12-11ef-0a80-07940013b5b1"
@@ -1714,9 +1368,7 @@
   {
     "id": "82ffb05c-9d0b-11ef-0a80-188600122c55",
     "name": "Вилка \"ПРЕМИУМ\" чёрная 50шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/d5102854-b7db-4c2c-a3d0-d5c5b1550c3a?miniature=true"
-    ],
+    "images": [],
     "price": 145,
     "productFolder": {
       "id": "055880d1-9d0b-11ef-0a80-0dbe0012ab38"
@@ -1725,9 +1377,7 @@
   {
     "id": "8317b1bc-aa4c-11ef-0a80-0d890024c4f8",
     "name": "Короб-Стакан для картофеля фри малый желтый 34х62х85 80гр",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/2f98aba1-2312-4653-a5b4-515827368c44?miniature=true"
-    ],
+    "images": [],
     "price": 4.8,
     "productFolder": {
       "id": "cf61e2b8-9d12-11ef-0a80-07940013b5b1"
@@ -1736,11 +1386,7 @@
   {
     "id": "839466a7-9da6-11ef-0a80-079d000779f6",
     "name": "Стакан прозрачный Bubble Cup 300мл (50шт/уп)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/7d948b37-7450-4f9a-9fbc-a26db14c7b8d?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/ec1c1c12-6d4b-49ca-9158-080c07fc0a17?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/4edcea79-2307-4be5-8dac-5435d190337e?miniature=true"
-    ],
+    "images": [],
     "price": 7.6,
     "productFolder": {
       "id": "87acb5b8-fb79-11ef-0a80-05f400133809"
@@ -1749,9 +1395,7 @@
   {
     "id": "83a5caf6-9da5-11ef-0a80-176d000708aa",
     "name": "Крышка для стак.  д.90мм черная",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/26463196-1c7d-4bc5-9dd7-acd254713738?miniature=true"
-    ],
+    "images": [],
     "price": 4.5,
     "productFolder": {
       "id": "a0a11673-a83e-11ef-0a80-140b00013536"
@@ -1760,9 +1404,7 @@
   {
     "id": "84aa95f7-b08e-11ef-0a80-07b600c13bdd",
     "name": "Круглый контейнер Round Bowl 750 + крышка",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/8b09b0bc-fe5d-4a01-8b87-be6901ca6b8c?miniature=true"
-    ],
+    "images": [],
     "price": 27.5,
     "productFolder": {
       "id": "766c7123-a8db-11ef-0a80-0e3300136ed3"
@@ -1771,9 +1413,7 @@
   {
     "id": "858b8c9a-c5bb-11ef-0a80-170a001066e4",
     "name": "Шапочка-берет нетканная, белая 100шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/e44458b6-70e1-4195-9ecf-ce5fce8effaf?miniature=true"
-    ],
+    "images": [],
     "price": 280,
     "productFolder": {
       "id": "df402d62-f153-11ef-0a80-05e4001b3e4e"
@@ -1782,9 +1422,7 @@
   {
     "id": "86dda5b2-024b-11f0-0a80-040a001e200e",
     "name": "Стакан прозрачный  Bubble Cup375 мл. Глянцевый  (25шт/уп)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/19229619-544b-4973-a569-97707da735de?miniature=true"
-    ],
+    "images": [],
     "price": 12.5,
     "productFolder": {
       "id": "87acb5b8-fb79-11ef-0a80-05f400133809"
@@ -1793,9 +1431,7 @@
   {
     "id": "87391d2d-9d45-11ef-0a80-090a0001734b",
     "name": "Размешиватель деревянный  140мм 500шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/0c7e37b7-2ae4-4b60-b14c-d8d94bff9e73?miniature=true"
-    ],
+    "images": [],
     "price": 330,
     "productFolder": {
       "id": "c3fcbcbf-aa70-11ef-0a80-0e330029acf6"
@@ -1804,9 +1440,7 @@
   {
     "id": "8805213b-9d3f-11ef-0a80-08db00013940",
     "name": "Упаковка для торта Т-214",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/36574839-c1c3-4667-bf95-8bbcdff7efc6?miniature=true"
-    ],
+    "images": [],
     "price": 46,
     "productFolder": {
       "id": "eac65de8-9d3a-11ef-0a80-0c9d0000f0b8"
@@ -1815,9 +1449,7 @@
   {
     "id": "889496d4-9e72-11ef-0a80-08db0019d196",
     "name": "Контейнер прямоуг. 0,350л  Упакс - Юнити 108*82*49  (100шт/уп)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/ac725b91-0aad-496c-8f7b-a79d4eb2d07d?miniature=true"
-    ],
+    "images": [],
     "price": 4.2,
     "productFolder": {
       "id": "b099c30a-9d48-11ef-0a80-06b200013c98"
@@ -1826,9 +1458,7 @@
   {
     "id": "88fd4a62-9daa-11ef-0a80-0c9d0007e560",
     "name": "Трубочки для коктейля  5х210 с изгибом черные /250шт/",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/5da139c5-c18d-46b2-a27a-6b0dd1a7392b?miniature=true"
-    ],
+    "images": [],
     "price": 190,
     "productFolder": {
       "id": "d170cdb4-aa6f-11ef-0a80-09750028aa3f"
@@ -1837,9 +1467,7 @@
   {
     "id": "891318ab-9d3d-11ef-0a80-0c9d00010d20",
     "name": "Пакет крафт с крученой ручкой б/п 260х150х350 бурый 70гр",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/0881b00b-2c4e-48a3-b0b5-e2157c3e694e?miniature=true"
-    ],
+    "images": [],
     "price": 12.5,
     "productFolder": {
       "id": "92d4f76d-fc4b-11ef-0a80-0c11001a2ea6"
@@ -1848,9 +1476,7 @@
   {
     "id": "89393ab6-9cfc-11ef-0a80-1763000eeec9",
     "name": "Бум. стакан 0,180 Крафт 50шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/3884510d-2383-4620-a97e-004a13843095?miniature=true"
-    ],
+    "images": [],
     "price": 3,
     "productFolder": {
       "id": "6905abd5-1160-11f0-0a80-1108001094b4"
@@ -1859,9 +1485,7 @@
   {
     "id": "89ddd627-9d43-11ef-0a80-150800014665",
     "name": "Пика Феста СЕРДЦЕ бамбук 100шт/уп 12см",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/3b94d8f6-fea6-4719-b786-0429fa50727d?miniature=true"
-    ],
+    "images": [],
     "price": 250,
     "productFolder": {
       "id": "c3fcbcbf-aa70-11ef-0a80-0e330029acf6"
@@ -1870,9 +1494,7 @@
   {
     "id": "8b41bd05-9d0f-11ef-0a80-17630012ffe0",
     "name": "Держатель для 2-х стаканов Натуральный 150шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/20fa5bce-9503-4d6e-baa2-3f80c3e3d682?miniature=true"
-    ],
+    "images": [],
     "price": 4.5,
     "productFolder": {
       "id": "a6074b7c-a840-11ef-0a80-11b500019cf3"
@@ -1881,9 +1503,7 @@
   {
     "id": "8fdbb581-9d3c-11ef-0a80-0dc400010382",
     "name": "Пакет бумажный пищ. 220х90х40 БЕЛЫЙ",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/c3dcc26e-dfe0-4c66-8dda-fb567e8ceddd?miniature=true"
-    ],
+    "images": [],
     "price": 1.4,
     "productFolder": {
       "id": "0e4fc0fd-fc4e-11ef-0a80-01b1001a2583"
@@ -1892,12 +1512,7 @@
   {
     "id": "90277701-1206-11f0-0a80-06fc0018d2cc",
     "name": "Стойка с 4 секциями под стаканы  Пластик",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/ef58c2b9-a159-4408-895c-6b0b7f34c689?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/3477a183-6ed1-4f2a-b257-dc608c005e0f?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/6fe78ead-77a3-40f5-99fd-043cb2e127a8?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/160d2fec-f484-4a0f-ba1b-886bdd80272c?miniature=true"
-    ],
+    "images": [],
     "price": 3500,
     "productFolder": {
       "id": "c29f5422-1203-11f0-0a80-17480018786a"
@@ -1906,9 +1521,7 @@
   {
     "id": "9115ed32-9e79-11ef-0a80-176d001a862f",
     "name": "Крышка к контейнеру 1.5 (186х132) \" 50шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/17de95e0-c851-41aa-8c55-228ff8e719fe?miniature=true"
-    ],
+    "images": [],
     "price": 4.6,
     "productFolder": {
       "id": "b099c30a-9d48-11ef-0a80-06b200013c98"
@@ -1917,9 +1530,7 @@
   {
     "id": "924a93e3-fce6-11ef-0a80-13ce001efcd6",
     "name": "Контейнер РКС-750 176х147х64мм 750мл с крышкой",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/2169de53-b996-4a1e-b5d8-84d33ae3e1a8?miniature=true"
-    ],
+    "images": [],
     "price": 13.5,
     "productFolder": {
       "id": "b099c30a-9d48-11ef-0a80-06b200013c98"
@@ -1928,9 +1539,7 @@
   {
     "id": "93372af6-9d47-11ef-0a80-08db0001737d",
     "name": "Салфетки 24х24 белая",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/0ff61295-8805-4e82-90a5-32f9509978a0?miniature=true"
-    ],
+    "images": [],
     "price": 22.5,
     "productFolder": {
       "id": "a05f2cb9-f154-11ef-0a80-0f59001b3d7d"
@@ -1939,9 +1548,7 @@
   {
     "id": "93eb19fd-9dab-11ef-0a80-135200085f81",
     "name": "Трубочки для коктейля в инд.уп. 12х210 прямая черная (250шт/уп)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/dbfafa36-991d-4eee-abc2-7e7060903343?miniature=true"
-    ],
+    "images": [],
     "price": 850,
     "productFolder": {
       "id": "d170cdb4-aa6f-11ef-0a80-09750028aa3f"
@@ -1950,9 +1557,7 @@
   {
     "id": "947755a3-9d11-11ef-0a80-0e5200145057",
     "name": "ДоЭко контейнер универ TABOX 1000 PRO 200х120х40мм с окном",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/ccfc26f0-20fa-4c4a-b57a-ba6e2b52e24d?miniature=true"
-    ],
+    "images": [],
     "price": 23.5,
     "productFolder": {
       "id": "91247c36-9d10-11ef-0a80-079400134cf4"
@@ -1961,9 +1566,7 @@
   {
     "id": "94a2ef4a-0e13-11f0-0a80-0304002cf1a9",
     "name": "Крышка для стак. d-90мм прозрачная п/п с красной заглушкой тип В(Под Заказ)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/bb9b8acc-4219-48e7-9577-f63a938f90a9?miniature=true"
-    ],
+    "images": [],
     "price": 8,
     "productFolder": {
       "id": "87acb5b8-fb79-11ef-0a80-05f400133809"
@@ -1972,12 +1575,7 @@
   {
     "id": "95045263-1207-11f0-0a80-06fc0018e908",
     "name": "Стойка с 4 секциями под стаканы и 7 секциями под аксессуары Пластик",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/24689db1-3329-42c7-854b-422eae1a9e3e?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/42eea6e6-f5a5-4135-b2f2-2f42d645078c?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/40cfb9cc-af4e-470d-ad0b-317703791ecf?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/7db1be33-ff10-488d-8a90-6711d184d2c5?miniature=true"
-    ],
+    "images": [],
     "price": 5800,
     "productFolder": {
       "id": "c29f5422-1203-11f0-0a80-17480018786a"
@@ -1986,9 +1584,7 @@
   {
     "id": "9577fe7e-9d0f-11ef-0a80-06ad00129ceb",
     "name": "Держатель для 4-х стаканов Натуральный 130шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/3ab89c0d-7755-4bdc-8b53-4e2c77aa724d?miniature=true"
-    ],
+    "images": [],
     "price": 6.9,
     "productFolder": {
       "id": "a6074b7c-a840-11ef-0a80-11b500019cf3"
@@ -1997,9 +1593,7 @@
   {
     "id": "981fa013-9d45-11ef-0a80-06b2000126c0",
     "name": "Размешиватель деревянный (упх250шт) 178мм AVIORA в индивид.упак",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/a975d315-9f8c-4f14-8521-dc0beaccbdab?miniature=true"
-    ],
+    "images": [],
     "price": 380,
     "productFolder": {
       "id": "c3fcbcbf-aa70-11ef-0a80-0e330029acf6"
@@ -2008,9 +1602,7 @@
   {
     "id": "9a17f4d3-116d-11f0-0a80-06fc00130dc0",
     "name": "Стакан 300 мл бум. d=90 мм гофрированный  двухсторонний крафт",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/63bcfb75-0653-46c8-81df-982eb183ccba?miniature=true"
-    ],
+    "images": [],
     "price": 0,
     "productFolder": {
       "id": "d1d26f26-1164-11f0-0a80-14640012470b"
@@ -2019,10 +1611,7 @@
   {
     "id": "9abbd479-1205-11f0-0a80-0e8d00183453",
     "name": "Стойка с 4 секциями под стаканы диагональ, Пластик",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/5b018309-e560-40b7-8cd2-af3e5f753ccb?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/284e3af8-1c3d-4425-9b37-a3cf73380d7c?miniature=true"
-    ],
+    "images": [],
     "price": 4800,
     "productFolder": {
       "id": "c29f5422-1203-11f0-0a80-17480018786a"
@@ -2031,9 +1620,7 @@
   {
     "id": "9b4b163e-dd4a-11ef-0a80-15f300172977",
     "name": "Пакет для мусора 60л 8 мкм",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/fee9f634-b77c-45dd-83ae-2265d717b779?miniature=true"
-    ],
+    "images": [],
     "price": 79,
     "productFolder": {
       "id": "362031b7-fc53-11ef-0a80-05f4001b3020"
@@ -2042,9 +1629,7 @@
   {
     "id": "9c26e8fd-116f-11f0-0a80-06fc00132ab9",
     "name": "Стакан 400 мл бум. d=90 мм гофрированный двухсторонний Краф",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/c5a56024-c172-438c-8de5-4368f4564f00?miniature=true"
-    ],
+    "images": [],
     "price": 0,
     "productFolder": {
       "id": "d1d26f26-1164-11f0-0a80-14640012470b"
@@ -2053,9 +1638,7 @@
   {
     "id": "9e99d108-9da7-11ef-0a80-079d0007b425",
     "name": "Стакан прозрачный PET 200мл D.95 (50шт/уп)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/7fe27852-7ff2-4e6f-988c-209c8639b6ef?miniature=true"
-    ],
+    "images": [],
     "price": 6.2,
     "productFolder": {
       "id": "aaa2fc23-fb82-11ef-0a80-168e0013ca77"
@@ -2064,9 +1647,7 @@
   {
     "id": "9ea67e6f-9dac-11ef-0a80-08db00085cb4",
     "name": "Бум креманка Виридо 0,250 Белая 50 в уп.",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/817a75bd-bc5c-4963-8fe8-e9e8476b65f1?miniature=true"
-    ],
+    "images": [],
     "price": 5.9,
     "productFolder": {
       "id": "766c7123-a8db-11ef-0a80-0e3300136ed3"
@@ -2075,11 +1656,7 @@
   {
     "id": "9f1b4121-fd16-11ef-0a80-18ca00212ee4",
     "name": "Бум.стакан 0,250л Бирюзовый 50шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/9c1c6cc9-312e-42de-b9a7-045391c33655?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/8535ea52-7fb4-4300-a6d3-aab789a8ed0d?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/f2493638-3015-4332-bc15-04a0e380a006?miniature=true"
-    ],
+    "images": [],
     "price": 4,
     "productFolder": {
       "id": "6905abd5-1160-11f0-0a80-1108001094b4"
@@ -2088,9 +1665,7 @@
   {
     "id": "9f317fb2-aa49-11ef-0a80-140b002547b3",
     "name": "Лоток TRAY 550 Pure Kraft 139х139х42мм",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/27512489-5829-4a57-b17d-2976178317a7?miniature=true"
-    ],
+    "images": [],
     "price": 5,
     "productFolder": {
       "id": "cf61e2b8-9d12-11ef-0a80-07940013b5b1"
@@ -2099,9 +1674,7 @@
   {
     "id": "9fe0c074-9d3e-11ef-0a80-14e900011fd0",
     "name": "Упаковка для торта Т-270",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/aa9ed6ec-9a28-4d55-9d66-9a7ad65ffe9d?miniature=true"
-    ],
+    "images": [],
     "price": 98,
     "productFolder": {
       "id": "eac65de8-9d3a-11ef-0a80-0c9d0000f0b8"
@@ -2110,9 +1683,7 @@
   {
     "id": "a28ab1ea-9d42-11ef-0a80-090a00015d2e",
     "name": "Фольга Горница 440мм х 80м 11 мкр  Прочная",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/93c38e0e-bc44-4bf8-ba80-c1cc7cc9ce0d?miniature=true"
-    ],
+    "images": [],
     "price": 950,
     "productFolder": {
       "id": "ee94c557-9d04-11ef-0a80-0dbe00116cae"
@@ -2121,9 +1692,7 @@
   {
     "id": "a54cb1bd-dbdd-11ef-0a80-009b0020f1f7",
     "name": "Лоток D-11А БЕЛЫЙ /225х135х10",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/ed7395bb-67d9-4d05-9bdb-015e8597e814?miniature=true"
-    ],
+    "images": [],
     "price": 4,
     "productFolder": {
       "id": "a17fefc0-fc4f-11ef-0a80-0b9c001a5b85"
@@ -2132,10 +1701,7 @@
   {
     "id": "a89c2425-1182-11f0-0a80-06fc0014422d",
     "name": "Стакан 300 мл бум.d=90 мм гофрированный Тиффани Волна",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/042636ca-f39a-405e-93c5-92028cd55094?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/2a0b7962-726f-48f3-9c83-2052eaa18d0e?miniature=true"
-    ],
+    "images": [],
     "price": 0,
     "productFolder": {
       "id": "d1d26f26-1164-11f0-0a80-14640012470b"
@@ -2144,11 +1710,7 @@
   {
     "id": "ab0a2ddc-12db-11f0-0a80-0e8d0021004a",
     "name": "Темпер для кофе 51мм  со стальной ручкой",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/dd72987a-957a-4b15-a05b-d33593488f9b?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/41da6993-b54e-4c07-9e36-86d9e2f01f0c?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/f77d89fc-ce62-4c8a-86b8-14590289ec81?miniature=true"
-    ],
+    "images": [],
     "price": 1300,
     "productFolder": {
       "id": "36040507-1212-11f0-0a80-08fb0018b7fc"
@@ -2157,9 +1719,7 @@
   {
     "id": "ab2a2faa-b08f-11ef-0a80-163f00bf82de",
     "name": "Пакет бумажный пищ. 400х250х100 лаваш крафт бурый",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/823a021d-8588-4dfd-8d9f-2af04930b182?miniature=true"
-    ],
+    "images": [],
     "price": 4,
     "productFolder": {
       "id": "0e4fc0fd-fc4e-11ef-0a80-01b1001a2583"
@@ -2168,9 +1728,7 @@
   {
     "id": "adc63281-a65d-11ef-0a80-01db000c0da5",
     "name": "Бум. стакан  0,350л Новый год 50шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/b03405ed-eed9-4a2a-9dba-e4e4833e3b2b?miniature=true"
-    ],
+    "images": [],
     "price": 5,
     "productFolder": {
       "id": "6905abd5-1160-11f0-0a80-1108001094b4"
@@ -2179,9 +1737,7 @@
   {
     "id": "aef8c120-9d3c-11ef-0a80-118b00012910",
     "name": "Пакет бумажный пищ. 250х140х60 бурый",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/f43129e3-bfbb-4bb1-afd9-fd0b17977d0b?miniature=true"
-    ],
+    "images": [],
     "price": 1.4,
     "productFolder": {
       "id": "0e4fc0fd-fc4e-11ef-0a80-01b1001a2583"
@@ -2190,9 +1746,7 @@
   {
     "id": "b05147aa-9d0e-11ef-0a80-06ad0012695d",
     "name": "Перчатки одноразовые AVIORA L /уп х100шт/",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/3cbd08cf-1e00-413e-9434-c6c6e1205cc8?miniature=true"
-    ],
+    "images": [],
     "price": 50,
     "productFolder": {
       "id": "c71b4cd3-9d0c-11ef-0a80-0dbe00131ace"
@@ -2201,9 +1755,7 @@
   {
     "id": "b0ac1687-2336-11f0-0a80-1095001ee0c3",
     "name": "Бутербродница УК-20 /165*59*77/ Каштан",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/e52df40f-8eb2-4a8a-9fb0-a4541e120bfc?miniature=true"
-    ],
+    "images": [],
     "price": 12,
     "productFolder": {
       "id": "cf61e2b8-9d12-11ef-0a80-07940013b5b1"
@@ -2212,9 +1764,7 @@
   {
     "id": "b155b39d-b944-11ef-0a80-10720020259e",
     "name": "Влажные салфетки AURA 120 шт. с крышкой",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/7cfb2d9f-d93a-4df9-a16f-3a7952f0d3ff?miniature=true"
-    ],
+    "images": [],
     "price": 120,
     "productFolder": {
       "id": "a05f2cb9-f154-11ef-0a80-0f59001b3d7d"
@@ -2223,9 +1773,7 @@
   {
     "id": "b2331c5a-b632-11ef-0a80-16a4003c2db1",
     "name": "Ведерко прозрачное с крышкой 155 мл",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/43bf95dd-fad3-4da1-9b74-c3f53d3a4e0e?miniature=true"
-    ],
+    "images": [],
     "price": 12,
     "productFolder": {
       "id": "1dcd84a5-fb77-11ef-0a80-0b9c00121d72"
@@ -2234,9 +1782,7 @@
   {
     "id": "b275cad4-fb84-11ef-0a80-0e3d0012e7f3",
     "name": "Стакан прозрачный PET PULSAR-500мл  D-95  (50шт/уп❗️ОЖИДАЕТСЯ",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/13c98db8-ed8b-4dd4-a82e-1aec60d18fbe?miniature=true"
-    ],
+    "images": [],
     "price": 10.5,
     "productFolder": {
       "id": "aaa2fc23-fb82-11ef-0a80-168e0013ca77"
@@ -2245,9 +1791,7 @@
   {
     "id": "b2fcffb3-9d3f-11ef-0a80-0e1200011de8",
     "name": "Упаковка для торта Т-450",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/5f82962d-0a68-4e8d-afd9-384d34f05661?miniature=true"
-    ],
+    "images": [],
     "price": 157,
     "productFolder": {
       "id": "eac65de8-9d3a-11ef-0a80-0c9d0000f0b8"
@@ -2256,9 +1800,7 @@
   {
     "id": "b3a6dc6b-9d00-11ef-0a80-06ad000f7106",
     "name": "Бум.стакан 0,350л Белый 2-х слойн",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/b5d91b2e-9773-4e64-bda6-e228db511e9d?miniature=true"
-    ],
+    "images": [],
     "price": 9.5,
     "productFolder": {
       "id": "ef136d9f-1163-11f0-0a80-174800121d8d"
@@ -2267,9 +1809,7 @@
   {
     "id": "b44ac326-9d49-11ef-0a80-0c9d00017869",
     "name": "Емкость РС-1",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/29d982f8-b1f1-4d9e-8c1f-e2728d6f8d51?miniature=true"
-    ],
+    "images": [],
     "price": 12,
     "productFolder": {
       "id": "cf61e2b8-9d12-11ef-0a80-07940013b5b1"
@@ -2278,9 +1818,7 @@
   {
     "id": "b5fbe789-9d05-11ef-0a80-0c8b00116689",
     "name": "Бумага для выпечки 38х100м коричневая",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/78beb754-a36b-45a6-8273-ed5179991531?miniature=true"
-    ],
+    "images": [],
     "price": 390,
     "productFolder": {
       "id": "ee94c557-9d04-11ef-0a80-0dbe00116cae"
@@ -2289,11 +1827,7 @@
   {
     "id": "b6725eda-ab28-11ef-0a80-0e33003c409a",
     "name": "Банка ПЭТ 0,300 \"Детокс\" + черная крышка",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/fe58fa2b-093b-47a7-bae5-c92eca80f734?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/312a14c9-cb58-4076-8365-a79d6316ea31?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/f942f0b2-fbe8-4477-8d3a-6e942e5a5527?miniature=true"
-    ],
+    "images": [],
     "price": 17,
     "productFolder": {
       "id": "1dcd84a5-fb77-11ef-0a80-0b9c00121d72"
@@ -2302,11 +1836,7 @@
   {
     "id": "b7c4f5a4-9d44-11ef-0a80-06b200012255",
     "name": "Палочки для еды в индив. бум. упаковке 23см (уп х 100шт)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/5438c8d6-3e86-47d0-a6d7-1e58803d5267?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/22bc27e7-0f3e-47a0-b6df-4df857f36137?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/8026e41b-c4df-4938-93d9-760ad17d2d67?miniature=true"
-    ],
+    "images": [],
     "price": 300,
     "productFolder": {
       "id": "055880d1-9d0b-11ef-0a80-0dbe0012ab38"
@@ -2315,9 +1845,7 @@
   {
     "id": "b86a37f4-9e76-11ef-0a80-0bb500193841",
     "name": "Банка-Универсал 550мл. d=69 прозрачная + Крышка",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/061ef90e-89ec-485d-8b66-fe32a19f2d31?miniature=true"
-    ],
+    "images": [],
     "price": 18,
     "productFolder": {
       "id": "1dcd84a5-fb77-11ef-0a80-0b9c00121d72"
@@ -2326,9 +1854,7 @@
   {
     "id": "b92b012a-9daa-11ef-0a80-118b00082216",
     "name": "Трубочки для коктейля  8х240 черные МК /250шт/",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/176e7b22-f729-47c7-9020-71509a9b5996?miniature=true"
-    ],
+    "images": [],
     "price": 220,
     "productFolder": {
       "id": "d170cdb4-aa6f-11ef-0a80-09750028aa3f"
@@ -2337,11 +1863,7 @@
   {
     "id": "b9d81ee0-12cd-11f0-0a80-165700202864",
     "name": "Пакет крафт с крученой ручкой 320х200х370 крафт без печати 70г",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/d06acfdd-385b-4ec1-be8a-8c21d6503ca3?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/b089ddeb-1023-4b2d-b925-fb4f1a3da42b?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/91b66ac5-3251-4347-9b2c-2339c972f22d?miniature=true"
-    ],
+    "images": [],
     "price": 15,
     "productFolder": {
       "id": "92d4f76d-fc4b-11ef-0a80-0c11001a2ea6"
@@ -2350,9 +1872,7 @@
   {
     "id": "ba26d9ea-9d3d-11ef-0a80-0fd10001230c",
     "name": "Пакет крафт с крученой ручкой б/п 320х180х430 бурый 78г",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/c00ebc1b-0eb1-4d22-8810-c2beefba24c1?miniature=true"
-    ],
+    "images": [],
     "price": 14.8,
     "productFolder": {
       "id": "92d4f76d-fc4b-11ef-0a80-0c11001a2ea6"
@@ -2361,9 +1881,7 @@
   {
     "id": "ba82a143-fceb-11ef-0a80-1055001f3285",
     "name": "Крышка для стак . д-90  темно-зеленые",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/3194643f-c598-42cd-91df-739daad4ae46?miniature=true"
-    ],
+    "images": [],
     "price": 4.5,
     "productFolder": {
       "id": "a0a11673-a83e-11ef-0a80-140b00013536"
@@ -2372,10 +1890,7 @@
   {
     "id": "bc282f9c-1173-11f0-0a80-1a5b00128538",
     "name": "Стакан 250 мл бум. d=80 мм гофрированный Лаванда Волна",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/70fe0b66-eb6d-431f-b24a-395d4f9662e8?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/096fed89-dd0e-4e40-8b0c-b0e5c5defa0e?miniature=true"
-    ],
+    "images": [],
     "price": 0,
     "productFolder": {
       "id": "d1d26f26-1164-11f0-0a80-14640012470b"
@@ -2384,11 +1899,7 @@
   {
     "id": "bd5286aa-1170-11f0-0a80-16570012f2e2",
     "name": "Стакан 400 мл бум. d=90 мм гофрированный Крафт",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/ee2f01dc-6065-42ca-84a1-60100541ebbb?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/b5ed3be9-3804-412a-a26f-40f7e9be0eb6?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/5ec8ad76-2164-432a-adce-993148ebc1b8?miniature=true"
-    ],
+    "images": [],
     "price": 0,
     "productFolder": {
       "id": "d1d26f26-1164-11f0-0a80-14640012470b"
@@ -2397,9 +1908,7 @@
   {
     "id": "bd68b76b-a67d-11ef-0a80-096c0013dbdf",
     "name": "Салфетки 24х24 1сл. 400л  желтые",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/17fb7fe9-8b9d-4261-8f03-2e87552b9cf8?miniature=true"
-    ],
+    "images": [],
     "price": 240,
     "productFolder": {
       "id": "a05f2cb9-f154-11ef-0a80-0f59001b3d7d"
@@ -2408,9 +1917,7 @@
   {
     "id": "bde2e3a6-aa4e-11ef-0a80-01f20024ef85",
     "name": "Пакет для мусора 2х сл. 120л ПНД (10шт в рулоне) 25 мкм 68*105",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/dcf5c009-754b-4d6c-abf9-46c658fc778f?miniature=true"
-    ],
+    "images": [],
     "price": 120,
     "productFolder": {
       "id": "362031b7-fc53-11ef-0a80-05f4001b3020"
@@ -2419,9 +1926,7 @@
   {
     "id": "beb3a5fa-bb80-11ef-0a80-1154002ab545",
     "name": "Пакет бумажный пищевой 155х170 уголок",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/53f04cb3-cb55-4553-8fb5-516d6f1b9e37?miniature=true"
-    ],
+    "images": [],
     "price": 1.8,
     "productFolder": {
       "id": "0d98e7c9-fc4d-11ef-0a80-13ce001a6841"
@@ -2430,9 +1935,7 @@
   {
     "id": "bec49006-aa4a-11ef-0a80-1a730023a7d8",
     "name": "Короб под пиццу цельный гофрокартон 330х330 бурый без печати",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/6980ea97-57ab-498f-bcb0-7bf2f02e6654?miniature=true"
-    ],
+    "images": [],
     "price": 24,
     "productFolder": {
       "id": "cf61e2b8-9d12-11ef-0a80-07940013b5b1"
@@ -2441,9 +1944,7 @@
   {
     "id": "bef3047e-9cff-11ef-0a80-1763000fbb3b",
     "name": "Бум.стакан 0,350л Белый 50шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/3253ae90-b4c5-4890-8579-0097a7dba472?miniature=true"
-    ],
+    "images": [],
     "price": 5.5,
     "productFolder": {
       "id": "6905abd5-1160-11f0-0a80-1108001094b4"
@@ -2452,9 +1953,7 @@
   {
     "id": "bf26dc82-9d40-11ef-0a80-0bb50001181c",
     "name": "Пакет под короб для пиццы 380х140х700 100шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/f654e070-db0f-4733-beef-455066d4f8af?miniature=true"
-    ],
+    "images": [],
     "price": 550,
     "productFolder": {
       "id": "cf61e2b8-9d12-11ef-0a80-07940013b5b1"
@@ -2463,10 +1962,7 @@
   {
     "id": "bf578e83-fd15-11ef-0a80-0c1100217611",
     "name": "Бум. стакан  0,350л крафт Беж 50шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/105ded4a-0528-4159-a6b2-d1a0d89546c4?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/4b7cff37-b2aa-44c9-9562-591ab40afa7b?miniature=true"
-    ],
+    "images": [],
     "price": 0,
     "productFolder": {
       "id": "6905abd5-1160-11f0-0a80-1108001094b4"
@@ -2475,9 +1971,7 @@
   {
     "id": "c1e85af4-9d42-11ef-0a80-08db00015916",
     "name": "Фольга алюминеевая Горница 30х80 11мкр Прочная",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/f84134af-fd3b-429e-a658-8a304a1225f6?miniature=true"
-    ],
+    "images": [],
     "price": 800,
     "productFolder": {
       "id": "ee94c557-9d04-11ef-0a80-0dbe00116cae"
@@ -2486,9 +1980,7 @@
   {
     "id": "c23242ae-aab0-11ef-0a80-0e3500910884",
     "name": "Тарелка картонная 180мм крафт",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/48b1a524-b4f7-4d31-bab9-d2915670f1ad?miniature=true"
-    ],
+    "images": [],
     "price": 4,
     "productFolder": {
       "id": "4400d815-fb76-11ef-0a80-1ab300127e9d"
@@ -2497,9 +1989,7 @@
   {
     "id": "c3fa3504-1204-11f0-0a80-03b50017e308",
     "name": "Стойка с 3 секциями под стаканы и 6 секциями под аксессуары  ДЕРЕВО",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/0aa5eb67-1e2e-487f-bdd1-f46a024cdbbf?miniature=true"
-    ],
+    "images": [],
     "price": 6300,
     "productFolder": {
       "id": "c29f5422-1203-11f0-0a80-17480018786a"
@@ -2508,11 +1998,7 @@
   {
     "id": "c4ab8dc6-1184-11f0-0a80-1a5b001332fa",
     "name": "Стакан бум. 2сл 400мл d=90мм Красный",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/5dfe0149-b87b-476c-be71-2a57a3f9257f?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/15240525-cdd8-4b3a-aa30-e2743893856d?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/8270d184-b53c-4576-9dee-5b956346ed18?miniature=true"
-    ],
+    "images": [],
     "price": 0,
     "productFolder": {
       "id": "ef136d9f-1163-11f0-0a80-174800121d8d"
@@ -2521,11 +2007,7 @@
   {
     "id": "c83bf57d-1172-11f0-0a80-0921001325e4",
     "name": "Стакан 360 мл бум. d=80 мм гофрированный зеленый 3D",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/0c8d527e-ceab-44bb-932d-8c93bf839e70?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/38fce62c-2333-4fce-baf3-3e1101253b27?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/36c43b6b-6152-4906-a362-8c34dcf078f6?miniature=true"
-    ],
+    "images": [],
     "price": 12.5,
     "productFolder": {
       "id": "d1d26f26-1164-11f0-0a80-14640012470b"
@@ -2534,9 +2016,7 @@
   {
     "id": "c87ca053-0e06-11f0-0a80-03040029dcc7",
     "name": "Короб под фри FRY M 110х54х111 OSQ",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/e914614a-2883-43cf-a884-c2334cb91023?miniature=true"
-    ],
+    "images": [],
     "price": 5,
     "productFolder": {
       "id": "cf61e2b8-9d12-11ef-0a80-07940013b5b1"
@@ -2545,11 +2025,7 @@
   {
     "id": "c8b67e84-1165-11f0-0a80-0f430011fb1c",
     "name": "Стакан 250 мл бум. d=80 мм гофрированный Бордо",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/53f41826-0a2a-4feb-8ee8-84020888bdec?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/336ecf2e-da16-4820-9af4-8774f2a77b1e?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/1d3d082b-337c-4ebf-8e2d-099f93d045c9?miniature=true"
-    ],
+    "images": [],
     "price": 0,
     "productFolder": {
       "id": "d1d26f26-1164-11f0-0a80-14640012470b"
@@ -2558,9 +2034,7 @@
   {
     "id": "c9187ab8-fbfd-11ef-0a80-117c0036b557",
     "name": "Контейнер 0,200л 108х82х40 прямоугольный Упакс-Юнити /10уп х 100шт/",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/4d0c5e72-ca96-4078-92f7-4c3ea0fd8df1?miniature=true"
-    ],
+    "images": [],
     "price": 3,
     "productFolder": {
       "id": "b099c30a-9d48-11ef-0a80-06b200013c98"
@@ -2569,9 +2043,7 @@
   {
     "id": "c926e702-fd19-11ef-0a80-1ab3002202ba",
     "name": "Туалетная бумага 2-х сл. \"Plushe \"Classic белая 4 рул.",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/037e47c3-784f-4925-b99d-9aa534820471?miniature=true"
-    ],
+    "images": [],
     "price": 115,
     "productFolder": {
       "id": "374e6467-f154-11ef-0a80-05e4001b3ef9"
@@ -2580,9 +2052,7 @@
   {
     "id": "c945c026-9d0f-11ef-0a80-090200132c5e",
     "name": "Манжета на стакан 280х55 КРАФТ 2 -хсл 70шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/edec4b5e-1fa7-499f-8b42-e7c400a33fbd?miniature=true"
-    ],
+    "images": [],
     "price": 2.8,
     "productFolder": {
       "id": "a6074b7c-a840-11ef-0a80-11b500019cf3"
@@ -2591,9 +2061,7 @@
   {
     "id": "c96ff63e-f133-11ef-0a80-1413001a8a95",
     "name": "Пакет крафт без ручки б/п 240х140х400 крафт бурый 70г",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/01a4754d-7b99-423d-9e08-bfd9778fbca8?miniature=true"
-    ],
+    "images": [],
     "price": 8,
     "productFolder": {
       "id": "e2b27ded-fc4b-11ef-0a80-1ab3001ae46a"
@@ -2602,9 +2070,7 @@
   {
     "id": "ca1902ae-1182-11f0-0a80-0f430013eafb",
     "name": "Стакан 400 мл бум. d=90 мм гофрированный серый Волна",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/5a02d6f6-ab05-4249-a308-1bc09bef0550?miniature=true"
-    ],
+    "images": [],
     "price": 0,
     "productFolder": {
       "id": "d1d26f26-1164-11f0-0a80-14640012470b"
@@ -2613,9 +2079,7 @@
   {
     "id": "ca40cd27-fcea-11ef-0a80-0b9c001f6ba7",
     "name": "Крышка для стак. д-90 красная матовая",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/f55c9f7f-ec28-40ec-9e60-0016d2b236a6?miniature=true"
-    ],
+    "images": [],
     "price": 4.5,
     "productFolder": {
       "id": "a0a11673-a83e-11ef-0a80-140b00013536"
@@ -2624,11 +2088,7 @@
   {
     "id": "ca87b621-9da6-11ef-0a80-079d0007844a",
     "name": "Стакан матовый  Bubble Cup 500мл Матовый (20шт/уп)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/bc3b2727-1534-491e-b7c6-b2ec0be1e4d0?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/394fd710-750d-4746-8f5e-13621c6b3ca4?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/bbda0f37-78b4-4f6d-a699-dc0edb777675?miniature=true"
-    ],
+    "images": [],
     "price": 13.2,
     "productFolder": {
       "id": "87acb5b8-fb79-11ef-0a80-05f400133809"
@@ -2637,9 +2097,7 @@
   {
     "id": "ccf88a0f-fce5-11ef-0a80-01b1001e5d2d",
     "name": "Контейнер РК-17 185х112х65,5мм, 400мл с крышкой (570 шт.)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/b5cd300e-663b-4f35-afcb-7a0a48e3ee1c?miniature=true"
-    ],
+    "images": [],
     "price": 14.5,
     "productFolder": {
       "id": "b099c30a-9d48-11ef-0a80-06b200013c98"
@@ -2648,13 +2106,7 @@
   {
     "id": "cd6c7b8e-0e0d-11f0-0a80-1774002bd947",
     "name": "Крышка для стак. д.80 Желтая",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/f1442d20-7b92-49ec-a780-c8ea1e6a10a0?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/cc264607-6438-41a2-969e-6229723b536a?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/92e62083-2ad8-439e-b262-d7ea319b4e47?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/80dbf189-d733-4ed9-9851-8eb52395ee61?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/87d7b940-7d7e-40ed-8e64-c80540785016?miniature=true"
-    ],
+    "images": [],
     "price": 3.5,
     "productFolder": {
       "id": "a0a11673-a83e-11ef-0a80-140b00013536"
@@ -2663,9 +2115,7 @@
   {
     "id": "ce49a94f-aa4d-11ef-0a80-163f0025bf2b",
     "name": "Бумага оберточная \"Гамбургер\" 305х305 парафин /6уп х 500шт/",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/f720c8ec-c4cf-4868-b6b9-bfb3de396d25?miniature=true"
-    ],
+    "images": [],
     "price": 1500,
     "productFolder": {
       "id": "0d98e7c9-fc4d-11ef-0a80-13ce001a6841"
@@ -2674,9 +2124,7 @@
   {
     "id": "ce909fb1-9d3c-11ef-0a80-15080000f957",
     "name": "Пакет бумажный пищ. 300х170х70 крафт бурый 40г",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/7029bd17-01ee-4ba5-989b-0de7d78ba25e?miniature=true"
-    ],
+    "images": [],
     "price": 2.5,
     "productFolder": {
       "id": "0e4fc0fd-fc4e-11ef-0a80-01b1001a2583"
@@ -2685,10 +2133,7 @@
   {
     "id": "cf39828d-fb88-11ef-0a80-18ca00138fda",
     "name": "Стакан 500мл прозрачный п/п Факел (50шт.уп)❗️ОЖИДАЕТСЯ",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/4a009002-81a7-4dd6-bd2a-9e510a142f8f?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/1fa70605-1180-4934-8d6e-636b35578011?miniature=true"
-    ],
+    "images": [],
     "price": 145,
     "productFolder": {
       "id": "b2670bee-fb78-11ef-0a80-1ab300129a2d"
@@ -2697,9 +2142,7 @@
   {
     "id": "cfa57967-9d3b-11ef-0a80-13520000dac7",
     "name": "ДоЭко Подложка 1,5мм д260мм GWD золото/жемчуг",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/b195fbd6-9763-43c1-a2f3-0454a319e9a0?miniature=true"
-    ],
+    "images": [],
     "price": 32.5,
     "productFolder": {
       "id": "eac65de8-9d3a-11ef-0a80-0c9d0000f0b8"
@@ -2708,9 +2151,7 @@
   {
     "id": "cfc4bf5d-1213-11f0-0a80-165700195df8",
     "name": "Молочник (питчер)  350 мл.",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/c31670a7-f0be-46ea-a0e7-363863ce8d22?miniature=true"
-    ],
+    "images": [],
     "price": 900,
     "productFolder": {
       "id": "36040507-1212-11f0-0a80-08fb0018b7fc"
@@ -2719,9 +2160,7 @@
   {
     "id": "d06a06d1-9d0b-11ef-0a80-14e400124a5c",
     "name": "Ложка стол \"ПРЕМИУМ\" черная 50шт/уп 175мм",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/e1f16a36-65a7-418e-a155-9c8e9d50d9e0?miniature=true"
-    ],
+    "images": [],
     "price": 145,
     "productFolder": {
       "id": "055880d1-9d0b-11ef-0a80-0dbe0012ab38"
@@ -2730,10 +2169,7 @@
   {
     "id": "d1a6764a-dbd9-11ef-0a80-08a8001fcae3",
     "name": "Бум.Стакан 0,350л 90мм под Крафт Л-ПАК",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/ff5eb441-d55c-45d4-af74-f6d84292c99d?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/0f6892d6-d60c-4c35-8646-be9ee2d63d04?miniature=true"
-    ],
+    "images": [],
     "price": 6,
     "productFolder": {
       "id": "6905abd5-1160-11f0-0a80-1108001094b4"
@@ -2742,9 +2178,7 @@
   {
     "id": "d1c30744-9d48-11ef-0a80-15080001679a",
     "name": "Емкость ИП-30С А  /220*155*60/  (Комус РК-30)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/5d2ca208-68ab-428c-a280-59702b49de5e?miniature=true"
-    ],
+    "images": [],
     "price": 19,
     "productFolder": {
       "id": "b099c30a-9d48-11ef-0a80-06b200013c98"
@@ -2753,12 +2187,7 @@
   {
     "id": "d21f5772-9da7-11ef-0a80-0dc40007480d",
     "name": "Крышка прозрачная купол Bubbl Cup отверстием D-90 (50шт/уп)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/87a99d1b-d7b5-4082-9020-e162ff9e5e54?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/6c378bc5-d51f-4090-829c-bf175e78f99e?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/705734c5-194b-4804-92c6-a0142660c004?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/9e430511-d085-4a7d-9e68-cc3e9f10cbee?miniature=true"
-    ],
+    "images": [],
     "price": 2.8,
     "productFolder": {
       "id": "87acb5b8-fb79-11ef-0a80-05f400133809"
@@ -2767,9 +2196,7 @@
   {
     "id": "d45152c5-a846-11ef-0a80-02cc000171a1",
     "name": "Пакет для мусора 20л ПНД (20шт в рулоне) 6мкм 45х48",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/6b845de7-904e-449a-af79-e652377e7d62?miniature=true"
-    ],
+    "images": [],
     "price": 25,
     "productFolder": {
       "id": "362031b7-fc53-11ef-0a80-05f4001b3020"
@@ -2778,9 +2205,7 @@
   {
     "id": "d55acef3-a841-11ef-0a80-11b50001a956",
     "name": "Держатель для 2-х стаканов 193х108х42 Зеленый",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/d371cb38-7b51-485a-af09-08ae941aa09b?miniature=true"
-    ],
+    "images": [],
     "price": 4.7,
     "productFolder": {
       "id": "a6074b7c-a840-11ef-0a80-11b500019cf3"
@@ -2789,18 +2214,7 @@
   {
     "id": "d9194970-10c7-11f0-0a80-174800011374",
     "name": "Бумажная трубочка",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/5531fe92-64e5-4332-80f6-32780c5b06d3?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/982b02f3-25e0-4c6e-aa0a-94f2c6ae834f?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/0a5d301e-dbfc-42ad-a8de-7854296e5a94?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/c1f64b2e-fbdf-4754-9896-a82d1de18949?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/e81b2ca3-b91c-406e-9bf4-a6b4c69afbc2?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/f8708baf-6c57-4525-a09d-5bc6c90a72df?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/69cb6697-ee7b-481a-8537-41c0b2963e11?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/036540bf-a7f2-4d6e-9ff7-5b2971fe77ac?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/e1a066fc-59cc-41ae-9786-c61e60bd3d27?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/14ab9b28-2ce8-43f3-bb49-a2ce41505378?miniature=true"
-    ],
+    "images": [],
     "price": 1.5,
     "productFolder": {
       "id": "d170cdb4-aa6f-11ef-0a80-09750028aa3f"
@@ -2809,9 +2223,7 @@
   {
     "id": "d9a994f0-9d11-11ef-0a80-090200138801",
     "name": "ДоЭко контейнер универ TABOX 1000 БЕЛЫЙ 200х120х40мм с окном",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/a0aa14ed-8191-4161-9e27-d79402c34ba3?miniature=true"
-    ],
+    "images": [],
     "price": 21.5,
     "productFolder": {
       "id": "91247c36-9d10-11ef-0a80-079400134cf4"
@@ -2820,9 +2232,7 @@
   {
     "id": "da9c92f4-12ce-11f0-0a80-0020001fc368",
     "name": "Термолента 80х18 70 м.",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/c032e62c-80a7-4140-8c6e-030f664cd8c4?miniature=true"
-    ],
+    "images": [],
     "price": 165,
     "productFolder": {
       "id": "7dbeea12-fc52-11ef-0a80-10550019c5b7"
@@ -2831,9 +2241,7 @@
   {
     "id": "dadbb16f-9cff-11ef-0a80-0c8b001011d5",
     "name": "Бум.стакан 0,350л Черный 50шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/e4ad375f-58c8-49cb-8f15-459bdaf3029a?miniature=true"
-    ],
+    "images": [],
     "price": 5.5,
     "productFolder": {
       "id": "6905abd5-1160-11f0-0a80-1108001094b4"
@@ -2842,9 +2250,7 @@
   {
     "id": "db563b47-b08d-11ef-0a80-01f200bd1c76",
     "name": "Короб ЛОДОЧКА 285х160х60 Белый",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/d13254b4-e80f-4b1c-bd0e-a175eaf81c6d?miniature=true"
-    ],
+    "images": [],
     "price": 26.5,
     "productFolder": {
       "id": "cf61e2b8-9d12-11ef-0a80-07940013b5b1"
@@ -2853,9 +2259,7 @@
   {
     "id": "dd200acd-fcec-11ef-0a80-117a00204d71",
     "name": "Нож пластиковый 16,5см белый (100 шт.)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/1fb6dcb8-8c20-4a75-8831-a1ee63e8e35a?miniature=true"
-    ],
+    "images": [],
     "price": 150,
     "productFolder": {
       "id": "055880d1-9d0b-11ef-0a80-0dbe0012ab38"
@@ -2864,9 +2268,7 @@
   {
     "id": "de571995-9d41-11ef-0a80-1508000127c7",
     "name": "Фильтр пакеты для завариваия чая и трав. 5*7см (100шт/уп)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/32b58887-008a-4ff0-adf2-59eb3868d9ee?miniature=true"
-    ],
+    "images": [],
     "price": 250,
     "productFolder": {
       "id": "c3fcbcbf-aa70-11ef-0a80-0e330029acf6"
@@ -2875,9 +2277,7 @@
   {
     "id": "e1021bc8-9cfd-11ef-0a80-0162000f415a",
     "name": "Бум.стакан 0,250л Белый 50шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/3253ae90-b4c5-4890-8579-0097a7dba472?miniature=true"
-    ],
+    "images": [],
     "price": 3.5,
     "productFolder": {
       "id": "6905abd5-1160-11f0-0a80-1108001094b4"
@@ -2886,11 +2286,7 @@
   {
     "id": "e1203b11-12dc-11f0-0a80-0e8d0021106a",
     "name": "Пуш темпер для кофе 51мм.",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/ce138dd2-b1b5-4fb2-99fb-dbc3f8b72077?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/b04aca44-3bee-4228-946e-c8ba05ac92b3?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/613dee42-1875-4a93-819b-20d451ae07e3?miniature=true"
-    ],
+    "images": [],
     "price": 2500,
     "productFolder": {
       "id": "36040507-1212-11f0-0a80-08fb0018b7fc"
@@ -2899,9 +2295,7 @@
   {
     "id": "e2209d66-d5d9-11ef-0a80-19c6001b1493",
     "name": "Пакет фасовочный пласт 18х27 6,5мкм УП новые",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/5f746996-4285-4038-b1c7-2e6ca5e8fdad?miniature=true"
-    ],
+    "images": [],
     "price": 150,
     "productFolder": {
       "id": "580bedaf-fc53-11ef-0a80-0e3d001a3409"
@@ -2910,9 +2304,7 @@
   {
     "id": "e34d1e6e-9d47-11ef-0a80-0fd1000171e5",
     "name": "Салфетки в КОРОБКЕ 2-слойные (Бел. короб.)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/c7d16dd1-139e-4c99-b9c3-d4c6d1fb34b5?miniature=true"
-    ],
+    "images": [],
     "price": 90,
     "productFolder": {
       "id": "a05f2cb9-f154-11ef-0a80-0f59001b3d7d"
@@ -2921,10 +2313,7 @@
   {
     "id": "e35d56e0-1173-11f0-0a80-0c53001372af",
     "name": "Стакан 250 мл бум.d=80 мм гофрированный Пыльная роза Волна",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/69b89cfe-e1fa-47be-83cd-e65725b39e46?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/dda6b59a-4925-431f-be66-d887a6fc0634?miniature=true"
-    ],
+    "images": [],
     "price": 0,
     "productFolder": {
       "id": "d1d26f26-1164-11f0-0a80-14640012470b"
@@ -2933,9 +2322,7 @@
   {
     "id": "e3da0f84-fd1c-11ef-0a80-1ab30022125a",
     "name": "Обертка для гамбургера 305*305мм ВПМ + парафин \"Газета\" 1000шт/упак",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/590270c9-5b27-475c-96d8-3df5fdd44297?miniature=true"
-    ],
+    "images": [],
     "price": 2500,
     "productFolder": {
       "id": "0d98e7c9-fc4d-11ef-0a80-13ce001a6841"
@@ -2944,9 +2331,7 @@
   {
     "id": "e7ac700a-9d00-11ef-0a80-016200100570",
     "name": "Бум.стакан 0,400л Черный 50шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/448c027d-3626-4eea-85b9-576a827b461a?miniature=true"
-    ],
+    "images": [],
     "price": 7.5,
     "productFolder": {
       "id": "6905abd5-1160-11f0-0a80-1108001094b4"
@@ -2955,12 +2340,7 @@
   {
     "id": "e7ff8339-c5b7-11ef-0a80-18080010f1ec",
     "name": "Крышка для стакана d-90мм прозрачная п/п Bubble Cup плоская (50 шт.)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/79711a59-0c6e-4fd8-bf39-fc01fd480573?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/ec1c1c12-6d4b-49ca-9158-080c07fc0a17?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/42704e24-c407-4d11-bab1-26227672e9cb?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/0c0cb22e-bba4-44ab-b4b0-b16704528267?miniature=true"
-    ],
+    "images": [],
     "price": 2.5,
     "productFolder": {
       "id": "87acb5b8-fb79-11ef-0a80-05f400133809"
@@ -2969,9 +2349,7 @@
   {
     "id": "e90fe625-2338-11f0-0a80-16d1001f99b3",
     "name": "Бум. стакан 0,180 белый 50шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/2db5741d-baaf-4833-9383-2a319a39d95d?miniature=true"
-    ],
+    "images": [],
     "price": 3,
     "productFolder": {
       "id": "6905abd5-1160-11f0-0a80-1108001094b4"
@@ -2980,11 +2358,7 @@
   {
     "id": "eb68e447-fb80-11ef-0a80-0b9c00128500",
     "name": "Стакан прозрачный Bubble Cup 500мл. глянцевый (20шт/уп)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/09301878-b1e8-41a6-b1a3-53509b63cb4e?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/394fd710-750d-4746-8f5e-13621c6b3ca4?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/42704e24-c407-4d11-bab1-26227672e9cb?miniature=true"
-    ],
+    "images": [],
     "price": 14,
     "productFolder": {
       "id": "87acb5b8-fb79-11ef-0a80-05f400133809"
@@ -2993,11 +2367,7 @@
   {
     "id": "eba44516-116d-11f0-0a80-06fc001311f4",
     "name": "Стакан 300 мл бум. d=90 мм гофрированный Клетка",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/28753b8a-69a7-4496-87eb-d731d489950a?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/e21b7d65-08c5-49f8-a571-c349c7a3fd69?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/baaee262-227e-4fb3-867d-b40366905ed6?miniature=true"
-    ],
+    "images": [],
     "price": 0,
     "productFolder": {
       "id": "d1d26f26-1164-11f0-0a80-14640012470b"
@@ -3006,9 +2376,7 @@
   {
     "id": "ec1ebf71-aa49-11ef-0a80-1a7300239980",
     "name": "Короб под пиццу цельный гофрокартон 260х260 белый без печати",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/784cb2ec-0a67-4a63-9c35-c9c3baecc3df?miniature=true"
-    ],
+    "images": [],
     "price": 18,
     "productFolder": {
       "id": "cf61e2b8-9d12-11ef-0a80-07940013b5b1"
@@ -3017,9 +2385,7 @@
   {
     "id": "ece6c618-fce4-11ef-0a80-0e3d001e37ac",
     "name": "Вилка пластиковая 16,5см, белая (100 шт/уп)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/0fc4a6b1-9ee7-43fd-989b-c11c78d69058?miniature=true"
-    ],
+    "images": [],
     "price": 125,
     "productFolder": {
       "id": "055880d1-9d0b-11ef-0a80-0dbe0012ab38"
@@ -3028,9 +2394,7 @@
   {
     "id": "ee112939-116e-11f0-0a80-16570012d43b",
     "name": "Стакан 300 мл бум. d=90 мм гофрированный Крафт",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/a583e003-e40e-471b-b8ab-d49d2b9f3d04?miniature=true"
-    ],
+    "images": [],
     "price": 0,
     "productFolder": {
       "id": "d1d26f26-1164-11f0-0a80-14640012470b"
@@ -3039,9 +2403,7 @@
   {
     "id": "eece25e0-9da9-11ef-0a80-14e9000848f7",
     "name": "Суши УК-704 дно+крышка 212*140*24  С-25",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/1b328394-b9c6-4849-b199-e83c8a7684cf?miniature=true"
-    ],
+    "images": [],
     "price": 24,
     "productFolder": {
       "id": "bfe9567f-fc48-11ef-0a80-18ca001ab16a"
@@ -3050,11 +2412,7 @@
   {
     "id": "f0364d6d-1183-11f0-0a80-0f430013f349",
     "name": "Стакан бум. 2сл 250мл d=80мм пастель салатовый",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/83d08bb9-5d6e-4ea3-baac-79336e04b696?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/9232b4e1-316c-478b-9704-3c5d9f735dbe?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/5e2c9112-0f25-4bbe-a4cd-b4e1b84872d4?miniature=true"
-    ],
+    "images": [],
     "price": 0,
     "productFolder": {
       "id": "ef136d9f-1163-11f0-0a80-174800121d8d"
@@ -3063,9 +2421,7 @@
   {
     "id": "f0c7d9a2-024a-11f0-0a80-0c28001e020a",
     "name": "Бум стакан  0,165л диам 70мм ГН Кофе (take away)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/a53d489c-03a4-4db4-bf8b-1a48fe61bc3b?miniature=true"
-    ],
+    "images": [],
     "price": 3,
     "productFolder": {
       "id": "6905abd5-1160-11f0-0a80-1108001094b4"
@@ -3074,9 +2430,7 @@
   {
     "id": "f0e769a7-9d0d-11ef-0a80-14e40012af65",
     "name": "Виниловые перчатки:Бел.прозр.размер( M)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/c997e56b-3e17-4350-a537-2d558d5438c6?miniature=true"
-    ],
+    "images": [],
     "price": 380,
     "productFolder": {
       "id": "c71b4cd3-9d0c-11ef-0a80-0dbe00131ace"
@@ -3085,9 +2439,7 @@
   {
     "id": "f0e9293b-9d0b-11ef-0a80-1763001241c3",
     "name": "Ложка чайная ЧЕРНАЯ 125мм.  50шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/937889c5-4118-405b-9f88-45fb8dd5269b?miniature=true"
-    ],
+    "images": [],
     "price": 100,
     "productFolder": {
       "id": "055880d1-9d0b-11ef-0a80-0dbe0012ab38"
@@ -3096,9 +2448,7 @@
   {
     "id": "f18515a7-1184-11f0-0a80-1a5b001333f1",
     "name": "Стакан бум. 2сл 400мл d=90мм пастель персик",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/6e72271c-7160-4c84-93f2-5208bd5f6211?miniature=true"
-    ],
+    "images": [],
     "price": 0,
     "productFolder": {
       "id": "ef136d9f-1163-11f0-0a80-174800121d8d"
@@ -3107,9 +2457,7 @@
   {
     "id": "f18c85cd-f134-11ef-0a80-05e4001a572d",
     "name": "Пакет крафт с крученой ручкой б/п 350х150х450 белый 80г",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/1e09557a-5496-475c-bada-17755f09a2d8?miniature=true"
-    ],
+    "images": [],
     "price": 23,
     "productFolder": {
       "id": "92d4f76d-fc4b-11ef-0a80-0c11001a2ea6"
@@ -3118,9 +2466,7 @@
   {
     "id": "f21d1da4-9dac-11ef-0a80-13520008a455",
     "name": "Емкость РК-14",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/79bd5677-5e4c-428c-9ff3-e5c6ef41f137?miniature=true"
-    ],
+    "images": [],
     "price": 13.5,
     "productFolder": {
       "id": "b099c30a-9d48-11ef-0a80-06b200013c98"
@@ -3129,9 +2475,7 @@
   {
     "id": "f50a2933-9daa-11ef-0a80-08db0007f7fe",
     "name": "Трубочки для коктейля в инд.бум.уп. 5х210 прямая черная 250\\уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/939435f6-8010-4967-9bf9-7e2aced14a96?miniature=true"
-    ],
+    "images": [],
     "price": 220,
     "productFolder": {
       "id": "d170cdb4-aa6f-11ef-0a80-09750028aa3f"
@@ -3140,9 +2484,7 @@
   {
     "id": "f6380ec9-9d12-11ef-0a80-07940013bbfd",
     "name": "ДоЭко Короб под гамбургер ECO BURGER L 120x120х70 крафт",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/5c72da40-614f-43d9-96c3-6232db0528c4?miniature=true"
-    ],
+    "images": [],
     "price": 10,
     "productFolder": {
       "id": "cf61e2b8-9d12-11ef-0a80-07940013b5b1"
@@ -3151,9 +2493,7 @@
   {
     "id": "f87ba58e-fd1b-11ef-0a80-075b0021345a",
     "name": "Оберточная бумага (упаковочная) в листах 300*300 мм крафт 1000 шт.",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/7f21a40c-ec78-4aaf-8a8a-d02a1019eede?miniature=true"
-    ],
+    "images": [],
     "price": 1200,
     "productFolder": {
       "id": "0d98e7c9-fc4d-11ef-0a80-13ce001a6841"
@@ -3162,9 +2502,7 @@
   {
     "id": "fa74eac2-fce6-11ef-0a80-168e001fdae7",
     "name": "Контейнер РКС-350 оп 159х130х40мм с крышкой (360 шт.)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/6125094d-e194-4d77-b372-667f468d7022?miniature=true"
-    ],
+    "images": [],
     "price": 7.5,
     "productFolder": {
       "id": "b099c30a-9d48-11ef-0a80-06b200013c98"
@@ -3173,9 +2511,7 @@
   {
     "id": "fb13cb92-c5ba-11ef-0a80-022b00114602",
     "name": "PIT STOP Tray цвет Крафт",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/dddb68c9-7cb0-475b-8c80-b1a1e98ee7e3?miniature=true"
-    ],
+    "images": [],
     "price": 2.5,
     "productFolder": {
       "id": "cf61e2b8-9d12-11ef-0a80-07940013b5b1"
@@ -3184,10 +2520,7 @@
   {
     "id": "fba2924d-1170-11f0-0a80-0b400012b333",
     "name": "Стакан 400 мл бум.d=90 мм гофрированный черный Волна",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/053bf59a-cb54-4645-8531-eff3163cb139?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/78cfa3bf-9461-4d1e-9ed7-7cfff76a49f1?miniature=true"
-    ],
+    "images": [],
     "price": 0,
     "productFolder": {
       "id": "d1d26f26-1164-11f0-0a80-14640012470b"
@@ -3196,9 +2529,7 @@
   {
     "id": "fbc5ca71-9d48-11ef-0a80-135200017e45",
     "name": "Емкость КР-15ВА   /139*139*75/ (Комус РК-15)",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/4c08b556-74a4-4c58-9700-1352c8f48897?miniature=true"
-    ],
+    "images": [],
     "price": 11,
     "productFolder": {
       "id": "b099c30a-9d48-11ef-0a80-06b200013c98"
@@ -3207,10 +2538,7 @@
   {
     "id": "fc88cf75-9d3c-11ef-0a80-0fd100011123",
     "name": "Пакет бумажный пищ. Уголок 160х140 жиростойкий БУЛКИ 100шт",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/58258703-6729-4ed5-a394-f490524d8b0a?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/3f390abe-c2a2-47d7-99c4-b006957151f8?miniature=true"
-    ],
+    "images": [],
     "price": 1.9,
     "productFolder": {
       "id": "0d98e7c9-fc4d-11ef-0a80-13ce001a6841"
@@ -3219,9 +2547,7 @@
   {
     "id": "fdc834cb-ab1a-11ef-0a80-140b0037b938",
     "name": "Тарелка картонная 230мм круглая крафт 100шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/1e1b6fc6-cfe1-4038-8092-2aedfb7bb9b3?miniature=true"
-    ],
+    "images": [],
     "price": 5,
     "productFolder": {
       "id": "4400d815-fb76-11ef-0a80-1ab300127e9d"
@@ -3230,10 +2556,7 @@
   {
     "id": "fe0a40ac-0e0d-11f0-0a80-003b002b4d4a",
     "name": "крышка для стак. д.90 Желтая",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/92e62083-2ad8-439e-b262-d7ea319b4e47?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/cc264607-6438-41a2-969e-6229723b536a?miniature=true"
-    ],
+    "images": [],
     "price": 4,
     "productFolder": {
       "id": "a0a11673-a83e-11ef-0a80-140b00013536"
@@ -3242,9 +2565,7 @@
   {
     "id": "fec78a94-aa4a-11ef-0a80-04290024f871",
     "name": "Салфетки 24х24 1-сл. 400л черные",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/319a727e-5de1-4f94-b14f-ce30797a903f?miniature=true"
-    ],
+    "images": [],
     "price": 240,
     "productFolder": {
       "id": "a05f2cb9-f154-11ef-0a80-0f59001b3d7d"
@@ -3253,12 +2574,7 @@
   {
     "id": "ff104b8c-fb7e-11ef-0a80-01b100128300",
     "name": "Стакан прозрачный Bubble Cup 650мл(10шт/уп)❗️ОЖИДАЕТСЯ",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/ac1050cb-cda8-4825-89fa-9da11e67cda9?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/4ba0ccc5-375f-40d6-8d6d-5f842289131c?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/d1940074-ee32-48a5-8b2a-ee7a14e84641?miniature=true",
-      "https://api.moysklad.ru/api/remap/1.2/download/3c386f49-10d9-420b-9b7b-7ae0ba8ed7b8?miniature=true"
-    ],
+    "images": [],
     "price": 20,
     "productFolder": {
       "id": "87acb5b8-fb79-11ef-0a80-05f400133809"
@@ -3267,9 +2583,7 @@
   {
     "id": "ff60dbe0-f79b-11ef-0a80-183800120caf",
     "name": "Размешиватель деревянный 178мм 500шт/уп",
-    "images": [
-      "https://api.moysklad.ru/api/remap/1.2/download/a2ad912b-c71e-40b5-99e4-4eb095fa4ca5?miniature=true"
-    ],
+    "images": [],
     "price": 300,
     "productFolder": {
       "id": "c3fcbcbf-aa70-11ef-0a80-0e330029acf6"

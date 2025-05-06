@@ -46,8 +46,8 @@ export default function GroupPhotoUploader() {
         setGroups(data.groups || []);
         setSubgroups(data.subgroups || []);
         // Получаем оригинальные объекты для сохранения
-        fetch("/icons/groups.json").then(r=>r.json()).then(setOriginalGroupsObj);
-        fetch("/icons/subgroups.json").then(r=>r.json()).then(setOriginalSubgroupsObj);
+        fetch("/icons/groups.json").then(r => r.json()).then(setOriginalGroupsObj);
+        fetch("/icons/subgroups.json").then(r => r.json()).then(setOriginalSubgroupsObj);
       });
   }, []);
 
@@ -105,11 +105,13 @@ export default function GroupPhotoUploader() {
             {groups.map(g => (
               <div key={g.slug || g.name} className="flex flex-col items-center bg-gray-50 p-3 rounded shadow-sm">
                 <div className="relative w-20 h-20 mb-2">
-                  <img
-                    src={g.icon || "/icons/groups/placeholder.svg"}
-                    alt={g.name}
-                    className="w-20 h-20 object-contain rounded border bg-white"
-                  />
+                  {g.icon && (
+                    <img
+                      src={g.icon}
+                      alt={g.name}
+                      className="w-20 h-20 object-contain rounded border bg-white"
+                    />
+                  )}
                   {uploading === `group-${g.slug}` && (
                     <div className="absolute inset-0 bg-white/70 flex items-center justify-center text-gray-600 text-xs">Загрузка...</div>
                   )}
@@ -137,11 +139,13 @@ export default function GroupPhotoUploader() {
             {subgroups.map(sg => (
               <div key={sg.slug || sg.name} className="flex flex-col items-center bg-gray-50 p-3 rounded shadow-sm">
                 <div className="relative w-20 h-20 mb-2">
-                  <img
-                    src={sg.icon || "/icons/groups/placeholder.svg"}
-                    alt={sg.name}
-                    className="w-20 h-20 object-contain rounded border bg-white"
-                  />
+                  {sg.icon && (
+                    <img
+                      src={sg.icon}
+                      alt={sg.name}
+                      className="w-20 h-20 object-contain rounded border bg-white"
+                    />
+                  )}
                   {uploading === `subgroup-${sg.slug}` && (
                     <div className="absolute inset-0 bg-white/70 flex items-center justify-center text-gray-600 text-xs">Загрузка...</div>
                   )}

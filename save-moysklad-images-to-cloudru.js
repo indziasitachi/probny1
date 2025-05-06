@@ -3,7 +3,7 @@ import AWS from 'aws-sdk';
 import fs from 'fs';
 import path from 'path';
 
-const MS_TOKEN = 'b71c06daf79a384ddc640c60661dafe90dfd825a';
+const MS_TOKEN = '534f3fef594f45bac9acd06ebaebf1940a1130c2';
 const CLOUDRU_BUCKET = 'apsnypack';
 const CLOUDRU_ENDPOINT = 'https://s3.cloud.ru';
 const CLOUDRU_KEY = '943abc19-52c0-479d-8452-78dd01ad30fd:15c804aa4fc4f54c75b70327284ffe0a';
@@ -48,26 +48,46 @@ async function uploadToCloudRu(buffer, filename, mime) {
 
         // 2. Для каждого товара качаем фото и грузим в Cloud.ru
         const result = [];
+        const errors = [];
         for (const product of products) {
             if (!product.images || !product.images.meta || !product.images.meta.href) {
                 console.log(`Товар ${product.name} (${product.id}) — нет фото`);
+                result.push({ productId: product.id, imageUrls: [] });
                 continue;
             }
 
             // Получаем список фото для товара
-            const imagesRes = await axios.get(product.images.meta.href, {
-                headers: {
-                    'Accept': 'application/json;charset=utf-8',
-                    'Authorization': `Bearer ${MS_TOKEN}`,
-                    'User-Agent': 'axios/1.9.0'
-                }
-            });
-            const images = imagesRes.data.rows || [];
+            let images = [];
+            try {
+                const imagesRes = await axios.get(product.images.meta.href, {
+                    headers: {
+                        'Accept': 'application/json;charset=utf-8',
+                        'Authorization': `Bearer ${MS_TOKEN}`,
+                        'User-Agent': 'axios/1.9.0'
+                    }
+                });
+                images = imagesRes.data.rows || [];
+            } catch (err) {
+                errors.push({ productId: product.id, error: 'Ошибка получения списка фото', details: err.message });
+                result.push({ productId: product.id, imageUrls: [] });
+                continue;
+            }
             console.log(`Товар ${product.name} (${product.id}) — фото: ${images.length}`);
+            const imageUrls = [];
+            let imgIndex = 1;
             for (const img of images) {
                 if (!img.meta || !img.meta.downloadHref) {
                     console.log(`  Пропущено фото (нет downloadHref)`);
                     continue;
+                }
+                // Формируем уникальное имя файла
+                let uniquePart = "";
+                if (img.id) {
+                    uniquePart = img.id;
+                } else if (img.fileName) {
+                    uniquePart = path.basename(img.fileName, path.extname(img.fileName));
+                } else {
+                    uniquePart = imgIndex.toString();
                 }
                 try {
                     // Качаем фото
@@ -80,27 +100,40 @@ async function uploadToCloudRu(buffer, filename, mime) {
                         responseType: 'arraybuffer'
                     });
 
-                    // Определяем имя файла
-                    const ext = img.fileName ? path.extname(img.fileName) : '.jpg';
-                    const filename = `products/${product.id}_${img.id}${ext}`;
+                    // Определяем расширение по mime-типу
+                    let ext = '.jpg';
+                    let mime = img.meta.mimeType || imgRes.headers['content-type'] || 'image/jpeg';
+                    if (!img.fileName) {
+                        if (mime === 'image/png') ext = '.png';
+                        else if (mime === 'image/webp') ext = '.webp';
+                        else if (mime === 'image/gif') ext = '.gif';
+                        else if (mime === 'image/svg+xml') ext = '.svg';
+                        else ext = '.jpg';
+                    } else {
+                        ext = path.extname(img.fileName) || '.jpg';
+                    }
+                    const filename = `products/${product.id}_${uniquePart}${ext}`;
 
                     // Грузим в Cloud.ru
-                    await uploadToCloudRu(imgRes.data, filename, img.meta.mimeType || 'image/jpeg');
+                    await uploadToCloudRu(imgRes.data, filename, mime);
                     const url = `${CLOUDRU_ENDPOINT.replace('https://', `https://${CLOUDRU_BUCKET}.`)}/${filename}`;
-                    result.push({ productId: product.id, imageUrl: url });
+                    imageUrls.push(url);
                     console.log(`  Загружено: ${url}`);
-                    // Пауза между запросами к МойСклад (500 мс)
                     await new Promise(r => setTimeout(r, 500));
                 } catch (err) {
-                    console.error(`  Ошибка загрузки фото:`, err.message);
+                    errors.push({ productId: product.id, image: img.meta.downloadHref, error: 'Ошибка загрузки фото', details: err.message });
                 }
+                imgIndex++;
             }
+            result.push({ productId: product.id, imageUrls });
         }
 
-        // 3. Сохраняем соответствие id товара → url картинки
+        // 3. Сохраняем соответствие id товара → массив url картинок
         fs.writeFileSync('cloudru-images-map.json', JSON.stringify(result, null, 2));
-        console.log('Готово! Ссылки сохранены в cloudru-images-map.json');
+        // 4. Сохраняем ошибки
+        fs.writeFileSync('cloudru-errors.json', JSON.stringify(errors, null, 2));
+        console.log('Готово! Ссылки сохранены в cloudru-images-map.json, ошибки — в cloudru-errors.json');
     } catch (err) {
         console.error('Ошибка выполнения скрипта:', err.message);
     }
-})(); 
+})();

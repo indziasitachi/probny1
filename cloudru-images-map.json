@@ -1,1594 +1,1840 @@
 [
   {
     "productId": "01988fa6-9e74-11ef-0a80-06b200194775",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/01988fa6-9e74-11ef-0a80-06b200194775_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/01988fa6-9e74-11ef-0a80-06b200194775_1.png"
+    ]
   },
   {
     "productId": "02d04f3e-9cfd-11ef-0a80-0902000ee3c3",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/02d04f3e-9cfd-11ef-0a80-0902000ee3c3_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/02d04f3e-9cfd-11ef-0a80-0902000ee3c3_1.png"
+    ]
   },
   {
     "productId": "02e61d58-116f-11f0-0a80-0b4000129887",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/02e61d58-116f-11f0-0a80-0b4000129887_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/02e61d58-116f-11f0-0a80-0b4000129887_1.png"
+    ]
   },
   {
     "productId": "039db38a-9d0e-11ef-0a80-01620012f9a0",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/039db38a-9d0e-11ef-0a80-01620012f9a0_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/039db38a-9d0e-11ef-0a80-01620012f9a0_1.png"
+    ]
   },
   {
     "productId": "03e1e7bc-10c4-11f0-0a80-1a5b0000d697",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/03e1e7bc-10c4-11f0-0a80-1a5b0000d697_undefined.jpg"
-  },
-  {
-    "productId": "03e1e7bc-10c4-11f0-0a80-1a5b0000d697",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/03e1e7bc-10c4-11f0-0a80-1a5b0000d697_undefined.jpg"
-  },
-  {
-    "productId": "03e1e7bc-10c4-11f0-0a80-1a5b0000d697",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/03e1e7bc-10c4-11f0-0a80-1a5b0000d697_undefined.jpg"
-  },
-  {
-    "productId": "03e1e7bc-10c4-11f0-0a80-1a5b0000d697",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/03e1e7bc-10c4-11f0-0a80-1a5b0000d697_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/03e1e7bc-10c4-11f0-0a80-1a5b0000d697_1.png",
+      "https://apsnypack.s3.cloud.ru/products/03e1e7bc-10c4-11f0-0a80-1a5b0000d697_2.png",
+      "https://apsnypack.s3.cloud.ru/products/03e1e7bc-10c4-11f0-0a80-1a5b0000d697_3.png",
+      "https://apsnypack.s3.cloud.ru/products/03e1e7bc-10c4-11f0-0a80-1a5b0000d697_4.png"
+    ]
   },
   {
     "productId": "04bef23e-9dac-11ef-0a80-14e90008c9b8",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/04bef23e-9dac-11ef-0a80-14e90008c9b8_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/04bef23e-9dac-11ef-0a80-14e90008c9b8_1.png"
+    ]
   },
   {
     "productId": "04f4ff13-9da7-11ef-0a80-06b200073ea3",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/04f4ff13-9da7-11ef-0a80-06b200073ea3_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/04f4ff13-9da7-11ef-0a80-06b200073ea3_1.png"
+    ]
   },
   {
     "productId": "053f2d79-9d4a-11ef-0a80-08db00017f5b",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/053f2d79-9d4a-11ef-0a80-08db00017f5b_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/053f2d79-9d4a-11ef-0a80-08db00017f5b_1.png"
+    ]
   },
   {
     "productId": "0633e38a-9e79-11ef-0a80-1352001a4135",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/0633e38a-9e79-11ef-0a80-1352001a4135_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/0633e38a-9e79-11ef-0a80-1352001a4135_1.png"
+    ]
   },
   {
     "productId": "0674c646-116d-11f0-0a80-146400130fe9",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/0674c646-116d-11f0-0a80-146400130fe9_undefined.jpg"
-  },
-  {
-    "productId": "0674c646-116d-11f0-0a80-146400130fe9",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/0674c646-116d-11f0-0a80-146400130fe9_undefined.jpg"
-  },
-  {
-    "productId": "0674c646-116d-11f0-0a80-146400130fe9",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/0674c646-116d-11f0-0a80-146400130fe9_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/0674c646-116d-11f0-0a80-146400130fe9_1.png",
+      "https://apsnypack.s3.cloud.ru/products/0674c646-116d-11f0-0a80-146400130fe9_2.png",
+      "https://apsnypack.s3.cloud.ru/products/0674c646-116d-11f0-0a80-146400130fe9_3.png"
+    ]
   },
   {
     "productId": "0695dc9f-fd1b-11ef-0a80-117a00226241",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/0695dc9f-fd1b-11ef-0a80-117a00226241_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/0695dc9f-fd1b-11ef-0a80-117a00226241_1.png"
+    ]
   },
   {
     "productId": "0709ec20-9e78-11ef-0a80-1352001a2873",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/0709ec20-9e78-11ef-0a80-1352001a2873_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/0709ec20-9e78-11ef-0a80-1352001a2873_1.png"
+    ]
   },
   {
     "productId": "07aeaa47-1205-11f0-0a80-092100184e9f",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/07aeaa47-1205-11f0-0a80-092100184e9f_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/07aeaa47-1205-11f0-0a80-092100184e9f_1.png"
+    ]
   },
   {
     "productId": "07e79e20-9da8-11ef-0a80-0bb500075390",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/07e79e20-9da8-11ef-0a80-0bb500075390_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/07e79e20-9da8-11ef-0a80-0bb500075390_1.png"
+    ]
   },
   {
     "productId": "0963cf84-d5d9-11ef-0a80-1823001c3263",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/0963cf84-d5d9-11ef-0a80-1823001c3263_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/0963cf84-d5d9-11ef-0a80-1823001c3263_1.png"
+    ]
   },
   {
     "productId": "0a4f2eab-9d47-11ef-0a80-14e9000156dc",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/0a4f2eab-9d47-11ef-0a80-14e9000156dc_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/0a4f2eab-9d47-11ef-0a80-14e9000156dc_1.png"
+    ]
   },
   {
     "productId": "0a78ffff-f75b-11ef-0a80-1420003619cd",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/0a78ffff-f75b-11ef-0a80-1420003619cd_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/0a78ffff-f75b-11ef-0a80-1420003619cd_1.png"
+    ]
   },
   {
     "productId": "0b470623-9d45-11ef-0a80-0c9d00015713",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/0b470623-9d45-11ef-0a80-0c9d00015713_undefined.jpg"
-  },
-  {
-    "productId": "0b470623-9d45-11ef-0a80-0c9d00015713",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/0b470623-9d45-11ef-0a80-0c9d00015713_undefined.jpg"
-  },
-  {
-    "productId": "0b470623-9d45-11ef-0a80-0c9d00015713",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/0b470623-9d45-11ef-0a80-0c9d00015713_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/0b470623-9d45-11ef-0a80-0c9d00015713_1.png",
+      "https://apsnypack.s3.cloud.ru/products/0b470623-9d45-11ef-0a80-0c9d00015713_2.png",
+      "https://apsnypack.s3.cloud.ru/products/0b470623-9d45-11ef-0a80-0c9d00015713_3.png"
+    ]
   },
   {
     "productId": "0dd2a91d-10c6-11f0-0a80-092100010e4a",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/0dd2a91d-10c6-11f0-0a80-092100010e4a_undefined.jpg"
-  },
-  {
-    "productId": "0dd2a91d-10c6-11f0-0a80-092100010e4a",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/0dd2a91d-10c6-11f0-0a80-092100010e4a_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/0dd2a91d-10c6-11f0-0a80-092100010e4a_1.png",
+      "https://apsnypack.s3.cloud.ru/products/0dd2a91d-10c6-11f0-0a80-092100010e4a_2.png"
+    ]
   },
   {
     "productId": "0f6ea5a1-a8dc-11ef-0a80-0e330013826b",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/0f6ea5a1-a8dc-11ef-0a80-0e330013826b_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/0f6ea5a1-a8dc-11ef-0a80-0e330013826b_1.png"
+    ]
   },
   {
     "productId": "1091ae73-9d13-11ef-0a80-14e40013bea7",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/1091ae73-9d13-11ef-0a80-14e40013bea7_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/1091ae73-9d13-11ef-0a80-14e40013bea7_1.png"
+    ]
   },
   {
     "productId": "11700222-12db-11f0-0a80-06fc0021884a",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/11700222-12db-11f0-0a80-06fc0021884a_undefined.jpg"
-  },
-  {
-    "productId": "11700222-12db-11f0-0a80-06fc0021884a",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/11700222-12db-11f0-0a80-06fc0021884a_undefined.jpg"
-  },
-  {
-    "productId": "11700222-12db-11f0-0a80-06fc0021884a",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/11700222-12db-11f0-0a80-06fc0021884a_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/11700222-12db-11f0-0a80-06fc0021884a_1.png",
+      "https://apsnypack.s3.cloud.ru/products/11700222-12db-11f0-0a80-06fc0021884a_2.png",
+      "https://apsnypack.s3.cloud.ru/products/11700222-12db-11f0-0a80-06fc0021884a_3.png"
+    ]
   },
   {
     "productId": "126c1296-b580-11ef-0a80-0bf60028c059",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/126c1296-b580-11ef-0a80-0bf60028c059_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/126c1296-b580-11ef-0a80-0bf60028c059_1.png"
+    ]
   },
   {
     "productId": "1280d62a-9e7a-11ef-0a80-118b001a811a",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/1280d62a-9e7a-11ef-0a80-118b001a811a_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/1280d62a-9e7a-11ef-0a80-118b001a811a_1.png"
+    ]
   },
   {
     "productId": "12e044a6-9d12-11ef-0a80-050c0013caa9",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/12e044a6-9d12-11ef-0a80-050c0013caa9_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/12e044a6-9d12-11ef-0a80-050c0013caa9_1.png"
+    ]
   },
   {
     "productId": "12e1cdcb-b57f-11ef-0a80-1a9100288b97",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/12e1cdcb-b57f-11ef-0a80-1a9100288b97_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/12e1cdcb-b57f-11ef-0a80-1a9100288b97_1.png"
+    ]
   },
   {
     "productId": "13565f4f-9d00-11ef-0a80-118000109354",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/13565f4f-9d00-11ef-0a80-118000109354_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/13565f4f-9d00-11ef-0a80-118000109354_1.png"
+    ]
   },
   {
     "productId": "14fd04a8-9d42-11ef-0a80-079d00013f98",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/14fd04a8-9d42-11ef-0a80-079d00013f98_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/14fd04a8-9d42-11ef-0a80-079d00013f98_1.png"
+    ]
   },
   {
     "productId": "15179712-fbfe-11ef-0a80-02f00036b951",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/15179712-fbfe-11ef-0a80-02f00036b951_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/15179712-fbfe-11ef-0a80-02f00036b951_1.png"
+    ]
   },
   {
     "productId": "1588c8a8-1166-11f0-0a80-03b50011de9e",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/1588c8a8-1166-11f0-0a80-03b50011de9e_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/1588c8a8-1166-11f0-0a80-03b50011de9e_1.png"
+    ]
   },
   {
     "productId": "1687d4af-9d0e-11ef-0a80-09020012cb21",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/1687d4af-9d0e-11ef-0a80-09020012cb21_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/1687d4af-9d0e-11ef-0a80-09020012cb21_1.png"
+    ]
   },
   {
     "productId": "183fbf82-fd17-11ef-0a80-0e3d0020d181",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/183fbf82-fd17-11ef-0a80-0e3d0020d181_undefined.jpg"
-  },
-  {
-    "productId": "183fbf82-fd17-11ef-0a80-0e3d0020d181",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/183fbf82-fd17-11ef-0a80-0e3d0020d181_undefined.jpg"
-  },
-  {
-    "productId": "183fbf82-fd17-11ef-0a80-0e3d0020d181",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/183fbf82-fd17-11ef-0a80-0e3d0020d181_undefined.jpg"
-  },
-  {
-    "productId": "183fbf82-fd17-11ef-0a80-0e3d0020d181",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/183fbf82-fd17-11ef-0a80-0e3d0020d181_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/183fbf82-fd17-11ef-0a80-0e3d0020d181_1.png",
+      "https://apsnypack.s3.cloud.ru/products/183fbf82-fd17-11ef-0a80-0e3d0020d181_2.png",
+      "https://apsnypack.s3.cloud.ru/products/183fbf82-fd17-11ef-0a80-0e3d0020d181_3.png",
+      "https://apsnypack.s3.cloud.ru/products/183fbf82-fd17-11ef-0a80-0e3d0020d181_4.png"
+    ]
   },
   {
     "productId": "1a7f2668-b56e-11ef-0a80-05de0027b583",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/1a7f2668-b56e-11ef-0a80-05de0027b583_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/1a7f2668-b56e-11ef-0a80-05de0027b583_1.png"
+    ]
   },
   {
     "productId": "1b126918-9d0c-11ef-0a80-079400127f07",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/1b126918-9d0c-11ef-0a80-079400127f07_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/1b126918-9d0c-11ef-0a80-079400127f07_1.png"
+    ]
   },
   {
     "productId": "1b1d54b3-2335-11f0-0a80-16d1001f63b7",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/1b1d54b3-2335-11f0-0a80-16d1001f63b7_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/1b1d54b3-2335-11f0-0a80-16d1001f63b7_1.png"
+    ]
   },
   {
     "productId": "1cc2b4e1-12dc-11f0-0a80-1657002127a2",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/1cc2b4e1-12dc-11f0-0a80-1657002127a2_undefined.jpg"
-  },
-  {
-    "productId": "1cc2b4e1-12dc-11f0-0a80-1657002127a2",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/1cc2b4e1-12dc-11f0-0a80-1657002127a2_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/1cc2b4e1-12dc-11f0-0a80-1657002127a2_1.png",
+      "https://apsnypack.s3.cloud.ru/products/1cc2b4e1-12dc-11f0-0a80-1657002127a2_2.png"
+    ]
   },
   {
     "productId": "1f057526-aa4a-11ef-0a80-1a7300239ca4",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/1f057526-aa4a-11ef-0a80-1a7300239ca4_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/1f057526-aa4a-11ef-0a80-1a7300239ca4_1.png"
+    ]
   },
   {
     "productId": "217790fc-9d49-11ef-0a80-0dc40001700c",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/217790fc-9d49-11ef-0a80-0dc40001700c_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/217790fc-9d49-11ef-0a80-0dc40001700c_1.png"
+    ]
   },
   {
     "productId": "21919586-9da5-11ef-0a80-0c9d0006b6d9",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/21919586-9da5-11ef-0a80-0c9d0006b6d9_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/21919586-9da5-11ef-0a80-0c9d0006b6d9_1.png"
+    ]
   },
   {
     "productId": "22fb3005-1174-11f0-0a80-07f10012c883",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/22fb3005-1174-11f0-0a80-07f10012c883_undefined.jpg"
-  },
-  {
-    "productId": "22fb3005-1174-11f0-0a80-07f10012c883",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/22fb3005-1174-11f0-0a80-07f10012c883_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/22fb3005-1174-11f0-0a80-07f10012c883_1.png",
+      "https://apsnypack.s3.cloud.ru/products/22fb3005-1174-11f0-0a80-07f10012c883_2.png"
+    ]
   },
   {
     "productId": "24ae38a8-9d44-11ef-0a80-0fd100015689",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/24ae38a8-9d44-11ef-0a80-0fd100015689_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/24ae38a8-9d44-11ef-0a80-0fd100015689_1.png"
+    ]
   },
   {
     "productId": "253b1bcf-fcef-11ef-0a80-0d800020018a",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/253b1bcf-fcef-11ef-0a80-0d800020018a_undefined.jpg"
-  },
-  {
-    "productId": "253b1bcf-fcef-11ef-0a80-0d800020018a",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/253b1bcf-fcef-11ef-0a80-0d800020018a_undefined.jpg"
-  },
-  {
-    "productId": "253b1bcf-fcef-11ef-0a80-0d800020018a",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/253b1bcf-fcef-11ef-0a80-0d800020018a_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/253b1bcf-fcef-11ef-0a80-0d800020018a_1.png",
+      "https://apsnypack.s3.cloud.ru/products/253b1bcf-fcef-11ef-0a80-0d800020018a_2.png",
+      "https://apsnypack.s3.cloud.ru/products/253b1bcf-fcef-11ef-0a80-0d800020018a_3.png"
+    ]
   },
   {
     "productId": "25aa4851-9cff-11ef-0a80-050c000fee0d",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/25aa4851-9cff-11ef-0a80-050c000fee0d_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/25aa4851-9cff-11ef-0a80-050c000fee0d_1.png"
+    ]
   },
   {
     "productId": "26349bfd-9dab-11ef-0a80-14e900089079",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/26349bfd-9dab-11ef-0a80-14e900089079_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/26349bfd-9dab-11ef-0a80-14e900089079_1.png"
+    ]
   },
   {
     "productId": "26770be6-9e77-11ef-0a80-118b001a3a78",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/26770be6-9e77-11ef-0a80-118b001a3a78_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/26770be6-9e77-11ef-0a80-118b001a3a78_1.png"
+    ]
   },
   {
     "productId": "269fd3f7-9d01-11ef-0a80-0dbe0010ac7b",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/269fd3f7-9d01-11ef-0a80-0dbe0010ac7b_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/269fd3f7-9d01-11ef-0a80-0dbe0010ac7b_1.png"
+    ]
   },
   {
     "productId": "274ec5dc-fce9-11ef-0a80-15c200212436",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/274ec5dc-fce9-11ef-0a80-15c200212436_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/274ec5dc-fce9-11ef-0a80-15c200212436_1.png"
+    ]
   },
   {
     "productId": "2906efad-9d06-11ef-0a80-016200113b50",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/2906efad-9d06-11ef-0a80-016200113b50_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/2906efad-9d06-11ef-0a80-016200113b50_1.png"
+    ]
   },
   {
     "productId": "2a0d2688-fc01-11ef-0a80-0c130036ec27",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/2a0d2688-fc01-11ef-0a80-0c130036ec27_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/2a0d2688-fc01-11ef-0a80-0c130036ec27_1.png"
+    ]
   },
   {
     "productId": "2a985d2e-9d13-11ef-0a80-0162001409f1",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/2a985d2e-9d13-11ef-0a80-0162001409f1_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/2a985d2e-9d13-11ef-0a80-0162001409f1_1.png"
+    ]
   },
   {
     "productId": "2bed5acc-9da7-11ef-0a80-0c9d00072d1a",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/2bed5acc-9da7-11ef-0a80-0c9d00072d1a_undefined.jpg"
-  },
-  {
-    "productId": "2bed5acc-9da7-11ef-0a80-0c9d00072d1a",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/2bed5acc-9da7-11ef-0a80-0c9d00072d1a_undefined.jpg"
-  },
-  {
-    "productId": "2c0b566b-1185-11f0-0a80-012a0012fa74",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/2c0b566b-1185-11f0-0a80-012a0012fa74_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/2bed5acc-9da7-11ef-0a80-0c9d00072d1a_1.png",
+      "https://apsnypack.s3.cloud.ru/products/2bed5acc-9da7-11ef-0a80-0c9d00072d1a_2.png"
+    ]
   },
   {
     "productId": "2c0b566b-1185-11f0-0a80-012a0012fa74",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/2c0b566b-1185-11f0-0a80-012a0012fa74_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/2c0b566b-1185-11f0-0a80-012a0012fa74_1.png",
+      "https://apsnypack.s3.cloud.ru/products/2c0b566b-1185-11f0-0a80-012a0012fa74_2.png"
+    ]
   },
   {
     "productId": "2c223c95-fc00-11ef-0a80-18cb0036da33",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/2c223c95-fc00-11ef-0a80-18cb0036da33_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/2c223c95-fc00-11ef-0a80-18cb0036da33_1.png"
+    ]
   },
   {
     "productId": "2cea93e2-9d47-11ef-0a80-1508000160c8",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/2cea93e2-9d47-11ef-0a80-1508000160c8_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/2cea93e2-9d47-11ef-0a80-1508000160c8_1.png"
+    ]
   },
   {
     "productId": "2cf7e919-116d-11f0-0a80-0b4000127055",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/2cf7e919-116d-11f0-0a80-0b4000127055_undefined.jpg"
-  },
-  {
-    "productId": "2cf7e919-116d-11f0-0a80-0b4000127055",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/2cf7e919-116d-11f0-0a80-0b4000127055_undefined.jpg"
-  },
-  {
-    "productId": "2cf7e919-116d-11f0-0a80-0b4000127055",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/2cf7e919-116d-11f0-0a80-0b4000127055_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/2cf7e919-116d-11f0-0a80-0b4000127055_1.png",
+      "https://apsnypack.s3.cloud.ru/products/2cf7e919-116d-11f0-0a80-0b4000127055_2.png",
+      "https://apsnypack.s3.cloud.ru/products/2cf7e919-116d-11f0-0a80-0b4000127055_3.png"
+    ]
   },
   {
     "productId": "2f267ad1-1201-11f0-0a80-08fb00174668",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/2f267ad1-1201-11f0-0a80-08fb00174668_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/2f267ad1-1201-11f0-0a80-08fb00174668_1.png"
+    ]
   },
   {
     "productId": "2f64b43e-9d4b-11ef-0a80-135200018804",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/2f64b43e-9d4b-11ef-0a80-135200018804_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/2f64b43e-9d4b-11ef-0a80-135200018804_1.png"
+    ]
   },
   {
     "productId": "2fb6b02b-fcee-11ef-0a80-05f400202898",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/2fb6b02b-fcee-11ef-0a80-05f400202898_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/2fb6b02b-fcee-11ef-0a80-05f400202898_1.png"
+    ]
   },
   {
     "productId": "30444af7-9d0e-11ef-0a80-07940012d93b",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/30444af7-9d0e-11ef-0a80-07940012d93b_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/30444af7-9d0e-11ef-0a80-07940012d93b_1.png"
+    ]
   },
   {
     "productId": "31a0c74b-9d4a-11ef-0a80-0e1200016786",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/31a0c74b-9d4a-11ef-0a80-0e1200016786_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/31a0c74b-9d4a-11ef-0a80-0e1200016786_1.png"
+    ]
   },
   {
     "productId": "335fc8aa-9d48-11ef-0a80-1508000165c4",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/335fc8aa-9d48-11ef-0a80-1508000165c4_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/335fc8aa-9d48-11ef-0a80-1508000165c4_1.png"
+    ]
   },
   {
     "productId": "33f1099d-0c91-11f0-0a80-1899003aa079",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/33f1099d-0c91-11f0-0a80-1899003aa079_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/33f1099d-0c91-11f0-0a80-1899003aa079_1.png"
+    ]
   },
   {
     "productId": "35949170-10c7-11f0-0a80-146400011604",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/35949170-10c7-11f0-0a80-146400011604_undefined.jpg"
-  },
-  {
-    "productId": "35949170-10c7-11f0-0a80-146400011604",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/35949170-10c7-11f0-0a80-146400011604_undefined.jpg"
-  },
-  {
-    "productId": "35949170-10c7-11f0-0a80-146400011604",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/35949170-10c7-11f0-0a80-146400011604_undefined.jpg"
-  },
-  {
-    "productId": "35949170-10c7-11f0-0a80-146400011604",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/35949170-10c7-11f0-0a80-146400011604_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/35949170-10c7-11f0-0a80-146400011604_1.png",
+      "https://apsnypack.s3.cloud.ru/products/35949170-10c7-11f0-0a80-146400011604_2.png",
+      "https://apsnypack.s3.cloud.ru/products/35949170-10c7-11f0-0a80-146400011604_3.png",
+      "https://apsnypack.s3.cloud.ru/products/35949170-10c7-11f0-0a80-146400011604_4.png"
+    ]
   },
   {
     "productId": "364a32ef-1204-11f0-0a80-11080017a6d9",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/364a32ef-1204-11f0-0a80-11080017a6d9_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/364a32ef-1204-11f0-0a80-11080017a6d9_1.png"
+    ]
   },
   {
     "productId": "36f04497-eb94-11ef-0a80-176c0041286b",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/36f04497-eb94-11ef-0a80-176c0041286b_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/36f04497-eb94-11ef-0a80-176c0041286b_1.png"
+    ]
   },
   {
     "productId": "37694b9d-1182-11f0-0a80-1a5b0013226d",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/37694b9d-1182-11f0-0a80-1a5b0013226d_undefined.jpg"
-  },
-  {
-    "productId": "37694b9d-1182-11f0-0a80-1a5b0013226d",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/37694b9d-1182-11f0-0a80-1a5b0013226d_undefined.jpg"
-  },
-  {
-    "productId": "376f7629-dbd9-11ef-0a80-14a20020a38e",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/376f7629-dbd9-11ef-0a80-14a20020a38e_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/37694b9d-1182-11f0-0a80-1a5b0013226d_1.png",
+      "https://apsnypack.s3.cloud.ru/products/37694b9d-1182-11f0-0a80-1a5b0013226d_2.png"
+    ]
   },
   {
     "productId": "376f7629-dbd9-11ef-0a80-14a20020a38e",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/376f7629-dbd9-11ef-0a80-14a20020a38e_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/376f7629-dbd9-11ef-0a80-14a20020a38e_1.png",
+      "https://apsnypack.s3.cloud.ru/products/376f7629-dbd9-11ef-0a80-14a20020a38e_2.png"
+    ]
   },
   {
     "productId": "38f62459-ab1c-11ef-0a80-1a7300370cf3",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/38f62459-ab1c-11ef-0a80-1a7300370cf3_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/38f62459-ab1c-11ef-0a80-1a7300370cf3_1.png"
+    ]
   },
   {
     "productId": "3a1e597e-a842-11ef-0a80-02cc00015246",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/3a1e597e-a842-11ef-0a80-02cc00015246_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/3a1e597e-a842-11ef-0a80-02cc00015246_1.png"
+    ]
   },
   {
     "productId": "3bb4175e-fcec-11ef-0a80-075b001f0465",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/3bb4175e-fcec-11ef-0a80-075b001f0465_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/3bb4175e-fcec-11ef-0a80-075b001f0465_1.png"
+    ]
   },
   {
     "productId": "3bfa8433-1170-11f0-0a80-012a0011f0fd",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/3bfa8433-1170-11f0-0a80-012a0011f0fd_undefined.jpg"
-  },
-  {
-    "productId": "3bfa8433-1170-11f0-0a80-012a0011f0fd",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/3bfa8433-1170-11f0-0a80-012a0011f0fd_undefined.jpg"
-  },
-  {
-    "productId": "3bfa8433-1170-11f0-0a80-012a0011f0fd",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/3bfa8433-1170-11f0-0a80-012a0011f0fd_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/3bfa8433-1170-11f0-0a80-012a0011f0fd_1.png",
+      "https://apsnypack.s3.cloud.ru/products/3bfa8433-1170-11f0-0a80-012a0011f0fd_2.png",
+      "https://apsnypack.s3.cloud.ru/products/3bfa8433-1170-11f0-0a80-012a0011f0fd_3.png"
+    ]
   },
   {
     "productId": "3c59ddd4-9d4c-11ef-0a80-0dc40001802b",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/3c59ddd4-9d4c-11ef-0a80-0dc40001802b_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/3c59ddd4-9d4c-11ef-0a80-0dc40001802b_1.png"
+    ]
   },
   {
     "productId": "3cb7a91c-9d0e-11ef-0a80-0dbe00135f7d",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/3cb7a91c-9d0e-11ef-0a80-0dbe00135f7d_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/3cb7a91c-9d0e-11ef-0a80-0dbe00135f7d_1.png"
+    ]
   },
   {
     "productId": "3e7f1170-9d12-11ef-0a80-06ad00131fa8",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/3e7f1170-9d12-11ef-0a80-06ad00131fa8_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/3e7f1170-9d12-11ef-0a80-06ad00131fa8_1.png"
+    ]
   },
   {
     "productId": "3f2fb9dc-bc50-11ef-0a80-04540025b6d4",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/3f2fb9dc-bc50-11ef-0a80-04540025b6d4_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/3f2fb9dc-bc50-11ef-0a80-04540025b6d4_1.png"
+    ]
   },
   {
     "productId": "40040dcc-fd19-11ef-0a80-0d80002206b4",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/40040dcc-fd19-11ef-0a80-0d80002206b4_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/40040dcc-fd19-11ef-0a80-0d80002206b4_1.png"
+    ]
   },
   {
     "productId": "4004ce1b-dbe1-11ef-0a80-03cd0020072a",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/4004ce1b-dbe1-11ef-0a80-03cd0020072a_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/4004ce1b-dbe1-11ef-0a80-03cd0020072a_1.png"
+    ]
   },
   {
     "productId": "4072840d-9da5-11ef-0a80-118b0006f725",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/4072840d-9da5-11ef-0a80-118b0006f725_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/4072840d-9da5-11ef-0a80-118b0006f725_1.png"
+    ]
   },
   {
     "productId": "4242bb4b-9cfa-11ef-0a80-1886000e6c33",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/4242bb4b-9cfa-11ef-0a80-1886000e6c33_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/4242bb4b-9cfa-11ef-0a80-1886000e6c33_1.png"
+    ]
   },
   {
     "productId": "42827b28-9d01-11ef-0a80-06ad000f902d",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/42827b28-9d01-11ef-0a80-06ad000f902d_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/42827b28-9d01-11ef-0a80-06ad000f902d_1.png"
+    ]
   },
   {
     "productId": "436b66c3-9d11-11ef-0a80-0e52001444f9",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/436b66c3-9d11-11ef-0a80-0e52001444f9_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/436b66c3-9d11-11ef-0a80-0e52001444f9_1.png"
+    ]
   },
   {
     "productId": "4515be8d-aa4e-11ef-0a80-11b50025edea",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/4515be8d-aa4e-11ef-0a80-11b50025edea_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/4515be8d-aa4e-11ef-0a80-11b50025edea_1.png"
+    ]
   },
   {
     "productId": "464262e1-9dac-11ef-0a80-0e1200087616",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/464262e1-9dac-11ef-0a80-0e1200087616_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/464262e1-9dac-11ef-0a80-0e1200087616_1.png"
+    ]
   },
   {
     "productId": "46823fdd-1172-11f0-0a80-0e8d0012e928",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/46823fdd-1172-11f0-0a80-0e8d0012e928_undefined.jpg"
-  },
-  {
-    "productId": "46823fdd-1172-11f0-0a80-0e8d0012e928",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/46823fdd-1172-11f0-0a80-0e8d0012e928_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/46823fdd-1172-11f0-0a80-0e8d0012e928_1.png",
+      "https://apsnypack.s3.cloud.ru/products/46823fdd-1172-11f0-0a80-0e8d0012e928_2.png"
+    ]
   },
   {
     "productId": "46fb160c-b639-11ef-0a80-1422003f9c13",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/46fb160c-b639-11ef-0a80-1422003f9c13_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/46fb160c-b639-11ef-0a80-1422003f9c13_1.png"
+    ]
   },
   {
     "productId": "4766e795-9d3f-11ef-0a80-14e9000123fc",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/4766e795-9d3f-11ef-0a80-14e9000123fc_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/4766e795-9d3f-11ef-0a80-14e9000123fc_1.png"
+    ]
   },
   {
     "productId": "479b9d93-9d41-11ef-0a80-0c9d00012d72",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/479b9d93-9d41-11ef-0a80-0c9d00012d72_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/479b9d93-9d41-11ef-0a80-0c9d00012d72_1.png"
+    ]
   },
   {
     "productId": "487e063c-9f59-11ef-0a80-0298007ca171",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/487e063c-9f59-11ef-0a80-0298007ca171_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/487e063c-9f59-11ef-0a80-0298007ca171_1.png"
+    ]
   },
   {
     "productId": "48ac1525-b57d-11ef-0a80-1422002985b8",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/48ac1525-b57d-11ef-0a80-1422002985b8_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/48ac1525-b57d-11ef-0a80-1422002985b8_1.png"
+    ]
   },
   {
     "productId": "4918f5a4-9e73-11ef-0a80-0c9d001a0c7f",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/4918f5a4-9e73-11ef-0a80-0c9d001a0c7f_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/4918f5a4-9e73-11ef-0a80-0c9d001a0c7f_1.png"
+    ]
   },
   {
     "productId": "4957340d-9d3d-11ef-0a80-0dc400010973",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/4957340d-9d3d-11ef-0a80-0dc400010973_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/4957340d-9d3d-11ef-0a80-0dc400010973_1.png"
+    ]
   },
   {
     "productId": "4c508f68-9d43-11ef-0a80-176d0001207a",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/4c508f68-9d43-11ef-0a80-176d0001207a_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/4c508f68-9d43-11ef-0a80-176d0001207a_1.png"
+    ]
   },
   {
     "productId": "4d265392-2332-11f0-0a80-158b001e8ace",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/4d265392-2332-11f0-0a80-158b001e8ace_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/4d265392-2332-11f0-0a80-158b001e8ace_1.png"
+    ]
   },
   {
     "productId": "4d4813d2-9d0e-11ef-0a80-17630012acfa",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/4d4813d2-9d0e-11ef-0a80-17630012acfa_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/4d4813d2-9d0e-11ef-0a80-17630012acfa_1.png"
+    ]
   },
   {
     "productId": "4dfcecea-116b-11f0-0a80-07f10012269e",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/4dfcecea-116b-11f0-0a80-07f10012269e_undefined.jpg"
-  },
-  {
-    "productId": "4dfcecea-116b-11f0-0a80-07f10012269e",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/4dfcecea-116b-11f0-0a80-07f10012269e_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/4dfcecea-116b-11f0-0a80-07f10012269e_1.png",
+      "https://apsnypack.s3.cloud.ru/products/4dfcecea-116b-11f0-0a80-07f10012269e_2.png"
+    ]
   },
   {
     "productId": "4e3c85d3-9d49-11ef-0a80-0bb5000153b0",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/4e3c85d3-9d49-11ef-0a80-0bb5000153b0_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/4e3c85d3-9d49-11ef-0a80-0bb5000153b0_1.png"
+    ]
   },
   {
     "productId": "4e98836a-9daa-11ef-0a80-118b00080f3a",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/4e98836a-9daa-11ef-0a80-118b00080f3a_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/4e98836a-9daa-11ef-0a80-118b00080f3a_1.png"
+    ]
   },
   {
     "productId": "4eb4b1a4-2334-11f0-0a80-0173001ed072",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/4eb4b1a4-2334-11f0-0a80-0173001ed072_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/4eb4b1a4-2334-11f0-0a80-0173001ed072_1.png"
+    ]
   },
   {
     "productId": "4f6a1e58-9d47-11ef-0a80-090a00017f44",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/4f6a1e58-9d47-11ef-0a80-090a00017f44_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/4f6a1e58-9d47-11ef-0a80-090a00017f44_1.png"
+    ]
   },
   {
     "productId": "50a586a9-9d0b-11ef-0a80-0dbe0012c7ea",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/50a586a9-9d0b-11ef-0a80-0dbe0012c7ea_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/50a586a9-9d0b-11ef-0a80-0dbe0012c7ea_1.png"
+    ]
   },
   {
     "productId": "50f18917-9d3e-11ef-0a80-08db00012bb4",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/50f18917-9d3e-11ef-0a80-08db00012bb4_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/50f18917-9d3e-11ef-0a80-08db00012bb4_1.png"
+    ]
   },
   {
     "productId": "51eefc3c-fb86-11ef-0a80-05f40013b2e6",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/51eefc3c-fb86-11ef-0a80-05f40013b2e6_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/51eefc3c-fb86-11ef-0a80-05f40013b2e6_1.png"
+    ]
   },
   {
     "productId": "53530f71-a67e-11ef-0a80-14020014a1da",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/53530f71-a67e-11ef-0a80-14020014a1da_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/53530f71-a67e-11ef-0a80-14020014a1da_1.png"
+    ]
   },
   {
     "productId": "5485e01d-9cfd-11ef-0a80-0c8b000f6888",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/5485e01d-9cfd-11ef-0a80-0c8b000f6888_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/5485e01d-9cfd-11ef-0a80-0c8b000f6888_1.png"
+    ]
   },
   {
     "productId": "55b43552-1213-11f0-0a80-11080018faad",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/55b43552-1213-11f0-0a80-11080018faad_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/55b43552-1213-11f0-0a80-11080018faad_1.png"
+    ]
   },
   {
     "productId": "55b82c03-dbdd-11ef-0a80-03cd001fcb67",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/55b82c03-dbdd-11ef-0a80-03cd001fcb67_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/55b82c03-dbdd-11ef-0a80-03cd001fcb67_1.png"
+    ]
   },
   {
     "productId": "55d6762f-fcea-11ef-0a80-0e3d001e8f7f",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/55d6762f-fcea-11ef-0a80-0e3d001e8f7f_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/55d6762f-fcea-11ef-0a80-0e3d001e8f7f_1.png"
+    ]
   },
   {
     "productId": "584c7c79-a661-11ef-0a80-096c000d2bb1",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/584c7c79-a661-11ef-0a80-096c000d2bb1_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/584c7c79-a661-11ef-0a80-096c000d2bb1_1.png"
+    ]
   },
   {
     "productId": "58d40d40-9df8-11ef-0a80-06b200153020",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/58d40d40-9df8-11ef-0a80-06b200153020_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/58d40d40-9df8-11ef-0a80-06b200153020_1.png"
+    ]
   },
   {
     "productId": "59a74ba2-aa4a-11ef-0a80-140b00255341",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/59a74ba2-aa4a-11ef-0a80-140b00255341_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/59a74ba2-aa4a-11ef-0a80-140b00255341_1.png"
+    ]
   },
   {
     "productId": "5a0d47ac-9d11-11ef-0a80-01620013b851",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/5a0d47ac-9d11-11ef-0a80-01620013b851_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/5a0d47ac-9d11-11ef-0a80-01620013b851_1.png"
+    ]
   },
   {
     "productId": "5a4c4e5f-a65f-11ef-0a80-10b8000c1be4",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/5a4c4e5f-a65f-11ef-0a80-10b8000c1be4_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/5a4c4e5f-a65f-11ef-0a80-10b8000c1be4_1.png"
+    ]
   },
   {
     "productId": "5a98cced-9cfe-11ef-0a80-0162000f5a5d",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/5a98cced-9cfe-11ef-0a80-0162000f5a5d_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/5a98cced-9cfe-11ef-0a80-0162000f5a5d_1.png"
+    ]
   },
   {
     "productId": "5d6b8eac-9da9-11ef-0a80-0dc4000798b3",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/5d6b8eac-9da9-11ef-0a80-0dc4000798b3_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/5d6b8eac-9da9-11ef-0a80-0dc4000798b3_1.png"
+    ]
   },
   {
     "productId": "5dcba2b7-fce7-11ef-0a80-15c200210d02",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/5dcba2b7-fce7-11ef-0a80-15c200210d02_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/5dcba2b7-fce7-11ef-0a80-15c200210d02_1.png"
+    ]
   },
   {
     "productId": "5e6755fd-fced-11ef-0a80-18ca001f634b",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/5e6755fd-fced-11ef-0a80-18ca001f634b_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/5e6755fd-fced-11ef-0a80-18ca001f634b_1.png"
+    ]
   },
   {
     "productId": "5f3baefc-bb7e-11ef-0a80-17d30029790e",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/5f3baefc-bb7e-11ef-0a80-17d30029790e_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/5f3baefc-bb7e-11ef-0a80-17d30029790e_1.png"
+    ]
   },
   {
     "productId": "5f9869bd-233b-11f0-0a80-0945001f28b9",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/5f9869bd-233b-11f0-0a80-0945001f28b9_undefined.jpg"
-  },
-  {
-    "productId": "5f9869bd-233b-11f0-0a80-0945001f28b9",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/5f9869bd-233b-11f0-0a80-0945001f28b9_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/5f9869bd-233b-11f0-0a80-0945001f28b9_1.png",
+      "https://apsnypack.s3.cloud.ru/products/5f9869bd-233b-11f0-0a80-0945001f28b9_2.png"
+    ]
   },
   {
     "productId": "6020da5e-9da7-11ef-0a80-118b00077023",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/6020da5e-9da7-11ef-0a80-118b00077023_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/6020da5e-9da7-11ef-0a80-118b00077023_1.png"
+    ]
   },
   {
     "productId": "60f9e6a6-f134-11ef-0a80-18eb0019d2d0",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/60f9e6a6-f134-11ef-0a80-18eb0019d2d0_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/60f9e6a6-f134-11ef-0a80-18eb0019d2d0_1.png"
+    ]
   },
   {
     "productId": "616d2f72-9da8-11ef-0a80-0e120007aa50",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/616d2f72-9da8-11ef-0a80-0e120007aa50_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/616d2f72-9da8-11ef-0a80-0e120007aa50_1.png"
+    ]
   },
   {
     "productId": "6180ccb9-9e78-11ef-0a80-079d001aa290",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/6180ccb9-9e78-11ef-0a80-079d001aa290_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/6180ccb9-9e78-11ef-0a80-079d001aa290_1.png"
+    ]
   },
   {
     "productId": "62f84b06-116f-11f0-0a80-174800131c6c",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/62f84b06-116f-11f0-0a80-174800131c6c_undefined.jpg"
-  },
-  {
-    "productId": "62f84b06-116f-11f0-0a80-174800131c6c",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/62f84b06-116f-11f0-0a80-174800131c6c_undefined.jpg"
-  },
-  {
-    "productId": "62f84b06-116f-11f0-0a80-174800131c6c",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/62f84b06-116f-11f0-0a80-174800131c6c_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/62f84b06-116f-11f0-0a80-174800131c6c_1.png",
+      "https://apsnypack.s3.cloud.ru/products/62f84b06-116f-11f0-0a80-174800131c6c_2.png",
+      "https://apsnypack.s3.cloud.ru/products/62f84b06-116f-11f0-0a80-174800131c6c_3.png"
+    ]
   },
   {
     "productId": "6322f31f-116b-11f0-0a80-03b5001252e7",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/6322f31f-116b-11f0-0a80-03b5001252e7_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/6322f31f-116b-11f0-0a80-03b5001252e7_1.png"
+    ]
   },
   {
     "productId": "642615a9-116d-11f0-0a80-012a0011bb43",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/642615a9-116d-11f0-0a80-012a0011bb43_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/642615a9-116d-11f0-0a80-012a0011bb43_1.png"
+    ]
   },
   {
     "productId": "6620fb00-1170-11f0-0a80-174800132d9f",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/6620fb00-1170-11f0-0a80-174800132d9f_undefined.jpg"
-  },
-  {
-    "productId": "6620fb00-1170-11f0-0a80-174800132d9f",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/6620fb00-1170-11f0-0a80-174800132d9f_undefined.jpg"
-  },
-  {
-    "productId": "6721576d-116c-11f0-0a80-092100129b5e",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/6721576d-116c-11f0-0a80-092100129b5e_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/6620fb00-1170-11f0-0a80-174800132d9f_1.png",
+      "https://apsnypack.s3.cloud.ru/products/6620fb00-1170-11f0-0a80-174800132d9f_2.png"
+    ]
   },
   {
     "productId": "6721576d-116c-11f0-0a80-092100129b5e",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/6721576d-116c-11f0-0a80-092100129b5e_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/6721576d-116c-11f0-0a80-092100129b5e_1.png",
+      "https://apsnypack.s3.cloud.ru/products/6721576d-116c-11f0-0a80-092100129b5e_2.png"
+    ]
   },
   {
     "productId": "67f574ac-9d4c-11ef-0a80-0e1200018c43",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/67f574ac-9d4c-11ef-0a80-0e1200018c43_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/67f574ac-9d4c-11ef-0a80-0e1200018c43_1.png"
+    ]
   },
   {
     "productId": "6e7c26c8-9e74-11ef-0a80-0bb50018f2af",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/6e7c26c8-9e74-11ef-0a80-0bb50018f2af_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/6e7c26c8-9e74-11ef-0a80-0bb50018f2af_1.png"
+    ]
   },
   {
     "productId": "6f044d62-9da5-11ef-0a80-0dc40006c4b7",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/6f044d62-9da5-11ef-0a80-0dc40006c4b7_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/6f044d62-9da5-11ef-0a80-0dc40006c4b7_1.png"
+    ]
   },
   {
     "productId": "70ea8958-f133-11ef-0a80-030c0019c103",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/70ea8958-f133-11ef-0a80-030c0019c103_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/70ea8958-f133-11ef-0a80-030c0019c103_1.png"
+    ]
   },
   {
     "productId": "71155628-9dbc-11ef-0a80-08db000bf26b",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/71155628-9dbc-11ef-0a80-08db000bf26b_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/71155628-9dbc-11ef-0a80-08db000bf26b_1.png"
+    ]
   },
   {
     "productId": "723d0e56-9d3e-11ef-0a80-14e900011de7",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/723d0e56-9d3e-11ef-0a80-14e900011de7_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/723d0e56-9d3e-11ef-0a80-14e900011de7_1.png"
+    ]
   },
   {
     "productId": "7263cc5f-1184-11f0-0a80-0b400013af54",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/7263cc5f-1184-11f0-0a80-0b400013af54_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/7263cc5f-1184-11f0-0a80-0b400013af54_1.png"
+    ]
   },
   {
     "productId": "73004213-9e7a-11ef-0a80-079d001ad65c",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/73004213-9e7a-11ef-0a80-079d001ad65c_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/73004213-9e7a-11ef-0a80-079d001ad65c_1.png"
+    ]
   },
   {
     "productId": "77733f81-d5e1-11ef-0a80-03bf001bcc3f",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/77733f81-d5e1-11ef-0a80-03bf001bcc3f_undefined.jpg"
-  },
-  {
-    "productId": "77733f81-d5e1-11ef-0a80-03bf001bcc3f",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/77733f81-d5e1-11ef-0a80-03bf001bcc3f_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/77733f81-d5e1-11ef-0a80-03bf001bcc3f_1.png",
+      "https://apsnypack.s3.cloud.ru/products/77733f81-d5e1-11ef-0a80-03bf001bcc3f_2.png"
+    ]
   },
   {
     "productId": "7811c051-fcec-11ef-0a80-117a00204426",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/7811c051-fcec-11ef-0a80-117a00204426_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/7811c051-fcec-11ef-0a80-117a00204426_1.png"
+    ]
   },
   {
     "productId": "7833ed8c-9d00-11ef-0a80-0794000fe21a",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/7833ed8c-9d00-11ef-0a80-0794000fe21a_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/7833ed8c-9d00-11ef-0a80-0794000fe21a_1.png"
+    ]
   },
   {
     "productId": "785cd87b-a845-11ef-0a80-0c1000017152",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/785cd87b-a845-11ef-0a80-0c1000017152_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/785cd87b-a845-11ef-0a80-0c1000017152_1.png"
+    ]
   },
   {
     "productId": "78e78fc4-9d4b-11ef-0a80-08db000184ba",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/78e78fc4-9d4b-11ef-0a80-08db000184ba_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/78e78fc4-9d4b-11ef-0a80-08db000184ba_1.png"
+    ]
   },
   {
     "productId": "794a2530-024d-11f0-0a80-040a001e3da6",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/794a2530-024d-11f0-0a80-040a001e3da6_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/794a2530-024d-11f0-0a80-040a001e3da6_1.png"
+    ]
   },
   {
     "productId": "7a76bc2a-9d05-11ef-0a80-18860010e7c1",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/7a76bc2a-9d05-11ef-0a80-18860010e7c1_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/7a76bc2a-9d05-11ef-0a80-18860010e7c1_1.png"
+    ]
   },
   {
     "productId": "7cbf4535-f799-11ef-0a80-19190011c166",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/7cbf4535-f799-11ef-0a80-19190011c166_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/7cbf4535-f799-11ef-0a80-19190011c166_1.png"
+    ]
   },
   {
     "productId": "7d2b9ee2-9d3b-11ef-0a80-090a00010474",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/7d2b9ee2-9d3b-11ef-0a80-090a00010474_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/7d2b9ee2-9d3b-11ef-0a80-090a00010474_1.png"
+    ]
   },
   {
     "productId": "7d808f7f-bfbf-11ef-0a80-0219001c29f9",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/7d808f7f-bfbf-11ef-0a80-0219001c29f9_undefined.jpg"
-  },
-  {
-    "productId": "7d808f7f-bfbf-11ef-0a80-0219001c29f9",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/7d808f7f-bfbf-11ef-0a80-0219001c29f9_undefined.jpg"
-  },
-  {
-    "productId": "7d808f7f-bfbf-11ef-0a80-0219001c29f9",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/7d808f7f-bfbf-11ef-0a80-0219001c29f9_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/7d808f7f-bfbf-11ef-0a80-0219001c29f9_1.png",
+      "https://apsnypack.s3.cloud.ru/products/7d808f7f-bfbf-11ef-0a80-0219001c29f9_2.png",
+      "https://apsnypack.s3.cloud.ru/products/7d808f7f-bfbf-11ef-0a80-0219001c29f9_3.png"
+    ]
   },
   {
     "productId": "7dac2bd8-116e-11f0-0a80-110800120fbf",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/7dac2bd8-116e-11f0-0a80-110800120fbf_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/7dac2bd8-116e-11f0-0a80-110800120fbf_1.png"
+    ]
   },
   {
     "productId": "7eb0da7f-a65b-11ef-0a80-119e000b636d",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/7eb0da7f-a65b-11ef-0a80-119e000b636d_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/7eb0da7f-a65b-11ef-0a80-119e000b636d_1.png"
+    ]
   },
   {
     "productId": "7f226343-fce2-11ef-0a80-18ca001ec43b",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/7f226343-fce2-11ef-0a80-18ca001ec43b_undefined.jpg"
-  },
-  {
-    "productId": "7f226343-fce2-11ef-0a80-18ca001ec43b",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/7f226343-fce2-11ef-0a80-18ca001ec43b_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/7f226343-fce2-11ef-0a80-18ca001ec43b_1.png",
+      "https://apsnypack.s3.cloud.ru/products/7f226343-fce2-11ef-0a80-18ca001ec43b_2.png"
+    ]
   },
   {
     "productId": "7f943a0f-eb94-11ef-0a80-0d4b004154c6",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/7f943a0f-eb94-11ef-0a80-0d4b004154c6_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/7f943a0f-eb94-11ef-0a80-0d4b004154c6_1.png"
+    ]
   },
   {
     "productId": "812ac16a-bb81-11ef-0a80-1433002a18ae",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/812ac16a-bb81-11ef-0a80-1433002a18ae_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/812ac16a-bb81-11ef-0a80-1433002a18ae_1.png"
+    ]
   },
   {
     "productId": "81b10778-1212-11f0-0a80-0b40001916e0",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/81b10778-1212-11f0-0a80-0b40001916e0_undefined.jpg"
-  },
-  {
-    "productId": "81b10778-1212-11f0-0a80-0b40001916e0",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/81b10778-1212-11f0-0a80-0b40001916e0_undefined.jpg"
-  },
-  {
-    "productId": "81b10778-1212-11f0-0a80-0b40001916e0",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/81b10778-1212-11f0-0a80-0b40001916e0_undefined.jpg"
-  },
-  {
-    "productId": "81b10778-1212-11f0-0a80-0b40001916e0",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/81b10778-1212-11f0-0a80-0b40001916e0_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/81b10778-1212-11f0-0a80-0b40001916e0_1.png",
+      "https://apsnypack.s3.cloud.ru/products/81b10778-1212-11f0-0a80-0b40001916e0_2.png",
+      "https://apsnypack.s3.cloud.ru/products/81b10778-1212-11f0-0a80-0b40001916e0_3.png",
+      "https://apsnypack.s3.cloud.ru/products/81b10778-1212-11f0-0a80-0b40001916e0_4.png"
+    ]
   },
   {
     "productId": "820fcf02-9d13-11ef-0a80-050c00140ad5",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/820fcf02-9d13-11ef-0a80-050c00140ad5_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/820fcf02-9d13-11ef-0a80-050c00140ad5_1.png"
+    ]
   },
   {
     "productId": "82ffb05c-9d0b-11ef-0a80-188600122c55",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/82ffb05c-9d0b-11ef-0a80-188600122c55_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/82ffb05c-9d0b-11ef-0a80-188600122c55_1.png"
+    ]
   },
   {
     "productId": "8317b1bc-aa4c-11ef-0a80-0d890024c4f8",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/8317b1bc-aa4c-11ef-0a80-0d890024c4f8_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/8317b1bc-aa4c-11ef-0a80-0d890024c4f8_1.png"
+    ]
   },
   {
     "productId": "839466a7-9da6-11ef-0a80-079d000779f6",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/839466a7-9da6-11ef-0a80-079d000779f6_undefined.jpg"
-  },
-  {
-    "productId": "839466a7-9da6-11ef-0a80-079d000779f6",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/839466a7-9da6-11ef-0a80-079d000779f6_undefined.jpg"
-  },
-  {
-    "productId": "839466a7-9da6-11ef-0a80-079d000779f6",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/839466a7-9da6-11ef-0a80-079d000779f6_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/839466a7-9da6-11ef-0a80-079d000779f6_1.png",
+      "https://apsnypack.s3.cloud.ru/products/839466a7-9da6-11ef-0a80-079d000779f6_2.png",
+      "https://apsnypack.s3.cloud.ru/products/839466a7-9da6-11ef-0a80-079d000779f6_3.png"
+    ]
   },
   {
     "productId": "83a5caf6-9da5-11ef-0a80-176d000708aa",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/83a5caf6-9da5-11ef-0a80-176d000708aa_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/83a5caf6-9da5-11ef-0a80-176d000708aa_1.png"
+    ]
   },
   {
     "productId": "84aa95f7-b08e-11ef-0a80-07b600c13bdd",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/84aa95f7-b08e-11ef-0a80-07b600c13bdd_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/84aa95f7-b08e-11ef-0a80-07b600c13bdd_1.png"
+    ]
   },
   {
     "productId": "858b8c9a-c5bb-11ef-0a80-170a001066e4",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/858b8c9a-c5bb-11ef-0a80-170a001066e4_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/858b8c9a-c5bb-11ef-0a80-170a001066e4_1.png"
+    ]
   },
   {
     "productId": "86dda5b2-024b-11f0-0a80-040a001e200e",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/86dda5b2-024b-11f0-0a80-040a001e200e_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/86dda5b2-024b-11f0-0a80-040a001e200e_1.png"
+    ]
   },
   {
     "productId": "87391d2d-9d45-11ef-0a80-090a0001734b",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/87391d2d-9d45-11ef-0a80-090a0001734b_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/87391d2d-9d45-11ef-0a80-090a0001734b_1.png"
+    ]
   },
   {
     "productId": "8805213b-9d3f-11ef-0a80-08db00013940",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/8805213b-9d3f-11ef-0a80-08db00013940_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/8805213b-9d3f-11ef-0a80-08db00013940_1.png"
+    ]
   },
   {
     "productId": "889496d4-9e72-11ef-0a80-08db0019d196",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/889496d4-9e72-11ef-0a80-08db0019d196_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/889496d4-9e72-11ef-0a80-08db0019d196_1.png"
+    ]
   },
   {
     "productId": "88fd4a62-9daa-11ef-0a80-0c9d0007e560",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/88fd4a62-9daa-11ef-0a80-0c9d0007e560_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/88fd4a62-9daa-11ef-0a80-0c9d0007e560_1.png"
+    ]
   },
   {
     "productId": "891318ab-9d3d-11ef-0a80-0c9d00010d20",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/891318ab-9d3d-11ef-0a80-0c9d00010d20_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/891318ab-9d3d-11ef-0a80-0c9d00010d20_1.png"
+    ]
   },
   {
     "productId": "89393ab6-9cfc-11ef-0a80-1763000eeec9",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/89393ab6-9cfc-11ef-0a80-1763000eeec9_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/89393ab6-9cfc-11ef-0a80-1763000eeec9_1.png"
+    ]
   },
   {
     "productId": "89ddd627-9d43-11ef-0a80-150800014665",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/89ddd627-9d43-11ef-0a80-150800014665_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/89ddd627-9d43-11ef-0a80-150800014665_1.png"
+    ]
   },
   {
     "productId": "8b41bd05-9d0f-11ef-0a80-17630012ffe0",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/8b41bd05-9d0f-11ef-0a80-17630012ffe0_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/8b41bd05-9d0f-11ef-0a80-17630012ffe0_1.png"
+    ]
   },
   {
     "productId": "8fdbb581-9d3c-11ef-0a80-0dc400010382",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/8fdbb581-9d3c-11ef-0a80-0dc400010382_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/8fdbb581-9d3c-11ef-0a80-0dc400010382_1.png"
+    ]
   },
   {
     "productId": "90277701-1206-11f0-0a80-06fc0018d2cc",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/90277701-1206-11f0-0a80-06fc0018d2cc_undefined.jpg"
-  },
-  {
-    "productId": "90277701-1206-11f0-0a80-06fc0018d2cc",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/90277701-1206-11f0-0a80-06fc0018d2cc_undefined.jpg"
-  },
-  {
-    "productId": "90277701-1206-11f0-0a80-06fc0018d2cc",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/90277701-1206-11f0-0a80-06fc0018d2cc_undefined.jpg"
-  },
-  {
-    "productId": "90277701-1206-11f0-0a80-06fc0018d2cc",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/90277701-1206-11f0-0a80-06fc0018d2cc_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/90277701-1206-11f0-0a80-06fc0018d2cc_1.png",
+      "https://apsnypack.s3.cloud.ru/products/90277701-1206-11f0-0a80-06fc0018d2cc_2.png",
+      "https://apsnypack.s3.cloud.ru/products/90277701-1206-11f0-0a80-06fc0018d2cc_3.png",
+      "https://apsnypack.s3.cloud.ru/products/90277701-1206-11f0-0a80-06fc0018d2cc_4.png"
+    ]
   },
   {
     "productId": "9115ed32-9e79-11ef-0a80-176d001a862f",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/9115ed32-9e79-11ef-0a80-176d001a862f_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/9115ed32-9e79-11ef-0a80-176d001a862f_1.png"
+    ]
   },
   {
     "productId": "924a93e3-fce6-11ef-0a80-13ce001efcd6",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/924a93e3-fce6-11ef-0a80-13ce001efcd6_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/924a93e3-fce6-11ef-0a80-13ce001efcd6_1.png"
+    ]
   },
   {
     "productId": "93372af6-9d47-11ef-0a80-08db0001737d",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/93372af6-9d47-11ef-0a80-08db0001737d_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/93372af6-9d47-11ef-0a80-08db0001737d_1.png"
+    ]
   },
   {
     "productId": "93eb19fd-9dab-11ef-0a80-135200085f81",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/93eb19fd-9dab-11ef-0a80-135200085f81_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/93eb19fd-9dab-11ef-0a80-135200085f81_1.png"
+    ]
   },
   {
     "productId": "947755a3-9d11-11ef-0a80-0e5200145057",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/947755a3-9d11-11ef-0a80-0e5200145057_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/947755a3-9d11-11ef-0a80-0e5200145057_1.png"
+    ]
   },
   {
     "productId": "94a2ef4a-0e13-11f0-0a80-0304002cf1a9",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/94a2ef4a-0e13-11f0-0a80-0304002cf1a9_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/94a2ef4a-0e13-11f0-0a80-0304002cf1a9_1.png"
+    ]
   },
   {
     "productId": "95045263-1207-11f0-0a80-06fc0018e908",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/95045263-1207-11f0-0a80-06fc0018e908_undefined.jpg"
-  },
-  {
-    "productId": "95045263-1207-11f0-0a80-06fc0018e908",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/95045263-1207-11f0-0a80-06fc0018e908_undefined.jpg"
-  },
-  {
-    "productId": "95045263-1207-11f0-0a80-06fc0018e908",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/95045263-1207-11f0-0a80-06fc0018e908_undefined.jpg"
-  },
-  {
-    "productId": "95045263-1207-11f0-0a80-06fc0018e908",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/95045263-1207-11f0-0a80-06fc0018e908_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/95045263-1207-11f0-0a80-06fc0018e908_1.png",
+      "https://apsnypack.s3.cloud.ru/products/95045263-1207-11f0-0a80-06fc0018e908_2.png",
+      "https://apsnypack.s3.cloud.ru/products/95045263-1207-11f0-0a80-06fc0018e908_3.png",
+      "https://apsnypack.s3.cloud.ru/products/95045263-1207-11f0-0a80-06fc0018e908_4.png"
+    ]
   },
   {
     "productId": "9577fe7e-9d0f-11ef-0a80-06ad00129ceb",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/9577fe7e-9d0f-11ef-0a80-06ad00129ceb_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/9577fe7e-9d0f-11ef-0a80-06ad00129ceb_1.png"
+    ]
   },
   {
     "productId": "981fa013-9d45-11ef-0a80-06b2000126c0",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/981fa013-9d45-11ef-0a80-06b2000126c0_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/981fa013-9d45-11ef-0a80-06b2000126c0_1.png"
+    ]
   },
   {
     "productId": "9a17f4d3-116d-11f0-0a80-06fc00130dc0",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/9a17f4d3-116d-11f0-0a80-06fc00130dc0_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/9a17f4d3-116d-11f0-0a80-06fc00130dc0_1.png"
+    ]
   },
   {
     "productId": "9abbd479-1205-11f0-0a80-0e8d00183453",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/9abbd479-1205-11f0-0a80-0e8d00183453_undefined.jpg"
-  },
-  {
-    "productId": "9abbd479-1205-11f0-0a80-0e8d00183453",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/9abbd479-1205-11f0-0a80-0e8d00183453_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/9abbd479-1205-11f0-0a80-0e8d00183453_1.png",
+      "https://apsnypack.s3.cloud.ru/products/9abbd479-1205-11f0-0a80-0e8d00183453_2.png"
+    ]
   },
   {
     "productId": "9b4b163e-dd4a-11ef-0a80-15f300172977",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/9b4b163e-dd4a-11ef-0a80-15f300172977_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/9b4b163e-dd4a-11ef-0a80-15f300172977_1.png"
+    ]
   },
   {
     "productId": "9c26e8fd-116f-11f0-0a80-06fc00132ab9",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/9c26e8fd-116f-11f0-0a80-06fc00132ab9_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/9c26e8fd-116f-11f0-0a80-06fc00132ab9_1.png"
+    ]
   },
   {
     "productId": "9e99d108-9da7-11ef-0a80-079d0007b425",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/9e99d108-9da7-11ef-0a80-079d0007b425_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/9e99d108-9da7-11ef-0a80-079d0007b425_1.png"
+    ]
   },
   {
     "productId": "9ea67e6f-9dac-11ef-0a80-08db00085cb4",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/9ea67e6f-9dac-11ef-0a80-08db00085cb4_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/9ea67e6f-9dac-11ef-0a80-08db00085cb4_1.png"
+    ]
   },
   {
     "productId": "9f1b4121-fd16-11ef-0a80-18ca00212ee4",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/9f1b4121-fd16-11ef-0a80-18ca00212ee4_undefined.jpg"
-  },
-  {
-    "productId": "9f1b4121-fd16-11ef-0a80-18ca00212ee4",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/9f1b4121-fd16-11ef-0a80-18ca00212ee4_undefined.jpg"
-  },
-  {
-    "productId": "9f1b4121-fd16-11ef-0a80-18ca00212ee4",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/9f1b4121-fd16-11ef-0a80-18ca00212ee4_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/9f1b4121-fd16-11ef-0a80-18ca00212ee4_1.png",
+      "https://apsnypack.s3.cloud.ru/products/9f1b4121-fd16-11ef-0a80-18ca00212ee4_2.png",
+      "https://apsnypack.s3.cloud.ru/products/9f1b4121-fd16-11ef-0a80-18ca00212ee4_3.png"
+    ]
   },
   {
     "productId": "9f317fb2-aa49-11ef-0a80-140b002547b3",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/9f317fb2-aa49-11ef-0a80-140b002547b3_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/9f317fb2-aa49-11ef-0a80-140b002547b3_1.png"
+    ]
   },
   {
     "productId": "9fe0c074-9d3e-11ef-0a80-14e900011fd0",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/9fe0c074-9d3e-11ef-0a80-14e900011fd0_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/9fe0c074-9d3e-11ef-0a80-14e900011fd0_1.png"
+    ]
   },
   {
     "productId": "a28ab1ea-9d42-11ef-0a80-090a00015d2e",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/a28ab1ea-9d42-11ef-0a80-090a00015d2e_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/a28ab1ea-9d42-11ef-0a80-090a00015d2e_1.png"
+    ]
   },
   {
     "productId": "a54cb1bd-dbdd-11ef-0a80-009b0020f1f7",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/a54cb1bd-dbdd-11ef-0a80-009b0020f1f7_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/a54cb1bd-dbdd-11ef-0a80-009b0020f1f7_1.png"
+    ]
   },
   {
     "productId": "a89c2425-1182-11f0-0a80-06fc0014422d",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/a89c2425-1182-11f0-0a80-06fc0014422d_undefined.jpg"
-  },
-  {
-    "productId": "a89c2425-1182-11f0-0a80-06fc0014422d",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/a89c2425-1182-11f0-0a80-06fc0014422d_undefined.jpg"
-  },
-  {
-    "productId": "ab0a2ddc-12db-11f0-0a80-0e8d0021004a",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/ab0a2ddc-12db-11f0-0a80-0e8d0021004a_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/a89c2425-1182-11f0-0a80-06fc0014422d_1.png",
+      "https://apsnypack.s3.cloud.ru/products/a89c2425-1182-11f0-0a80-06fc0014422d_2.png"
+    ]
   },
   {
     "productId": "ab0a2ddc-12db-11f0-0a80-0e8d0021004a",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/ab0a2ddc-12db-11f0-0a80-0e8d0021004a_undefined.jpg"
-  },
-  {
-    "productId": "ab0a2ddc-12db-11f0-0a80-0e8d0021004a",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/ab0a2ddc-12db-11f0-0a80-0e8d0021004a_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/ab0a2ddc-12db-11f0-0a80-0e8d0021004a_1.png",
+      "https://apsnypack.s3.cloud.ru/products/ab0a2ddc-12db-11f0-0a80-0e8d0021004a_2.png",
+      "https://apsnypack.s3.cloud.ru/products/ab0a2ddc-12db-11f0-0a80-0e8d0021004a_3.png"
+    ]
   },
   {
     "productId": "ab2a2faa-b08f-11ef-0a80-163f00bf82de",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/ab2a2faa-b08f-11ef-0a80-163f00bf82de_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/ab2a2faa-b08f-11ef-0a80-163f00bf82de_1.png"
+    ]
   },
   {
     "productId": "adc63281-a65d-11ef-0a80-01db000c0da5",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/adc63281-a65d-11ef-0a80-01db000c0da5_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/adc63281-a65d-11ef-0a80-01db000c0da5_1.png"
+    ]
   },
   {
     "productId": "aef8c120-9d3c-11ef-0a80-118b00012910",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/aef8c120-9d3c-11ef-0a80-118b00012910_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/aef8c120-9d3c-11ef-0a80-118b00012910_1.png"
+    ]
   },
   {
     "productId": "b05147aa-9d0e-11ef-0a80-06ad0012695d",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/b05147aa-9d0e-11ef-0a80-06ad0012695d_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/b05147aa-9d0e-11ef-0a80-06ad0012695d_1.png"
+    ]
   },
   {
     "productId": "b0ac1687-2336-11f0-0a80-1095001ee0c3",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/b0ac1687-2336-11f0-0a80-1095001ee0c3_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/b0ac1687-2336-11f0-0a80-1095001ee0c3_1.png"
+    ]
   },
   {
     "productId": "b155b39d-b944-11ef-0a80-10720020259e",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/b155b39d-b944-11ef-0a80-10720020259e_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/b155b39d-b944-11ef-0a80-10720020259e_1.png"
+    ]
   },
   {
     "productId": "b2331c5a-b632-11ef-0a80-16a4003c2db1",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/b2331c5a-b632-11ef-0a80-16a4003c2db1_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/b2331c5a-b632-11ef-0a80-16a4003c2db1_1.png"
+    ]
   },
   {
     "productId": "b275cad4-fb84-11ef-0a80-0e3d0012e7f3",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/b275cad4-fb84-11ef-0a80-0e3d0012e7f3_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/b275cad4-fb84-11ef-0a80-0e3d0012e7f3_1.png"
+    ]
   },
   {
     "productId": "b2fcffb3-9d3f-11ef-0a80-0e1200011de8",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/b2fcffb3-9d3f-11ef-0a80-0e1200011de8_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/b2fcffb3-9d3f-11ef-0a80-0e1200011de8_1.png"
+    ]
   },
   {
     "productId": "b3a6dc6b-9d00-11ef-0a80-06ad000f7106",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/b3a6dc6b-9d00-11ef-0a80-06ad000f7106_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/b3a6dc6b-9d00-11ef-0a80-06ad000f7106_1.png"
+    ]
   },
   {
     "productId": "b44ac326-9d49-11ef-0a80-0c9d00017869",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/b44ac326-9d49-11ef-0a80-0c9d00017869_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/b44ac326-9d49-11ef-0a80-0c9d00017869_1.png"
+    ]
   },
   {
     "productId": "b5fbe789-9d05-11ef-0a80-0c8b00116689",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/b5fbe789-9d05-11ef-0a80-0c8b00116689_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/b5fbe789-9d05-11ef-0a80-0c8b00116689_1.png"
+    ]
   },
   {
     "productId": "b6725eda-ab28-11ef-0a80-0e33003c409a",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/b6725eda-ab28-11ef-0a80-0e33003c409a_undefined.jpg"
-  },
-  {
-    "productId": "b6725eda-ab28-11ef-0a80-0e33003c409a",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/b6725eda-ab28-11ef-0a80-0e33003c409a_undefined.jpg"
-  },
-  {
-    "productId": "b6725eda-ab28-11ef-0a80-0e33003c409a",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/b6725eda-ab28-11ef-0a80-0e33003c409a_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/b6725eda-ab28-11ef-0a80-0e33003c409a_1.png",
+      "https://apsnypack.s3.cloud.ru/products/b6725eda-ab28-11ef-0a80-0e33003c409a_2.png",
+      "https://apsnypack.s3.cloud.ru/products/b6725eda-ab28-11ef-0a80-0e33003c409a_3.png"
+    ]
   },
   {
     "productId": "b7c4f5a4-9d44-11ef-0a80-06b200012255",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/b7c4f5a4-9d44-11ef-0a80-06b200012255_undefined.jpg"
-  },
-  {
-    "productId": "b7c4f5a4-9d44-11ef-0a80-06b200012255",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/b7c4f5a4-9d44-11ef-0a80-06b200012255_undefined.jpg"
-  },
-  {
-    "productId": "b7c4f5a4-9d44-11ef-0a80-06b200012255",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/b7c4f5a4-9d44-11ef-0a80-06b200012255_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/b7c4f5a4-9d44-11ef-0a80-06b200012255_1.png",
+      "https://apsnypack.s3.cloud.ru/products/b7c4f5a4-9d44-11ef-0a80-06b200012255_2.png",
+      "https://apsnypack.s3.cloud.ru/products/b7c4f5a4-9d44-11ef-0a80-06b200012255_3.png"
+    ]
   },
   {
     "productId": "b86a37f4-9e76-11ef-0a80-0bb500193841",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/b86a37f4-9e76-11ef-0a80-0bb500193841_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/b86a37f4-9e76-11ef-0a80-0bb500193841_1.png"
+    ]
   },
   {
     "productId": "b92b012a-9daa-11ef-0a80-118b00082216",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/b92b012a-9daa-11ef-0a80-118b00082216_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/b92b012a-9daa-11ef-0a80-118b00082216_1.png"
+    ]
   },
   {
     "productId": "b9d81ee0-12cd-11f0-0a80-165700202864",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/b9d81ee0-12cd-11f0-0a80-165700202864_undefined.jpg"
-  },
-  {
-    "productId": "b9d81ee0-12cd-11f0-0a80-165700202864",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/b9d81ee0-12cd-11f0-0a80-165700202864_undefined.jpg"
-  },
-  {
-    "productId": "b9d81ee0-12cd-11f0-0a80-165700202864",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/b9d81ee0-12cd-11f0-0a80-165700202864_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/b9d81ee0-12cd-11f0-0a80-165700202864_1.png",
+      "https://apsnypack.s3.cloud.ru/products/b9d81ee0-12cd-11f0-0a80-165700202864_2.png",
+      "https://apsnypack.s3.cloud.ru/products/b9d81ee0-12cd-11f0-0a80-165700202864_3.png"
+    ]
   },
   {
     "productId": "ba26d9ea-9d3d-11ef-0a80-0fd10001230c",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/ba26d9ea-9d3d-11ef-0a80-0fd10001230c_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/ba26d9ea-9d3d-11ef-0a80-0fd10001230c_1.png"
+    ]
   },
   {
     "productId": "ba82a143-fceb-11ef-0a80-1055001f3285",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/ba82a143-fceb-11ef-0a80-1055001f3285_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/ba82a143-fceb-11ef-0a80-1055001f3285_1.png"
+    ]
   },
   {
     "productId": "bc282f9c-1173-11f0-0a80-1a5b00128538",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/bc282f9c-1173-11f0-0a80-1a5b00128538_undefined.jpg"
-  },
-  {
-    "productId": "bc282f9c-1173-11f0-0a80-1a5b00128538",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/bc282f9c-1173-11f0-0a80-1a5b00128538_undefined.jpg"
-  },
-  {
-    "productId": "bd5286aa-1170-11f0-0a80-16570012f2e2",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/bd5286aa-1170-11f0-0a80-16570012f2e2_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/bc282f9c-1173-11f0-0a80-1a5b00128538_1.png",
+      "https://apsnypack.s3.cloud.ru/products/bc282f9c-1173-11f0-0a80-1a5b00128538_2.png"
+    ]
   },
   {
     "productId": "bd5286aa-1170-11f0-0a80-16570012f2e2",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/bd5286aa-1170-11f0-0a80-16570012f2e2_undefined.jpg"
-  },
-  {
-    "productId": "bd5286aa-1170-11f0-0a80-16570012f2e2",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/bd5286aa-1170-11f0-0a80-16570012f2e2_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/bd5286aa-1170-11f0-0a80-16570012f2e2_1.png",
+      "https://apsnypack.s3.cloud.ru/products/bd5286aa-1170-11f0-0a80-16570012f2e2_2.png",
+      "https://apsnypack.s3.cloud.ru/products/bd5286aa-1170-11f0-0a80-16570012f2e2_3.png"
+    ]
   },
   {
     "productId": "bd68b76b-a67d-11ef-0a80-096c0013dbdf",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/bd68b76b-a67d-11ef-0a80-096c0013dbdf_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/bd68b76b-a67d-11ef-0a80-096c0013dbdf_1.png"
+    ]
   },
   {
     "productId": "bde2e3a6-aa4e-11ef-0a80-01f20024ef85",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/bde2e3a6-aa4e-11ef-0a80-01f20024ef85_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/bde2e3a6-aa4e-11ef-0a80-01f20024ef85_1.png"
+    ]
   },
   {
     "productId": "beb3a5fa-bb80-11ef-0a80-1154002ab545",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/beb3a5fa-bb80-11ef-0a80-1154002ab545_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/beb3a5fa-bb80-11ef-0a80-1154002ab545_1.png"
+    ]
   },
   {
     "productId": "bec49006-aa4a-11ef-0a80-1a730023a7d8",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/bec49006-aa4a-11ef-0a80-1a730023a7d8_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/bec49006-aa4a-11ef-0a80-1a730023a7d8_1.png"
+    ]
   },
   {
     "productId": "bef3047e-9cff-11ef-0a80-1763000fbb3b",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/bef3047e-9cff-11ef-0a80-1763000fbb3b_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/bef3047e-9cff-11ef-0a80-1763000fbb3b_1.png"
+    ]
   },
   {
     "productId": "bf26dc82-9d40-11ef-0a80-0bb50001181c",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/bf26dc82-9d40-11ef-0a80-0bb50001181c_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/bf26dc82-9d40-11ef-0a80-0bb50001181c_1.png"
+    ]
   },
   {
     "productId": "bf578e83-fd15-11ef-0a80-0c1100217611",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/bf578e83-fd15-11ef-0a80-0c1100217611_undefined.jpg"
-  },
-  {
-    "productId": "bf578e83-fd15-11ef-0a80-0c1100217611",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/bf578e83-fd15-11ef-0a80-0c1100217611_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/bf578e83-fd15-11ef-0a80-0c1100217611_1.png",
+      "https://apsnypack.s3.cloud.ru/products/bf578e83-fd15-11ef-0a80-0c1100217611_2.png"
+    ]
   },
   {
     "productId": "c1e85af4-9d42-11ef-0a80-08db00015916",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/c1e85af4-9d42-11ef-0a80-08db00015916_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/c1e85af4-9d42-11ef-0a80-08db00015916_1.png"
+    ]
   },
   {
     "productId": "c23242ae-aab0-11ef-0a80-0e3500910884",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/c23242ae-aab0-11ef-0a80-0e3500910884_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/c23242ae-aab0-11ef-0a80-0e3500910884_1.png"
+    ]
   },
   {
     "productId": "c3fa3504-1204-11f0-0a80-03b50017e308",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/c3fa3504-1204-11f0-0a80-03b50017e308_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/c3fa3504-1204-11f0-0a80-03b50017e308_1.png"
+    ]
   },
   {
     "productId": "c4ab8dc6-1184-11f0-0a80-1a5b001332fa",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/c4ab8dc6-1184-11f0-0a80-1a5b001332fa_undefined.jpg"
-  },
-  {
-    "productId": "c4ab8dc6-1184-11f0-0a80-1a5b001332fa",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/c4ab8dc6-1184-11f0-0a80-1a5b001332fa_undefined.jpg"
-  },
-  {
-    "productId": "c4ab8dc6-1184-11f0-0a80-1a5b001332fa",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/c4ab8dc6-1184-11f0-0a80-1a5b001332fa_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/c4ab8dc6-1184-11f0-0a80-1a5b001332fa_1.png",
+      "https://apsnypack.s3.cloud.ru/products/c4ab8dc6-1184-11f0-0a80-1a5b001332fa_2.png",
+      "https://apsnypack.s3.cloud.ru/products/c4ab8dc6-1184-11f0-0a80-1a5b001332fa_3.png"
+    ]
   },
   {
     "productId": "c83bf57d-1172-11f0-0a80-0921001325e4",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/c83bf57d-1172-11f0-0a80-0921001325e4_undefined.jpg"
-  },
-  {
-    "productId": "c83bf57d-1172-11f0-0a80-0921001325e4",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/c83bf57d-1172-11f0-0a80-0921001325e4_undefined.jpg"
-  },
-  {
-    "productId": "c83bf57d-1172-11f0-0a80-0921001325e4",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/c83bf57d-1172-11f0-0a80-0921001325e4_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/c83bf57d-1172-11f0-0a80-0921001325e4_1.png",
+      "https://apsnypack.s3.cloud.ru/products/c83bf57d-1172-11f0-0a80-0921001325e4_2.png",
+      "https://apsnypack.s3.cloud.ru/products/c83bf57d-1172-11f0-0a80-0921001325e4_3.png"
+    ]
   },
   {
     "productId": "c87ca053-0e06-11f0-0a80-03040029dcc7",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/c87ca053-0e06-11f0-0a80-03040029dcc7_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/c87ca053-0e06-11f0-0a80-03040029dcc7_1.png"
+    ]
   },
   {
     "productId": "c8b67e84-1165-11f0-0a80-0f430011fb1c",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/c8b67e84-1165-11f0-0a80-0f430011fb1c_undefined.jpg"
-  },
-  {
-    "productId": "c8b67e84-1165-11f0-0a80-0f430011fb1c",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/c8b67e84-1165-11f0-0a80-0f430011fb1c_undefined.jpg"
-  },
-  {
-    "productId": "c8b67e84-1165-11f0-0a80-0f430011fb1c",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/c8b67e84-1165-11f0-0a80-0f430011fb1c_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/c8b67e84-1165-11f0-0a80-0f430011fb1c_1.png",
+      "https://apsnypack.s3.cloud.ru/products/c8b67e84-1165-11f0-0a80-0f430011fb1c_2.png",
+      "https://apsnypack.s3.cloud.ru/products/c8b67e84-1165-11f0-0a80-0f430011fb1c_3.png"
+    ]
   },
   {
     "productId": "c9187ab8-fbfd-11ef-0a80-117c0036b557",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/c9187ab8-fbfd-11ef-0a80-117c0036b557_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/c9187ab8-fbfd-11ef-0a80-117c0036b557_1.png"
+    ]
   },
   {
     "productId": "c926e702-fd19-11ef-0a80-1ab3002202ba",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/c926e702-fd19-11ef-0a80-1ab3002202ba_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/c926e702-fd19-11ef-0a80-1ab3002202ba_1.png"
+    ]
   },
   {
     "productId": "c945c026-9d0f-11ef-0a80-090200132c5e",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/c945c026-9d0f-11ef-0a80-090200132c5e_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/c945c026-9d0f-11ef-0a80-090200132c5e_1.png"
+    ]
   },
   {
     "productId": "c96ff63e-f133-11ef-0a80-1413001a8a95",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/c96ff63e-f133-11ef-0a80-1413001a8a95_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/c96ff63e-f133-11ef-0a80-1413001a8a95_1.png"
+    ]
   },
   {
     "productId": "ca1902ae-1182-11f0-0a80-0f430013eafb",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/ca1902ae-1182-11f0-0a80-0f430013eafb_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/ca1902ae-1182-11f0-0a80-0f430013eafb_1.png"
+    ]
   },
   {
     "productId": "ca40cd27-fcea-11ef-0a80-0b9c001f6ba7",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/ca40cd27-fcea-11ef-0a80-0b9c001f6ba7_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/ca40cd27-fcea-11ef-0a80-0b9c001f6ba7_1.png"
+    ]
   },
   {
     "productId": "ca87b621-9da6-11ef-0a80-079d0007844a",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/ca87b621-9da6-11ef-0a80-079d0007844a_undefined.jpg"
-  },
-  {
-    "productId": "ca87b621-9da6-11ef-0a80-079d0007844a",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/ca87b621-9da6-11ef-0a80-079d0007844a_undefined.jpg"
-  },
-  {
-    "productId": "ca87b621-9da6-11ef-0a80-079d0007844a",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/ca87b621-9da6-11ef-0a80-079d0007844a_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/ca87b621-9da6-11ef-0a80-079d0007844a_1.png",
+      "https://apsnypack.s3.cloud.ru/products/ca87b621-9da6-11ef-0a80-079d0007844a_2.png",
+      "https://apsnypack.s3.cloud.ru/products/ca87b621-9da6-11ef-0a80-079d0007844a_3.png"
+    ]
   },
   {
     "productId": "ccf88a0f-fce5-11ef-0a80-01b1001e5d2d",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/ccf88a0f-fce5-11ef-0a80-01b1001e5d2d_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/ccf88a0f-fce5-11ef-0a80-01b1001e5d2d_1.png"
+    ]
   },
   {
     "productId": "cd6c7b8e-0e0d-11f0-0a80-1774002bd947",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/cd6c7b8e-0e0d-11f0-0a80-1774002bd947_undefined.jpg"
-  },
-  {
-    "productId": "cd6c7b8e-0e0d-11f0-0a80-1774002bd947",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/cd6c7b8e-0e0d-11f0-0a80-1774002bd947_undefined.jpg"
-  },
-  {
-    "productId": "cd6c7b8e-0e0d-11f0-0a80-1774002bd947",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/cd6c7b8e-0e0d-11f0-0a80-1774002bd947_undefined.jpg"
-  },
-  {
-    "productId": "cd6c7b8e-0e0d-11f0-0a80-1774002bd947",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/cd6c7b8e-0e0d-11f0-0a80-1774002bd947_undefined.jpg"
-  },
-  {
-    "productId": "cd6c7b8e-0e0d-11f0-0a80-1774002bd947",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/cd6c7b8e-0e0d-11f0-0a80-1774002bd947_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/cd6c7b8e-0e0d-11f0-0a80-1774002bd947_1.png",
+      "https://apsnypack.s3.cloud.ru/products/cd6c7b8e-0e0d-11f0-0a80-1774002bd947_2.png",
+      "https://apsnypack.s3.cloud.ru/products/cd6c7b8e-0e0d-11f0-0a80-1774002bd947_3.png",
+      "https://apsnypack.s3.cloud.ru/products/cd6c7b8e-0e0d-11f0-0a80-1774002bd947_4.png",
+      "https://apsnypack.s3.cloud.ru/products/cd6c7b8e-0e0d-11f0-0a80-1774002bd947_5.png"
+    ]
   },
   {
     "productId": "ce49a94f-aa4d-11ef-0a80-163f0025bf2b",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/ce49a94f-aa4d-11ef-0a80-163f0025bf2b_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/ce49a94f-aa4d-11ef-0a80-163f0025bf2b_1.png"
+    ]
   },
   {
     "productId": "ce909fb1-9d3c-11ef-0a80-15080000f957",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/ce909fb1-9d3c-11ef-0a80-15080000f957_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/ce909fb1-9d3c-11ef-0a80-15080000f957_1.png"
+    ]
   },
   {
     "productId": "cf39828d-fb88-11ef-0a80-18ca00138fda",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/cf39828d-fb88-11ef-0a80-18ca00138fda_undefined.jpg"
-  },
-  {
-    "productId": "cf39828d-fb88-11ef-0a80-18ca00138fda",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/cf39828d-fb88-11ef-0a80-18ca00138fda_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/cf39828d-fb88-11ef-0a80-18ca00138fda_1.png",
+      "https://apsnypack.s3.cloud.ru/products/cf39828d-fb88-11ef-0a80-18ca00138fda_2.png"
+    ]
   },
   {
     "productId": "cfa57967-9d3b-11ef-0a80-13520000dac7",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/cfa57967-9d3b-11ef-0a80-13520000dac7_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/cfa57967-9d3b-11ef-0a80-13520000dac7_1.png"
+    ]
   },
   {
     "productId": "cfc4bf5d-1213-11f0-0a80-165700195df8",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/cfc4bf5d-1213-11f0-0a80-165700195df8_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/cfc4bf5d-1213-11f0-0a80-165700195df8_1.png"
+    ]
   },
   {
     "productId": "d06a06d1-9d0b-11ef-0a80-14e400124a5c",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/d06a06d1-9d0b-11ef-0a80-14e400124a5c_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/d06a06d1-9d0b-11ef-0a80-14e400124a5c_1.png"
+    ]
   },
   {
     "productId": "d1a6764a-dbd9-11ef-0a80-08a8001fcae3",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/d1a6764a-dbd9-11ef-0a80-08a8001fcae3_undefined.jpg"
-  },
-  {
-    "productId": "d1a6764a-dbd9-11ef-0a80-08a8001fcae3",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/d1a6764a-dbd9-11ef-0a80-08a8001fcae3_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/d1a6764a-dbd9-11ef-0a80-08a8001fcae3_1.png",
+      "https://apsnypack.s3.cloud.ru/products/d1a6764a-dbd9-11ef-0a80-08a8001fcae3_2.png"
+    ]
   },
   {
     "productId": "d1c30744-9d48-11ef-0a80-15080001679a",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/d1c30744-9d48-11ef-0a80-15080001679a_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/d1c30744-9d48-11ef-0a80-15080001679a_1.png"
+    ]
   },
   {
     "productId": "d21f5772-9da7-11ef-0a80-0dc40007480d",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/d21f5772-9da7-11ef-0a80-0dc40007480d_undefined.jpg"
-  },
-  {
-    "productId": "d21f5772-9da7-11ef-0a80-0dc40007480d",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/d21f5772-9da7-11ef-0a80-0dc40007480d_undefined.jpg"
-  },
-  {
-    "productId": "d21f5772-9da7-11ef-0a80-0dc40007480d",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/d21f5772-9da7-11ef-0a80-0dc40007480d_undefined.jpg"
-  },
-  {
-    "productId": "d21f5772-9da7-11ef-0a80-0dc40007480d",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/d21f5772-9da7-11ef-0a80-0dc40007480d_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/d21f5772-9da7-11ef-0a80-0dc40007480d_1.png",
+      "https://apsnypack.s3.cloud.ru/products/d21f5772-9da7-11ef-0a80-0dc40007480d_2.png",
+      "https://apsnypack.s3.cloud.ru/products/d21f5772-9da7-11ef-0a80-0dc40007480d_3.png",
+      "https://apsnypack.s3.cloud.ru/products/d21f5772-9da7-11ef-0a80-0dc40007480d_4.png"
+    ]
   },
   {
     "productId": "d45152c5-a846-11ef-0a80-02cc000171a1",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/d45152c5-a846-11ef-0a80-02cc000171a1_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/d45152c5-a846-11ef-0a80-02cc000171a1_1.png"
+    ]
   },
   {
     "productId": "d55acef3-a841-11ef-0a80-11b50001a956",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/d55acef3-a841-11ef-0a80-11b50001a956_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/d55acef3-a841-11ef-0a80-11b50001a956_1.png"
+    ]
   },
   {
     "productId": "d9194970-10c7-11f0-0a80-174800011374",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/d9194970-10c7-11f0-0a80-174800011374_undefined.jpg"
-  },
-  {
-    "productId": "d9194970-10c7-11f0-0a80-174800011374",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/d9194970-10c7-11f0-0a80-174800011374_undefined.jpg"
-  },
-  {
-    "productId": "d9194970-10c7-11f0-0a80-174800011374",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/d9194970-10c7-11f0-0a80-174800011374_undefined.jpg"
-  },
-  {
-    "productId": "d9194970-10c7-11f0-0a80-174800011374",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/d9194970-10c7-11f0-0a80-174800011374_undefined.jpg"
-  },
-  {
-    "productId": "d9194970-10c7-11f0-0a80-174800011374",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/d9194970-10c7-11f0-0a80-174800011374_undefined.jpg"
-  },
-  {
-    "productId": "d9194970-10c7-11f0-0a80-174800011374",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/d9194970-10c7-11f0-0a80-174800011374_undefined.jpg"
-  },
-  {
-    "productId": "d9194970-10c7-11f0-0a80-174800011374",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/d9194970-10c7-11f0-0a80-174800011374_undefined.jpg"
-  },
-  {
-    "productId": "d9194970-10c7-11f0-0a80-174800011374",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/d9194970-10c7-11f0-0a80-174800011374_undefined.jpg"
-  },
-  {
-    "productId": "d9194970-10c7-11f0-0a80-174800011374",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/d9194970-10c7-11f0-0a80-174800011374_undefined.jpg"
-  },
-  {
-    "productId": "d9194970-10c7-11f0-0a80-174800011374",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/d9194970-10c7-11f0-0a80-174800011374_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/d9194970-10c7-11f0-0a80-174800011374_1.png",
+      "https://apsnypack.s3.cloud.ru/products/d9194970-10c7-11f0-0a80-174800011374_2.png",
+      "https://apsnypack.s3.cloud.ru/products/d9194970-10c7-11f0-0a80-174800011374_3.png",
+      "https://apsnypack.s3.cloud.ru/products/d9194970-10c7-11f0-0a80-174800011374_4.png",
+      "https://apsnypack.s3.cloud.ru/products/d9194970-10c7-11f0-0a80-174800011374_5.png",
+      "https://apsnypack.s3.cloud.ru/products/d9194970-10c7-11f0-0a80-174800011374_6.png",
+      "https://apsnypack.s3.cloud.ru/products/d9194970-10c7-11f0-0a80-174800011374_7.png",
+      "https://apsnypack.s3.cloud.ru/products/d9194970-10c7-11f0-0a80-174800011374_8.png",
+      "https://apsnypack.s3.cloud.ru/products/d9194970-10c7-11f0-0a80-174800011374_9.png",
+      "https://apsnypack.s3.cloud.ru/products/d9194970-10c7-11f0-0a80-174800011374_10.png"
+    ]
   },
   {
     "productId": "d9a994f0-9d11-11ef-0a80-090200138801",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/d9a994f0-9d11-11ef-0a80-090200138801_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/d9a994f0-9d11-11ef-0a80-090200138801_1.png"
+    ]
   },
   {
     "productId": "da9c92f4-12ce-11f0-0a80-0020001fc368",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/da9c92f4-12ce-11f0-0a80-0020001fc368_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/da9c92f4-12ce-11f0-0a80-0020001fc368_1.png"
+    ]
   },
   {
     "productId": "dadbb16f-9cff-11ef-0a80-0c8b001011d5",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/dadbb16f-9cff-11ef-0a80-0c8b001011d5_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/dadbb16f-9cff-11ef-0a80-0c8b001011d5_1.png"
+    ]
   },
   {
     "productId": "db563b47-b08d-11ef-0a80-01f200bd1c76",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/db563b47-b08d-11ef-0a80-01f200bd1c76_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/db563b47-b08d-11ef-0a80-01f200bd1c76_1.png"
+    ]
   },
   {
     "productId": "dd200acd-fcec-11ef-0a80-117a00204d71",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/dd200acd-fcec-11ef-0a80-117a00204d71_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/dd200acd-fcec-11ef-0a80-117a00204d71_1.png"
+    ]
   },
   {
     "productId": "de571995-9d41-11ef-0a80-1508000127c7",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/de571995-9d41-11ef-0a80-1508000127c7_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/de571995-9d41-11ef-0a80-1508000127c7_1.png"
+    ]
   },
   {
     "productId": "e1021bc8-9cfd-11ef-0a80-0162000f415a",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/e1021bc8-9cfd-11ef-0a80-0162000f415a_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/e1021bc8-9cfd-11ef-0a80-0162000f415a_1.png"
+    ]
   },
   {
     "productId": "e1203b11-12dc-11f0-0a80-0e8d0021106a",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/e1203b11-12dc-11f0-0a80-0e8d0021106a_undefined.jpg"
-  },
-  {
-    "productId": "e1203b11-12dc-11f0-0a80-0e8d0021106a",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/e1203b11-12dc-11f0-0a80-0e8d0021106a_undefined.jpg"
-  },
-  {
-    "productId": "e1203b11-12dc-11f0-0a80-0e8d0021106a",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/e1203b11-12dc-11f0-0a80-0e8d0021106a_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/e1203b11-12dc-11f0-0a80-0e8d0021106a_1.png",
+      "https://apsnypack.s3.cloud.ru/products/e1203b11-12dc-11f0-0a80-0e8d0021106a_2.png",
+      "https://apsnypack.s3.cloud.ru/products/e1203b11-12dc-11f0-0a80-0e8d0021106a_3.png"
+    ]
   },
   {
     "productId": "e2209d66-d5d9-11ef-0a80-19c6001b1493",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/e2209d66-d5d9-11ef-0a80-19c6001b1493_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/e2209d66-d5d9-11ef-0a80-19c6001b1493_1.png"
+    ]
   },
   {
     "productId": "e34d1e6e-9d47-11ef-0a80-0fd1000171e5",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/e34d1e6e-9d47-11ef-0a80-0fd1000171e5_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/e34d1e6e-9d47-11ef-0a80-0fd1000171e5_1.png"
+    ]
   },
   {
     "productId": "e35d56e0-1173-11f0-0a80-0c53001372af",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/e35d56e0-1173-11f0-0a80-0c53001372af_undefined.jpg"
-  },
-  {
-    "productId": "e35d56e0-1173-11f0-0a80-0c53001372af",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/e35d56e0-1173-11f0-0a80-0c53001372af_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/e35d56e0-1173-11f0-0a80-0c53001372af_1.png",
+      "https://apsnypack.s3.cloud.ru/products/e35d56e0-1173-11f0-0a80-0c53001372af_2.png"
+    ]
   },
   {
     "productId": "e3da0f84-fd1c-11ef-0a80-1ab30022125a",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/e3da0f84-fd1c-11ef-0a80-1ab30022125a_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/e3da0f84-fd1c-11ef-0a80-1ab30022125a_1.png"
+    ]
   },
   {
     "productId": "e7ac700a-9d00-11ef-0a80-016200100570",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/e7ac700a-9d00-11ef-0a80-016200100570_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/e7ac700a-9d00-11ef-0a80-016200100570_1.png"
+    ]
   },
   {
     "productId": "e7ff8339-c5b7-11ef-0a80-18080010f1ec",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/e7ff8339-c5b7-11ef-0a80-18080010f1ec_undefined.jpg"
-  },
-  {
-    "productId": "e7ff8339-c5b7-11ef-0a80-18080010f1ec",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/e7ff8339-c5b7-11ef-0a80-18080010f1ec_undefined.jpg"
-  },
-  {
-    "productId": "e7ff8339-c5b7-11ef-0a80-18080010f1ec",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/e7ff8339-c5b7-11ef-0a80-18080010f1ec_undefined.jpg"
-  },
-  {
-    "productId": "e7ff8339-c5b7-11ef-0a80-18080010f1ec",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/e7ff8339-c5b7-11ef-0a80-18080010f1ec_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/e7ff8339-c5b7-11ef-0a80-18080010f1ec_1.png",
+      "https://apsnypack.s3.cloud.ru/products/e7ff8339-c5b7-11ef-0a80-18080010f1ec_2.png",
+      "https://apsnypack.s3.cloud.ru/products/e7ff8339-c5b7-11ef-0a80-18080010f1ec_3.png",
+      "https://apsnypack.s3.cloud.ru/products/e7ff8339-c5b7-11ef-0a80-18080010f1ec_4.png"
+    ]
   },
   {
     "productId": "e90fe625-2338-11f0-0a80-16d1001f99b3",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/e90fe625-2338-11f0-0a80-16d1001f99b3_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/e90fe625-2338-11f0-0a80-16d1001f99b3_1.png"
+    ]
   },
   {
     "productId": "eb68e447-fb80-11ef-0a80-0b9c00128500",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/eb68e447-fb80-11ef-0a80-0b9c00128500_undefined.jpg"
-  },
-  {
-    "productId": "eb68e447-fb80-11ef-0a80-0b9c00128500",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/eb68e447-fb80-11ef-0a80-0b9c00128500_undefined.jpg"
-  },
-  {
-    "productId": "eb68e447-fb80-11ef-0a80-0b9c00128500",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/eb68e447-fb80-11ef-0a80-0b9c00128500_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/eb68e447-fb80-11ef-0a80-0b9c00128500_1.png",
+      "https://apsnypack.s3.cloud.ru/products/eb68e447-fb80-11ef-0a80-0b9c00128500_2.png",
+      "https://apsnypack.s3.cloud.ru/products/eb68e447-fb80-11ef-0a80-0b9c00128500_3.png"
+    ]
   },
   {
     "productId": "eba44516-116d-11f0-0a80-06fc001311f4",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/eba44516-116d-11f0-0a80-06fc001311f4_undefined.jpg"
-  },
-  {
-    "productId": "eba44516-116d-11f0-0a80-06fc001311f4",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/eba44516-116d-11f0-0a80-06fc001311f4_undefined.jpg"
-  },
-  {
-    "productId": "eba44516-116d-11f0-0a80-06fc001311f4",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/eba44516-116d-11f0-0a80-06fc001311f4_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/eba44516-116d-11f0-0a80-06fc001311f4_1.png",
+      "https://apsnypack.s3.cloud.ru/products/eba44516-116d-11f0-0a80-06fc001311f4_2.png",
+      "https://apsnypack.s3.cloud.ru/products/eba44516-116d-11f0-0a80-06fc001311f4_3.png"
+    ]
   },
   {
     "productId": "ec1ebf71-aa49-11ef-0a80-1a7300239980",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/ec1ebf71-aa49-11ef-0a80-1a7300239980_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/ec1ebf71-aa49-11ef-0a80-1a7300239980_1.png"
+    ]
   },
   {
     "productId": "ece6c618-fce4-11ef-0a80-0e3d001e37ac",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/ece6c618-fce4-11ef-0a80-0e3d001e37ac_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/ece6c618-fce4-11ef-0a80-0e3d001e37ac_1.png"
+    ]
   },
   {
     "productId": "ee112939-116e-11f0-0a80-16570012d43b",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/ee112939-116e-11f0-0a80-16570012d43b_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/ee112939-116e-11f0-0a80-16570012d43b_1.png"
+    ]
   },
   {
     "productId": "eece25e0-9da9-11ef-0a80-14e9000848f7",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/eece25e0-9da9-11ef-0a80-14e9000848f7_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/eece25e0-9da9-11ef-0a80-14e9000848f7_1.png"
+    ]
   },
   {
     "productId": "f0364d6d-1183-11f0-0a80-0f430013f349",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/f0364d6d-1183-11f0-0a80-0f430013f349_undefined.jpg"
-  },
-  {
-    "productId": "f0364d6d-1183-11f0-0a80-0f430013f349",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/f0364d6d-1183-11f0-0a80-0f430013f349_undefined.jpg"
-  },
-  {
-    "productId": "f0364d6d-1183-11f0-0a80-0f430013f349",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/f0364d6d-1183-11f0-0a80-0f430013f349_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/f0364d6d-1183-11f0-0a80-0f430013f349_1.png",
+      "https://apsnypack.s3.cloud.ru/products/f0364d6d-1183-11f0-0a80-0f430013f349_2.png",
+      "https://apsnypack.s3.cloud.ru/products/f0364d6d-1183-11f0-0a80-0f430013f349_3.png"
+    ]
   },
   {
     "productId": "f0c7d9a2-024a-11f0-0a80-0c28001e020a",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/f0c7d9a2-024a-11f0-0a80-0c28001e020a_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/f0c7d9a2-024a-11f0-0a80-0c28001e020a_1.png"
+    ]
   },
   {
     "productId": "f0e769a7-9d0d-11ef-0a80-14e40012af65",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/f0e769a7-9d0d-11ef-0a80-14e40012af65_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/f0e769a7-9d0d-11ef-0a80-14e40012af65_1.png"
+    ]
   },
   {
     "productId": "f0e9293b-9d0b-11ef-0a80-1763001241c3",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/f0e9293b-9d0b-11ef-0a80-1763001241c3_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/f0e9293b-9d0b-11ef-0a80-1763001241c3_1.png"
+    ]
   },
   {
     "productId": "f18515a7-1184-11f0-0a80-1a5b001333f1",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/f18515a7-1184-11f0-0a80-1a5b001333f1_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/f18515a7-1184-11f0-0a80-1a5b001333f1_1.png"
+    ]
   },
   {
     "productId": "f18c85cd-f134-11ef-0a80-05e4001a572d",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/f18c85cd-f134-11ef-0a80-05e4001a572d_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/f18c85cd-f134-11ef-0a80-05e4001a572d_1.png"
+    ]
   },
   {
     "productId": "f21d1da4-9dac-11ef-0a80-13520008a455",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/f21d1da4-9dac-11ef-0a80-13520008a455_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/f21d1da4-9dac-11ef-0a80-13520008a455_1.png"
+    ]
   },
   {
     "productId": "f50a2933-9daa-11ef-0a80-08db0007f7fe",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/f50a2933-9daa-11ef-0a80-08db0007f7fe_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/f50a2933-9daa-11ef-0a80-08db0007f7fe_1.png"
+    ]
   },
   {
     "productId": "f6380ec9-9d12-11ef-0a80-07940013bbfd",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/f6380ec9-9d12-11ef-0a80-07940013bbfd_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/f6380ec9-9d12-11ef-0a80-07940013bbfd_1.png"
+    ]
   },
   {
     "productId": "f87ba58e-fd1b-11ef-0a80-075b0021345a",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/f87ba58e-fd1b-11ef-0a80-075b0021345a_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/f87ba58e-fd1b-11ef-0a80-075b0021345a_1.png"
+    ]
   },
   {
     "productId": "fa74eac2-fce6-11ef-0a80-168e001fdae7",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/fa74eac2-fce6-11ef-0a80-168e001fdae7_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/fa74eac2-fce6-11ef-0a80-168e001fdae7_1.png"
+    ]
   },
   {
     "productId": "fb13cb92-c5ba-11ef-0a80-022b00114602",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/fb13cb92-c5ba-11ef-0a80-022b00114602_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/fb13cb92-c5ba-11ef-0a80-022b00114602_1.png"
+    ]
   },
   {
     "productId": "fba2924d-1170-11f0-0a80-0b400012b333",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/fba2924d-1170-11f0-0a80-0b400012b333_undefined.jpg"
-  },
-  {
-    "productId": "fba2924d-1170-11f0-0a80-0b400012b333",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/fba2924d-1170-11f0-0a80-0b400012b333_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/fba2924d-1170-11f0-0a80-0b400012b333_1.png",
+      "https://apsnypack.s3.cloud.ru/products/fba2924d-1170-11f0-0a80-0b400012b333_2.png"
+    ]
   },
   {
     "productId": "fbc5ca71-9d48-11ef-0a80-135200017e45",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/fbc5ca71-9d48-11ef-0a80-135200017e45_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/fbc5ca71-9d48-11ef-0a80-135200017e45_1.png"
+    ]
   },
   {
     "productId": "fc88cf75-9d3c-11ef-0a80-0fd100011123",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/fc88cf75-9d3c-11ef-0a80-0fd100011123_undefined.jpg"
-  },
-  {
-    "productId": "fc88cf75-9d3c-11ef-0a80-0fd100011123",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/fc88cf75-9d3c-11ef-0a80-0fd100011123_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/fc88cf75-9d3c-11ef-0a80-0fd100011123_1.png",
+      "https://apsnypack.s3.cloud.ru/products/fc88cf75-9d3c-11ef-0a80-0fd100011123_2.png"
+    ]
   },
   {
     "productId": "fdc834cb-ab1a-11ef-0a80-140b0037b938",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/fdc834cb-ab1a-11ef-0a80-140b0037b938_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/fdc834cb-ab1a-11ef-0a80-140b0037b938_1.png"
+    ]
   },
   {
     "productId": "fe0a40ac-0e0d-11f0-0a80-003b002b4d4a",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/fe0a40ac-0e0d-11f0-0a80-003b002b4d4a_undefined.jpg"
-  },
-  {
-    "productId": "fe0a40ac-0e0d-11f0-0a80-003b002b4d4a",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/fe0a40ac-0e0d-11f0-0a80-003b002b4d4a_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/fe0a40ac-0e0d-11f0-0a80-003b002b4d4a_1.png",
+      "https://apsnypack.s3.cloud.ru/products/fe0a40ac-0e0d-11f0-0a80-003b002b4d4a_2.png"
+    ]
   },
   {
     "productId": "fec78a94-aa4a-11ef-0a80-04290024f871",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/fec78a94-aa4a-11ef-0a80-04290024f871_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/fec78a94-aa4a-11ef-0a80-04290024f871_1.png"
+    ]
   },
   {
     "productId": "ff104b8c-fb7e-11ef-0a80-01b100128300",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/ff104b8c-fb7e-11ef-0a80-01b100128300_undefined.jpg"
-  },
-  {
-    "productId": "ff104b8c-fb7e-11ef-0a80-01b100128300",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/ff104b8c-fb7e-11ef-0a80-01b100128300_undefined.jpg"
-  },
-  {
-    "productId": "ff104b8c-fb7e-11ef-0a80-01b100128300",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/ff104b8c-fb7e-11ef-0a80-01b100128300_undefined.jpg"
-  },
-  {
-    "productId": "ff104b8c-fb7e-11ef-0a80-01b100128300",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/ff104b8c-fb7e-11ef-0a80-01b100128300_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/ff104b8c-fb7e-11ef-0a80-01b100128300_1.png",
+      "https://apsnypack.s3.cloud.ru/products/ff104b8c-fb7e-11ef-0a80-01b100128300_2.png",
+      "https://apsnypack.s3.cloud.ru/products/ff104b8c-fb7e-11ef-0a80-01b100128300_3.png",
+      "https://apsnypack.s3.cloud.ru/products/ff104b8c-fb7e-11ef-0a80-01b100128300_4.png"
+    ]
   },
   {
     "productId": "ff60dbe0-f79b-11ef-0a80-183800120caf",
-    "imageUrl": "https://apsnypack.s3.cloud.ru/products/ff60dbe0-f79b-11ef-0a80-183800120caf_undefined.jpg"
+    "imageUrls": [
+      "https://apsnypack.s3.cloud.ru/products/ff60dbe0-f79b-11ef-0a80-183800120caf_1.png"
+    ]
   }
 ]

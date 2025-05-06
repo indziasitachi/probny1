@@ -5,33 +5,42 @@ export const dynamic = 'force-static'; // для Next.js 13+ static export
 
 export default function ProductsPage() {
   const [products, setProducts] = useState([]);
+
   useEffect(() => {
-    fetch('/api/moysklad-products')
+    fetch('/products-frontend.json')
       .then(r => r.json())
-      .then(setProducts);
+      .then((groups) => {
+        // Собираем все товары из всех групп в один массив
+        const allProducts = groups.flatMap(group => group.products);
+        setProducts(allProducts);
+      });
   }, []);
+
   return (
-    <div className="container mx-auto py-8">
-      <h1 className="text-3xl font-bold mb-6">Товары</h1>
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
+    <div className="w-full p-4">
+      <h1 className="text-3xl font-bold mb-6">Все товары</h1>
+      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-6">
         {products.map(product => (
-          <div key={product.id} className="border rounded-lg p-4 shadow hover:shadow-lg transition">
-            <div className="mb-2">
-              {product._images && product._images.length > 0 ? (
-                <img src={product._images[0].miniature || product._images[0].href} alt={product.name} className="w-full h-40 object-contain" />
-              ) : (
-                <div className="w-full h-40 bg-gray-100 flex items-center justify-center text-gray-400">Нет фото</div>
-              )}
-            </div>
-            <h2 className="text-xl font-semibold mb-1">{product.name}</h2>
-            <p className="text-gray-700 text-sm mb-2">{product.description || 'Без описания'}</p>
-            <div className="text-lg font-bold text-green-600">
-              {product.salePrices && product.salePrices.length > 0 ? (
-                `${product.salePrices[0].value / 100} ₽`
-              ) : (
-                'Нет цены'
-              )}
-            </div>
+          <div
+            key={product.id}
+            className="bg-white rounded-lg shadow p-4 flex flex-col items-center"
+            tabIndex={0}
+            aria-label={`Товар: ${product.name}`}
+          >
+            {product.imageUrl ? (
+              <img
+                src={product.imageUrl}
+                alt={product.name}
+                className="w-32 h-32 object-contain mb-2"
+                loading="lazy"
+              />
+            ) : (
+              <div className="w-32 h-32 flex items-center justify-center bg-gray-100 text-gray-400 mb-2">
+                Нет фото
+              </div>
+            )}
+            <div className="text-lg font-semibold text-center">{product.name}</div>
+            <div className="text-primary font-bold mt-1">{product.price} ₽</div>
           </div>
         ))}
       </div>
