@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import { useCart } from "../CartContext";
 
 export default function CartPage() {
-  const { cart, increaseQty, decreaseQty, removeFromCart, addToCart } = useCart();
+  const { cart, increaseQty, decreaseQty, removeFromCart } = useCart();
   const total = cart.reduce((sum, item) => sum + (item.price * (item.qty || 1)), 0);
   const [showModal, setShowModal] = useState(false);
   const [form, setForm] = useState({ name: '', phone: '', comment: '' });
