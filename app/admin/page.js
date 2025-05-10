@@ -95,8 +95,21 @@ export default function Admin() {
             <h2 className="font-semibold mb-2">Баннеры</h2>
             {settings.banners.map((b, i) => (
               <div key={i} className="flex flex-col gap-2 mb-2">
-                <input className="border rounded px-2 py-1 text-sm text-white bg-gray-700 placeholder-gray-400" placeholder="URL картинки" value={b.image} onChange={e => {
+                <input className="border rounded px-2 py-1 text-sm text-white bg-gray-700 placeholder-gray-400" placeholder="URL картинки или видео" value={b.image} onChange={e => {
                   const arr = [...settings.banners]; arr[i].image = e.target.value; handleChange(["banners"], arr);
+                }} />
+                <input type="file" accept="image/*,video/*" onChange={async e => {
+                  const file = e.target.files[0];
+                  if (!file) return;
+                  const formData = new FormData();
+                  formData.append('file', file);
+                  const res = await fetch('/api/upload', { method: 'POST', body: formData });
+                  const data = await res.json();
+                  if (data.url) {
+                    const arr = [...settings.banners];
+                    arr[i].image = data.url;
+                    handleChange(["banners"], arr);
+                  }
                 }} />
                 <input className="border rounded px-2 py-1 text-sm text-white bg-gray-700 placeholder-gray-400" placeholder="Заголовок" value={b.text} onChange={e => {
                   const arr = [...settings.banners]; arr[i].text = e.target.value; handleChange(["banners"], arr);

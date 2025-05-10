@@ -11,7 +11,7 @@ export default function ProductsList({ products }) {
     <div className="grid grid-cols-2 md:grid-cols-4 gap-1 p-1">
       {products.map(product => (
         <div key={product.id} className="block rounded-lg p-3 shadow hover:shadow-lg transition w-full">
-          <ProductCard product={product} />
+          <ProductCard product={product} allProducts={products} />
         </div>
       ))}
     </div>

@@ -1,5 +1,5 @@
 "use client";
-import React from 'react';
+import React, { useState, useEffect } from 'react';
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import { useCart } from "./CartContext";
@@ -7,8 +7,13 @@ import { useFavorites } from "./FavoritesContext";
 
 export default function BottomNav() {
   const pathname = usePathname();
-  const { cartCount = 0 } = useCart() || {};
+  const { cartCount = 0 } = useCart() || {}; // Деструктуризация с дефолтными значениями на случай, если контекст еще не полностью готов
   const { favoritesCount = 0 } = useFavorites() || {};
+  const [isMounted, setIsMounted] = useState(false);
+
+  useEffect(() => {
+    setIsMounted(true);
+  }, []);
 
   const tabs = [
     {
@@ -39,7 +44,7 @@ export default function BottomNav() {
       icon: (
         <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><rect x="6" y="7" width="12" height="13" rx="2" /><path d="M9 7V4a3 3 0 0 1 6 0v3" /></svg>
       ),
-      badge: cartCount > 0 ? cartCount : null
+      badge: isMounted && cartCount > 0 ? cartCount : null
     },
     {
       href: "/favorites",
@@ -47,7 +52,7 @@ export default function BottomNav() {
       icon: (
         <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"><path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z" /></svg>
       ),
-      badge: favoritesCount > 0 ? favoritesCount : null
+      badge: isMounted && favoritesCount > 0 ? favoritesCount : null
     },
     {
       href: "/profile",
