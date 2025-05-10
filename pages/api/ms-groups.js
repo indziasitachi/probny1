@@ -3,8 +3,14 @@
 // Получает все группы и подгруппы (категории) товаров из МойСклад
 
 export default async function handler(req, res) {
-  const token = process.env.MS_TOKEN; // или получите токен так же, как в ms-products.js
-  if (!token) return res.status(401).json({ error: 'No MS_TOKEN' });
+  console.log('Attempting to get MS_TOKEN...');
+  console.log('process.env keys:', Object.keys(process.env)); // Логируем все ключи process.env
+  const token = process.env.MS_TOKEN;
+  console.log('MS_TOKEN value:', token ? 'Token Present' : 'Token NOT Present'); // Логируем наличие токена
+  if (!token) {
+    console.error('MS_TOKEN is not defined in Vercel environment variables.');
+    return res.status(401).json({ error: 'No MS_TOKEN' });
+  }
 
   try {
     let all = [];

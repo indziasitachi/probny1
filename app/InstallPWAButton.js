@@ -8,36 +8,37 @@ const InstallPWAButton = () => {
   const [bannerDismissed, setBannerDismissed] = useState(false);
 
   useEffect(() => {
-    // console.log('InstallPWAButton: useEffect triggered'); 
+    console.log('[PWA Button] useEffect started.');
 
     if (window.matchMedia('(display-mode: standalone)').matches) {
-      // console.log('InstallPWAButton: App is already in standalone mode.');
+      console.log('[PWA Button] App is in standalone mode or already installed.');
       setIsAppInstalled(true);
       return;
     }
-    // console.log('InstallPWAButton: App is NOT in standalone mode.');
+    console.log('[PWA Button] App is NOT in standalone mode.');
 
     const handleBeforeInstallPrompt = (e) => {
-      // console.log('InstallPWAButton: beforeinstallprompt event fired!', e);
+      console.log('[PWA Button] beforeinstallprompt event fired!', e);
       e.preventDefault();
       setDeferredPrompt(e);
-      setBannerDismissed(false); 
+      setBannerDismissed(false);
+      console.log('[PWA Button] deferredPrompt set, bannerDismissed set to false.');
     };
 
     window.addEventListener('beforeinstallprompt', handleBeforeInstallPrompt);
-    // console.log('InstallPWAButton: Added beforeinstallprompt listener.');
+    console.log('[PWA Button] Added beforeinstallprompt listener.');
 
     const handleAppInstalled = () => {
-      // console.log('InstallPWAButton: appinstalled event fired.');
+      console.log('[PWA Button] appinstalled event fired.');
       setIsAppInstalled(true);
       setDeferredPrompt(null);
     };
 
     window.addEventListener('appinstalled', handleAppInstalled);
-    // console.log('InstallPWAButton: Added appinstalled listener.');
+    console.log('[PWA Button] Added appinstalled listener.');
 
     return () => {
-      // console.log('InstallPWAButton: Cleaning up listeners.');
+      console.log('[PWA Button] Cleaning up PWA listeners.');
       window.removeEventListener('beforeinstallprompt', handleBeforeInstallPrompt);
       window.removeEventListener('appinstalled', handleAppInstalled);
     };
@@ -63,14 +64,14 @@ const InstallPWAButton = () => {
     setBannerDismissed(true);
   };
 
-  // console.log('InstallPWAButton: State update - isAppInstalled:', isAppInstalled, 'deferredPrompt:', !!deferredPrompt, 'bannerDismissed:', bannerDismissed);
+  console.log('[PWA Button] State before render - isAppInstalled:', isAppInstalled, 'deferredPrompt:', !!deferredPrompt, 'bannerDismissed:', bannerDismissed);
 
   if (isAppInstalled || !deferredPrompt || bannerDismissed) {
-    // console.log('InstallPWAButton: Banner not rendered.');
+    console.log('[PWA Button] Banner not rendered. Reasons: isAppInstalled:', isAppInstalled, '!deferredPrompt:', !deferredPrompt, 'bannerDismissed:', bannerDismissed);
     return null;
   }
 
-  // console.log('InstallPWAButton: Rendering banner.');
+  console.log('[PWA Button] Rendering PWA install banner.');
 
   const bannerStyle = {
     position: 'fixed',
