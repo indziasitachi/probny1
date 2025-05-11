@@ -6,9 +6,9 @@ import dynamic from "next/dynamic";
 // Компоненты, которые раньше были на главной странице админки,
 // теперь могут быть здесь или вынесены в другие разделы.
 // Пока оставим AdminCategories здесь, GroupPhotoUploader тоже для примера.
-const AdminCategories = dynamic(() => import("../AdminCategories.jsx"), { ssr: false }); 
+// const AdminCategories = dynamic(() => import("../AdminCategories.jsx"), { ssr: false }); 
 // Убедитесь, что путь "../AdminCategories.jsx" корректен из app/admin/settings/
-import GroupPhotoUploader from "../GroupPhotoUploader"; 
+// import GroupPhotoUploader from "../GroupPhotoUploader"; 
 // Убедитесь, что путь "../GroupPhotoUploader" корректен
 
 export default function AdminSettingsPage() {
