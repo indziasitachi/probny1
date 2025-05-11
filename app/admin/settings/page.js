@@ -1,7 +1,7 @@
 // app/admin/settings/page.js
 "use client";
 import React, { useState, useEffect } from 'react';
-import dynamic from "next/dynamic";
+// import dynamic from "next/dynamic";
 
 // Компоненты, которые раньше были на главной странице админки,
 // теперь могут быть здесь или вынесены в другие разделы.
