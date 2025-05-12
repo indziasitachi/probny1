@@ -26,13 +26,52 @@ export default function AdminCategories() {
   // Save categories to API
   const saveCategories = async (cats) => {
     setLoading(true);
-    setCategories(cats);
-    await fetch("/api/categories", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify(cats),
+    setCategories(cats); // Оптимистичное обновление
+
+    // ЛОГ ДЛЯ ОТЛАДКИ
+    console.log("Attempting to save categories to /api/categories. Payload:", JSON.stringify(cats, null, 2));
+    // Проверка длины каждой иконки
+    cats.forEach((cat, index) => {
+      if (cat.icon && cat.icon.length > 200) { // Предполагаем, что URL иконки короче 200 символов
+        console.warn(`Category at index ${index} ('${cat.label}') has a very long icon string (potential Data URL): ${cat.icon.substring(0, 50)}...`);
+      }
     });
-    setLoading(false);
+
+    try { // Добавим try...catch для самого fetch
+      const res = await fetch("/api/categories", {
+        method: "POST",
+        headers: { "Content-Type": "application/json" },
+        body: JSON.stringify(cats),
+      });
+
+      setLoading(false); // Убираем loading после ответа сервера
+
+      if (!res.ok) {
+        // Попытка прочитать тело ответа при ошибке
+        let errorBody = {};
+        try {
+          errorBody = await res.json();
+        } catch (e) {
+          // Ошибка парсинга JSON, используем текстовый ответ, если есть
+          errorBody.message = await res.text();
+        }
+        console.error("Error saving categories. Status:", res.status, "Body:", errorBody);
+        alert(`Ошибка сохранения категорий: ${res.status} ${errorBody.message || errorBody.error || ''}`);
+        // Важно: если сохранение не удалось, возможно, стоит откатить setCategories(cats)
+        // или перезагрузить категории с сервера, чтобы UI соответствовал бэкенду.
+        // Пока оставим так для простоты отладки.
+        return; // Выходим, если ошибка
+      }
+      // Если res.ok, можно опционально прочитать ответ, если он есть
+      // const responseData = await res.json();
+      // console.log("Save categories response:", responseData);
+      // alert("Категории успешно сохранены!"); // Это сообщение может быть излишним, если нет визуального фидбека
+
+    } catch (networkError) {
+      setLoading(false);
+      console.error("Network or other error saving categories:", networkError);
+      alert(`Сетевая ошибка или другая проблема при сохранении категорий: ${networkError.message}`);
+    }
   };
 
   const handleAdd = () => {
@@ -68,17 +107,47 @@ export default function AdminCategories() {
 
   const handleNewCatFile = async (e) => {
     const file = e.target.files[0];
-    if (file) {
-      const url = await readFileAsDataUrl(file);
-      setNewCat({ ...newCat, icon: url });
+    if (!file) return;
+    const formData = new FormData();
+    formData.append('file', file);
+    setLoading(true); // Показываем индикатор загрузки
+    try {
+      const res = await fetch('/api/upload', { method: 'POST', body: formData });
+      const data = await res.json();
+      if (res.ok && data.url) {
+        setNewCat({ ...newCat, icon: data.url });
+        alert("Иконка успешно загружена!");
+      } else {
+        throw new Error(data.error || "Ошибка загрузки иконки с сервера.");
+      }
+    } catch (uploadError) {
+      console.error("Icon upload error (new category):", uploadError);
+      alert(`Ошибка загрузки иконки: ${uploadError.message}`);
+    } finally {
+      setLoading(false);
     }
   };
 
   const handleEditCatFile = async (e) => {
     const file = e.target.files[0];
-    if (file) {
-      const url = await readFileAsDataUrl(file);
-      setEditCat({ ...editCat, icon: url });
+    if (!file) return;
+    const formData = new FormData();
+    formData.append('file', file);
+    setLoading(true); // Показываем индикатор загрузки
+    try {
+      const res = await fetch('/api/upload', { method: 'POST', body: formData });
+      const data = await res.json();
+      if (res.ok && data.url) {
+        setEditCat({ ...editCat, icon: data.url });
+        alert("Иконка успешно загружена!");
+      } else {
+        throw new Error(data.error || "Ошибка загрузки иконки с сервера.");
+      }
+    } catch (uploadError) {
+      console.error("Icon upload error (edit category):", uploadError);
+      alert(`Ошибка загрузки иконки: ${uploadError.message}`);
+    } finally {
+      setLoading(false);
     }
   };
 
@@ -88,10 +157,11 @@ export default function AdminCategories() {
       <ul className="mb-4">
         {categories.map((cat, idx) => (
           <li key={idx} className="flex items-center gap-2 mb-2 bg-gray-50 rounded p-2">
-            {cat.icon && cat.icon.startsWith('data:') ? (
-              <img src={cat.icon} alt="icon" className="w-8 h-8 rounded-full bg-gray-200" />
+            {/* Теперь иконка всегда будет URL или пустой строкой */}
+            {cat.icon ? (
+              <img src={cat.icon} alt={cat.label || "icon"} className="w-8 h-8 rounded-full bg-gray-200 object-cover" />
             ) : (
-              <img src={cat.icon} alt="icon" className="w-8 h-8 rounded-full bg-gray-200" />
+              <div className="w-8 h-8 rounded-full bg-gray-300 flex items-center justify-center text-xs text-gray-600">Нет</div>
             )}
             {editIdx === idx ? (
               <>
@@ -114,7 +184,8 @@ export default function AdminCategories() {
             ) : (
               <>
                 <span className="flex-1 text-sm">{cat.label}</span>
-                <span className="text-xs text-gray-400">{cat.icon && cat.icon.startsWith('data:') ? 'Фото' : cat.icon}</span>
+                {/* Убрано отображение URL иконки, т.к. есть превью */}
+                {/* <span className="text-xs text-gray-400 truncate max-w-[100px]">{cat.icon}</span> */}
                 <button className="text-blue-600 text-xs ml-1" onClick={() => handleEdit(idx)}>Изм.</button>
                 <button className="text-red-500 text-xs ml-1" onClick={() => handleDelete(idx)}>Удалить</button>
                 <button className="text-gray-500 text-xs ml-1" onClick={() => handleMove(idx, -1)} disabled={idx===0}>↑</button>

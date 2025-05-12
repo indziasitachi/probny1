@@ -116,49 +116,7 @@ export default function AdminSettingsPage() {
           </div>
         )}
 
-        {/* Баннеры */}
-        {settings.banners && (
-          <div className="p-4 bg-gray-800 rounded-lg shadow">
-            <h2 className="text-xl font-semibold mb-3 text-gray-100">Баннеры</h2>
-            {settings.banners.map((b, i) => (
-              <div key={i} className="p-3 border border-gray-700 rounded-md mb-3 space-y-2">
-                <input className="w-full border rounded px-3 py-2 text-sm text-white bg-gray-700 placeholder-gray-400 focus:ring-blue-500 focus:border-blue-500" placeholder="URL картинки или видео" value={b.image || ''} onChange={e => {
-                  const arr = [...settings.banners]; arr[i].image = e.target.value; handleChange(["banners"], arr);
-                }} />
-                <input type="file" className="w-full text-sm text-gray-400 file:mr-4 file:py-2 file:px-4 file:rounded-full file:border-0 file:text-sm file:font-semibold file:bg-blue-50 file:text-blue-700 hover:file:bg-blue-100" accept="image/*,video/*" onChange={async e => {
-                  const file = e.target.files[0];
-                  if (!file) return;
-                  const formData = new FormData();
-                  formData.append('file', file);
-                  const res = await fetch('/api/upload', { method: 'POST', body: formData }); // Убедитесь, что /api/upload существует и работает
-                  const data = await res.json();
-                  if (data.url) {
-                    const arr = [...settings.banners];
-                    arr[i].image = data.url;
-                    handleChange(["banners"], arr);
-                  } else {
-                    alert("Ошибка загрузки файла.");
-                  }
-                }} />
-                <input className="w-full border rounded px-3 py-2 text-sm text-white bg-gray-700 placeholder-gray-400 focus:ring-blue-500 focus:border-blue-500" placeholder="Заголовок" value={b.text || ''} onChange={e => {
-                  const arr = [...settings.banners]; arr[i].text = e.target.value; handleChange(["banners"], arr);
-                }} />
-                <input className="w-full border rounded px-3 py-2 text-sm text-white bg-gray-700 placeholder-gray-400 focus:ring-blue-500 focus:border-blue-500" placeholder="Подзаголовок" value={b.subtitle || ''} onChange={e => {
-                  const arr = [...settings.banners]; arr[i].subtitle = e.target.value; handleChange(["banners"], arr);
-                }} />
-                <input className="w-full border rounded px-3 py-2 text-sm text-white bg-gray-700 placeholder-gray-400 focus:ring-blue-500 focus:border-blue-500" placeholder="URL перехода (напр., /catalog/product-slug)" value={b.url || ''} onChange={e => {
-                  const arr = [...settings.banners]; arr[i].url = e.target.value; handleChange(["banners"], arr);
-                }} />
-                <button type="button" className="w-full bg-red-600 hover:bg-red-700 text-white px-3 py-1.5 rounded-md text-sm font-medium transition-colors" onClick={() => {
-                  const arr = [...settings.banners]; arr.splice(i, 1); handleChange(["banners"], arr);
-                }}>Удалить баннер</button>
-              </div>
-            ))}
-            <button type="button" className="mt-2 bg-blue-600 hover:bg-blue-700 text-white px-4 py-2 rounded-md text-sm font-semibold transition-colors" onClick={() => {
-              const arr = [...(settings.banners || []), { image: '', text: '', subtitle: '', url: '' }]; handleChange(["banners"], arr);
-            }}>Добавить баннер</button>
-          </div>
-        )}
+        {/* Баннеры - теперь управляются на странице /admin/banners */}
 
         {/* Раздел "Управление Категориями" убран отсюда, так как категории теперь имеют свою страницу /admin/categories */}
 

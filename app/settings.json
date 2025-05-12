@@ -1,20 +1,27 @@
 {
   "logo": {
-    "text": "",
+    "text": "Apsny Pack",
     "color": "#931515",
     "fontSize": 22,
     "cupColor": "#178a81",
-    "straw": false
+    "straw": false,
+    "showCup": true
   },
   "banners": [
     {
-      "image": "/icons/uploaded/1746612890349-FA1A780D-BC16-42FC-8304-9871DB9DCCFB.mp4",
+      "image": "/icons/uploaded/1746993653160-WhatsApp_Video_2025-05-11_at_23.00.07.mp4",
       "text": "",
       "subtitle": "",
       "url": ""
     },
     {
-      "image": "/icons/uploaded/1746613173055-8CF8C0EF-BE47-4E38-96C6-1130BE7C5416.jpeg",
+      "image": "/icons/uploaded/1746993856495-WhatsApp_Video_2025-05-11_at_23.00.09.mp4",
+      "text": "",
+      "subtitle": "",
+      "url": ""
+    },
+    {
+      "image": "/icons/uploaded/1747053973231-whatsapp-video-2025-05-11-at-230007_pG4J5Z6S.mp4",
       "text": "",
       "subtitle": "",
       "url": ""

@@ -4,6 +4,15 @@ import path from "path";
 
 const categoriesPath = path.join(process.cwd(), "public", "categories.json");
 
+// Добавляем эту конфигурацию
+export const config = {
+  api: {
+    bodyParser: {
+      sizeLimit: '10mb', // Увеличено до 10MB
+    },
+  },
+};
+
 export default function handler(req, res) {
   if (req.method === "GET") {
     let data = [];

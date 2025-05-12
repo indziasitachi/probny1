@@ -10,6 +10,7 @@ const DashboardIcon = () => <span>📊</span>;
 const ProductsIcon = () => <span>📦</span>;
 const OrdersIcon = () => <span>🛒</span>;
 const CategoriesIcon = () => <span>🏷️</span>;
+const BannersIcon = () => <span>🏞️</span>; // Новая иконка для баннеров
 const MediaIcon = () => <span>🖼️</span>;
 const SettingsIcon = () => <span>⚙️</span>;
 
@@ -66,8 +67,10 @@ export default function AdminLayout({ children }) {
           <NavLink href="/admin" icon={<DashboardIcon />}>Дашборд</NavLink>
           <NavLink href="/admin/products" icon={<ProductsIcon />}>Товары</NavLink>
           <NavLink href="/admin/orders" icon={<OrdersIcon />}>Заказы</NavLink>
-          <NavLink href="/admin/categories" icon={<CategoriesIcon />}>Категории</NavLink>
-          <NavLink href="/admin/media" icon={<MediaIcon />}>Медиа</NavLink>
+          <NavLink href="/admin/categories" icon={<CategoriesIcon />}>Категории (Главная)</NavLink> {/* Переименовано для ясности */}
+          <NavLink href="/admin/group-icons" icon={<MediaIcon />}>Иконки Групп (Каталог)</NavLink> {/* Новая ссылка */} 
+          <NavLink href="/admin/banners" icon={<BannersIcon />}>Баннеры</NavLink> {/* Новая ссылка */}
+          {/* <NavLink href="/admin/media" icon={<MediaIcon />}>Медиа</NavLink> */}{/* Пока скроем общую медиатеку, если не используется */} 
           <NavLink href="/admin/settings" icon={<SettingsIcon />}>Настройки</NavLink>
         </nav>
         <div className="mt-auto">

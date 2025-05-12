@@ -33,40 +33,28 @@ export default async function handler(req, res) {
       more = (data.rows && data.rows.length === limit);
     }
 
-    // --- ДОБАВЛЯЕМ КАРТИНКИ К ГРУППАМ ИЗ groups.json ---
-    let groupIcons = {};
+    // --- ДОБАВЛЯЕМ КАРТИНКИ К ГРУППАМ И ПОДГРУППАМ ИЗ group_icons.json ---
+    let groupIconsMap = {};
     try {
       const fs = require('fs');
       const path = require('path');
-      const iconsPath = path.join(process.cwd(), 'public', 'icons', 'groups.json');
+      const iconsPath = path.join(process.cwd(), 'public', 'icons', 'group_icons.json');
       if (fs.existsSync(iconsPath)) {
-        groupIcons = JSON.parse(fs.readFileSync(iconsPath, 'utf8'));
+        groupIconsMap = JSON.parse(fs.readFileSync(iconsPath, 'utf8'));
+      } else {
+         // Если файла нет, создаем пустой объект, чтобы не было ошибок дальше
+         groupIconsMap = {};
       }
-    } catch (e) {/* ignore */ }
-    // --- ДОБАВЛЯЕМ КАРТИНКИ К ПОДГРУППАМ ИЗ subgroups.json ---
-    let subgroupsIcons = {};
-    try {
-      const fs = require('fs');
-      const path = require('path');
-      const iconsPath = path.join(process.cwd(), 'public', 'icons', 'subgroups.json');
-      if (fs.existsSync(iconsPath)) {
-        const arr = JSON.parse(fs.readFileSync(iconsPath, 'utf8'));
-        arr.forEach(sg => {
-          subgroupsIcons[sg.name] = sg.icon;
-        });
-      }
-    } catch (e) {/* ignore */ }
-    // --- ДОБАВЛЯЕМ ПОЛЕ image К КАЖДОЙ ГРУППЕ ---
+    } catch (e) {
+        console.error("Error reading or parsing group_icons.json:", e);
+        groupIconsMap = {}; // Use empty map on error
+    }
+
+    // --- ДОБАВЛЯЕМ ПОЛЕ image К КАЖДОЙ ГРУППЕ/ПОДГРУППЕ ПО ЕЕ ID ---
     all = all.map(g => {
-      // ищем по name или slug (если есть)
-      let image = null;
-      // для групп
-      for (const key in groupIcons) {
-        if (groupIcons[key].name === g.name && groupIcons[key].icon) image = groupIcons[key].icon;
-      }
-      // для подгрупп
-      if (!image && subgroupsIcons[g.name]) image = subgroupsIcons[g.name];
-      return { ...g, image };
+      // Ищем иконку по ID группы из МойСклад
+      const image = groupIconsMap[g.id] || null; // Используем ID группы как ключ
+      return { ...g, image }; // Добавляем поле image
     });
 
     // Возвращаем все группы/подгруппы

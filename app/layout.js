@@ -1,4 +1,5 @@
 import React from 'react';
+import ServiceWorkerRegister from './components/ServiceWorkerRegister'; // Импортируем компонент регистрации Service Worker
 import './globals.css';
 // import TopIconsBar from "./TopIconsBar"; 
 import BottomNav from "./BottomNav"; // {{Раскомментируем импорт}}
@@ -32,6 +33,7 @@ export default function RootLayout({ children }) { // {{Теперь children с
           </CartProvider>
         </FavoritesProvider>
         <InstallPWAButton /> 
+        <ServiceWorkerRegister /> {/* Добавляем клиентский компонент для регистрации Service Worker */}
       </body>
     </html>
   );
