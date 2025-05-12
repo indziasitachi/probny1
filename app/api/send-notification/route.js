@@ -39,7 +39,7 @@ async function connectToDatabase() {
   return client;
 }
 
-export async function POST(request) { // Используем POST для отправки
+export async function POST(req) { // Используем POST для отправки
   let client;
   try {
     // Пример данных уведомления (можно получить из тела запроса)
