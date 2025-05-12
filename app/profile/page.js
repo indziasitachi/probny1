@@ -48,73 +48,73 @@ export default function ProfilePage() {
       }
     } catch (error) {
       console.error('Ошибка при запросе разрешения на уведомления:', error);
-        alert('Произошла ошибка при запросе разрешения.');
+      alert('Произошла ошибка при запросе разрешения.');
     }
   };
 
   const subscribeToPush = async () => {
-     // Получаем VAPID Public Key из переменных окружения
-     const applicationServerKey = process.env.NEXT_PUBLIC_VAPID_PUBLIC_KEY;
+    // Получаем VAPID Public Key из глобального window (он должен быть определён в _document.js или _app.js)
+    const applicationServerKey = typeof window !== 'undefined' ? window.NEXT_PUBLIC_VAPID_PUBLIC_KEY : undefined;
 
-     if (!applicationServerKey) {
-       console.error('VAPID Public Key не определен в переменных окружения.');
-       alert('Ошибка конфигурации: VAPID ключ отсутствует.');
-       return;
-     }
+    if (!applicationServerKey) {
+      console.error('VAPID Public Key не определен в window.NEXT_PUBLIC_VAPID_PUBLIC_KEY.');
+      alert('Ошибка конфигурации: VAPID ключ отсутствует.');
+      return;
+    }
 
-     // Преобразуем ключ
-     const applicationServerKeyUint8Array = urlBase64ToUint8Array(applicationServerKey);
+    // Преобразуем ключ
+    const applicationServerKeyUint8Array = urlBase64ToUint8Array(applicationServerKey);
 
-     if (Notification.permission === 'granted' && 'serviceWorker' in navigator) {
-        try {
-          // Ждем активации Service Worker
-          const registration = await navigator.serviceWorker.ready;
+    if (Notification.permission === 'granted' && 'serviceWorker' in navigator) {
+      try {
+        // Ждем активации Service Worker
+        const registration = await navigator.serviceWorker.ready;
 
-          // Пытаемся получить существующую подписку, если она есть
-          const existingSubscription = await registration.pushManager.getSubscription();
-          if (existingSubscription) {
-            console.log('Уже подписан на Push-уведомления:', JSON.stringify(existingSubscription));
-             // TODO: Можно отправить существующую подписку на сервер для перепроверки
-             // await sendSubscriptionToServer(existingSubscription);
-             alert('Уведомления уже включены и подписаны.'); // Или другое сообщение
-            return; // Выходим, если уже подписаны
-          }
-
-          // Создаем новую подписку
-          console.log('Создание новой Push-подписки...');
-          const subscription = await registration.pushManager.subscribe({
-            userVisibleOnly: true, // Уведомления всегда видимы
-            applicationServerKey: applicationServerKeyUint8Array
-          });
-
-          console.log('Новая Push Subscription получена:', JSON.stringify(subscription));
-
-          // ** Шаг 3: Отправляем подписку на ваш backend **
-          // TODO: Замените '/api/subscribe' на ваш реальный эндпоинт для сохранения подписок
-          const sendResult = await fetch('/api/subscribe', { // <--- ГИПОТЕТИЧЕСКИЙ API ЭНДПОИНТ
-            method: 'POST',
-            headers: {
-              'Content-Type': 'application/json',
-              // TODO: Добавить токен авторизации, если у вас есть пользователи
-            },
-            body: JSON.stringify(subscription),
-          });
-
-          if (sendResult.ok) {
-            console.log('Подписка успешно отправлена на сервер.');
-             alert('Подписка на уведомления оформлена!');
-          } else {
-            const errorBody = await sendResult.text();
-            console.error('Ошибка при отправке подписки на сервер:', sendResult.status, errorBody);
-             alert(`Ошибка при сохранении подписки на сервере: ${sendResult.status}`);
-             // TODO: Возможно, стоит отменить подписку, если сервер не смог ее сохранить?
-          }
-
-        } catch (error) {
-          console.error('Ошибка при создании или отправке Push Subscription:', error);
-          alert(`Ошибка при включении уведомлений: ${error.message}`);
+        // Пытаемся получить существующую подписку, если она есть
+        const existingSubscription = await registration.pushManager.getSubscription();
+        if (existingSubscription) {
+          console.log('Уже подписан на Push-уведомления:', JSON.stringify(existingSubscription));
+          // TODO: Можно отправить существующую подписку на сервер для перепроверки
+          // await sendSubscriptionToServer(existingSubscription);
+          alert('Уведомления уже включены и подписаны.'); // Или другое сообщение
+          return; // Выходим, если уже подписаны
         }
-     }
+
+        // Создаем новую подписку
+        console.log('Создание новой Push-подписки...');
+        const subscription = await registration.pushManager.subscribe({
+          userVisibleOnly: true, // Уведомления всегда видимы
+          applicationServerKey: applicationServerKeyUint8Array
+        });
+
+        console.log('Новая Push Subscription получена:', JSON.stringify(subscription));
+
+        // ** Шаг 3: Отправляем подписку на ваш backend **
+        // TODO: Замените '/api/subscribe' на ваш реальный эндпоинт для сохранения подписок
+        const sendResult = await fetch('/api/subscribe', { // <--- ГИПОТЕТИЧЕСКИЙ API ЭНДПОИНТ
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+            // TODO: Добавить токен авторизации, если у вас есть пользователи
+          },
+          body: JSON.stringify(subscription),
+        });
+
+        if (sendResult.ok) {
+          console.log('Подписка успешно отправлена на сервер.');
+          alert('Подписка на уведомления оформлена!');
+        } else {
+          const errorBody = await sendResult.text();
+          console.error('Ошибка при отправке подписки на сервер:', sendResult.status, errorBody);
+          alert(`Ошибка при сохранении подписки на сервере: ${sendResult.status}`);
+          // TODO: Возможно, стоит отменить подписку, если сервер не смог ее сохранить?
+        }
+
+      } catch (error) {
+        console.error('Ошибка при создании или отправке Push Subscription:', error);
+        alert(`Ошибка при включении уведомлений: ${error.message}`);
+      }
+    }
 
   };
 
@@ -123,7 +123,7 @@ export default function ProfilePage() {
   function urlBase64ToUint8Array(base64String) {
     const padding = '='.repeat((4 - base64String.length % 4) % 4);
     const base64 = (base64String + padding)
-      .replace(/\-/g, '+')
+      .replace(/-/g, '+')
       .replace(/_/g, '/');
 
     const rawData = window.atob(base64);
@@ -141,7 +141,7 @@ export default function ProfilePage() {
 
       <div className="mt-6">
         <h2 className="text-xl font-semibold mb-3">Уведомления</h2>
-        
+
         {notificationPermission === 'unsupported' && (
           <p className="text-gray-600">Ваш браузер не поддерживает уведомления.</p>
         )}
@@ -161,7 +161,7 @@ export default function ProfilePage() {
 
         {notificationPermission === 'granted' && (
           <p className="text-green-600 font-semibold">Уведомления включены!</p>
-           // TODO: Добавить кнопку для отключения уведомлений (отписка)
+          // TODO: Добавить кнопку для отключения уведомлений (отписка)
         )}
       </div>
     </div>

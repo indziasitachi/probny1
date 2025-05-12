@@ -126,25 +126,25 @@ export default function GroupIconsManager() {
     <div className="container mx-auto p-4 md:p-8">
       <h1 className="text-2xl font-bold mb-6">Управление иконками групп каталога</h1>
 
-      {/* Индикаторы загрузки/сохранения */} 
+      {/* Индикаторы загрузки/сохранения */}
       {isLoading && <div className="text-center py-4 text-gray-500">Загрузка данных...</div>}
       {saving && <div className="fixed top-4 right-4 bg-blue-500 text-white p-2 rounded shadow-lg z-50">Сохранение...</div>}
-      
-      {/* Фильтр */} 
+
+      {/* Фильтр */}
       {!isLoading && (
-          <div className="mb-4">
-              <input
-                  type="text"
-                  placeholder="Фильтр по названию группы..."
-                  value={filter}
-                  onChange={(e) => setFilter(e.target.value)}
-                  className="w-full p-2 border rounded shadow-sm"
-                  disabled={isLoading}
-              />
-          </div>
+        <div className="mb-4">
+          <input
+            type="text"
+            placeholder="Фильтр по названию группы..."
+            value={filter}
+            onChange={(e) => setFilter(e.target.value)}
+            className="w-full p-2 border rounded shadow-sm"
+            disabled={isLoading}
+          />
+        </div>
       )}
 
-      {/* Список групп */} 
+      {/* Список групп */}
       {!isLoading && (
         <div className="space-y-4">
           {filteredGroups.length > 0 ? (
@@ -163,10 +163,10 @@ export default function GroupIconsManager() {
                       )}
                     </div>
                     <span className="font-medium text-gray-800 flex-1 break-words">{group.name}</span>
-                    {/* <span className="text-xs text-gray-400">ID: {group.id}</span> */} 
+                    {/* <span className="text-xs text-gray-400">ID: {group.id}</span> */}
                   </div>
 
-                  {/* Управление иконкой */} 
+                  {/* Управление иконкой */}
                   <div className="flex items-center gap-2 flex-shrink-0 w-full md:w-auto justify-end">
                     <input
                       type="file"
@@ -203,7 +203,7 @@ export default function GroupIconsManager() {
         </div>
       )}
 
-      {/* Кнопка сохранить все (не используется, сохранение по факту загрузки/удаления) */} 
+      {/* Кнопка сохранить все (не используется, сохранение по факту загрузки/удаления) */}
       {/* 
       {!isLoading && groups.length > 0 && (
         <div className="mt-6 text-right">

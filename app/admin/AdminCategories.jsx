@@ -1,14 +1,5 @@
 import React, { useEffect, useState } from "react";
 
-function readFileAsDataUrl(file) {
-  return new Promise((resolve, reject) => {
-    const reader = new FileReader();
-    reader.onload = e => resolve(e.target.result);
-    reader.onerror = reject;
-    reader.readAsDataURL(file);
-  });
-}
-
 export default function AdminCategories() {
   const [categories, setCategories] = useState([]);
   const [newCat, setNewCat] = useState({ label: "", icon: "" });
@@ -188,8 +179,8 @@ export default function AdminCategories() {
                 {/* <span className="text-xs text-gray-400 truncate max-w-[100px]">{cat.icon}</span> */}
                 <button className="text-blue-600 text-xs ml-1" onClick={() => handleEdit(idx)}>Изм.</button>
                 <button className="text-red-500 text-xs ml-1" onClick={() => handleDelete(idx)}>Удалить</button>
-                <button className="text-gray-500 text-xs ml-1" onClick={() => handleMove(idx, -1)} disabled={idx===0}>↑</button>
-                <button className="text-gray-500 text-xs ml-1" onClick={() => handleMove(idx, 1)} disabled={idx===categories.length-1}>↓</button>
+                <button className="text-gray-500 text-xs ml-1" onClick={() => handleMove(idx, -1)} disabled={idx === 0}>↑</button>
+                <button className="text-gray-500 text-xs ml-1" onClick={() => handleMove(idx, 1)} disabled={idx === categories.length - 1}>↓</button>
               </>
             )}
           </li>
