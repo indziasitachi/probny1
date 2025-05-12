@@ -7,6 +7,7 @@ import { CartProvider } from "./CartContext";
 import { FavoritesProvider } from "./FavoritesContext";
 import InstallPWAButton from './InstallPWAButton';
 import dynamic from 'next/dynamic';
+import VapidKeyScript from './components/VapidKeyScript';
 // import MinimalCartTest from './MinimalCartTest'; // {{Закомментируем импорт MinimalCartTest}}
 
 const TopIconsBar = dynamic(() => import('./TopIconsBar'), {
@@ -23,7 +24,7 @@ export default function RootLayout({ children }) { // {{Теперь children с
     <html lang="ru" className="dark">
       <head>
         <link rel="icon" href="/favicon.svg" type="image/svg+xml" /><link rel="manifest" href="/manifest.json" />
-        <script dangerouslySetInnerHTML={{ __html: `window.NEXT_PUBLIC_VAPID_PUBLIC_KEY='${process.env.NEXT_PUBLIC_VAPID_PUBLIC_KEY || ''}';` }} />
+        <VapidKeyScript />
       </head>
       <body className="bg-gray-50 min-h-screen text-gray-900 dark:bg-gray-900 dark:text-gray-100 transition-colors">
         <FavoritesProvider>
