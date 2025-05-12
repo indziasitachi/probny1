@@ -1,3 +1,4 @@
+/* eslint-env node */
 // app/api/send-notification/route.js
 
 import { NextResponse } from 'next/server';

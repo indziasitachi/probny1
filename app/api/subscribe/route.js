@@ -1,3 +1,4 @@
+/* eslint-env node */
 import { NextResponse } from 'next/server';
 import { Client } from 'pg';
 
