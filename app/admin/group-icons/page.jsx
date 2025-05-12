@@ -81,7 +81,7 @@ export default function GroupIconsManager() {
 
   // Обработчик удаления иконки
   const handleRemoveIcon = async (groupId) => {
-    const { [groupId]: _, ...rest } = iconsMap; // Удаляем ключ из объекта
+    const rest = Object.fromEntries(Object.entries(iconsMap).filter(([key]) => key !== groupId)); // Удаляем ключ из объекта без использования _
     setIconsMap(rest);
     await saveIcons(rest);
     alert('Иконка удалена.');
