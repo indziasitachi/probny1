@@ -1,3 +1,4 @@
+'use server';
 export default function VapidKeyScript() {
     return (
         <script
