@@ -135,12 +135,27 @@ export default function ProfilePage() {
     return outputArray;
   }
 
+  // Отладочная информация (можно будет убрать после отладки)
+  console.log('Текущий статус уведомлений:', notificationPermission);
+  console.log('ServiceWorker в навигаторе:', 'serviceWorker' in navigator);
+  console.log('PushManager в window:', 'PushManager' in window);
+  console.log('Notification в window:', 'Notification' in window);
+
   return (
     <div className="p-8 text-center">
       <h1 className="text-2xl font-bold mb-4">Профиль пользователя</h1>
 
+      {/* Отладочная информация */}
+      <div className="bg-gray-100 p-3 rounded-lg mb-6 text-left text-sm">
+        <p className="font-semibold">Отладочная информация:</p>
+        <p>Состояние уведомлений: <span className="font-mono">{notificationPermission}</span></p>
+        <p>ServiceWorker: <span className="font-mono">{('serviceWorker' in navigator).toString()}</span></p>
+        <p>Push API: <span className="font-mono">{('PushManager' in window).toString()}</span></p>
+        <p>Notification API: <span className="font-mono">{('Notification' in window).toString()}</span></p>
+      </div>
+
       <div className="mt-6">
-        <h2 className="text-xl font-semibold mb-3">Уведомления</h2>
+        <h2 className="text-xl font-semibold mb-3">Управление уведомлениями</h2>
 
         {notificationPermission === 'unsupported' && (
           <p className="text-gray-600">Ваш браузер не поддерживает уведомления.</p>

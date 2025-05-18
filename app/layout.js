@@ -8,6 +8,7 @@ import { FavoritesProvider } from "./FavoritesContext";
 import InstallPWAButton from './InstallPWAButton';
 import dynamic from 'next/dynamic';
 import VapidKeyScript from './components/VapidKeyScript';
+import NotificationSubscribeButton from './components/NotificationSubscribeButton';
 // import MinimalCartTest from './MinimalCartTest'; // {{Закомментируем импорт MinimalCartTest}}
 
 const TopIconsBar = dynamic(() => import('./TopIconsBar'), {
@@ -30,6 +31,7 @@ export default function RootLayout({ children }) { // {{Теперь children с
         <FavoritesProvider>
           <CartProvider>
             <TopIconsBar />
+            <NotificationSubscribeButton />
             {children} {/* {{Возвращаем {children} }} */}
             <BottomNav />
           </CartProvider>
