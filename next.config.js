@@ -1,10 +1,29 @@
-const withPWA = require('next-pwa');
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  reactStrictMode: true,
+  swcMinify: true,
+  i18n: {
+    locales: ['ru', 'en'],
+    defaultLocale: 'ru',
+  },
+  // Явно указываем, какие переменные окружения должны быть доступны на клиенте
+  env: {
+    NEXT_PUBLIC_VAPID_PUBLIC_KEY: process.env.NEXT_PUBLIC_VAPID_PUBLIC_KEY,
+    // Другие публичные переменные окружения
+  },
+  // Для API роутов используем serverRuntimeConfig
+  serverRuntimeConfig: {
+    // Переменные, доступные только на сервере
+    vapidPublicKey: process.env.VAPID_PUBLIC_KEY || process.env.NEXT_PUBLIC_VAPID_PUBLIC_KEY,
+    vapidPrivateKey: process.env.VAPID_PRIVATE_KEY,
+  },
+};
 
 // Определяем окружение
 const isProd = process.env.NODE_ENV === 'production';
 
 // Конфигурация PWA
-const pwaConfig = {
+const withPWA = require('next-pwa')({
   dest: 'public',
   register: true,
   skipWaiting: true,
@@ -39,14 +58,14 @@ const pwaConfig = {
     },
     // Кэширование шрифтов (Google Fonts)
     {
-      urlPattern: /^https:\/\/fonts\.googleapis\.com\/.*/i,
+      urlPattern: /^https?:\/\/fonts\.googleapis\.com\/.*/i,
       handler: 'CacheFirst',
       options: {
         cacheName: 'google-fonts-stylesheets',
       },
     },
     {
-      urlPattern: /^https:\/\/fonts\.gstatic\.com\/.*/i,
+      urlPattern: /^https?:\/\/fonts\.gstatic\.com\/.*/i,
       handler: 'CacheFirst',
       options: {
         cacheName: 'google-fonts-webfonts',
@@ -108,31 +127,7 @@ const pwaConfig = {
       },
     },
   ],
-};
-
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  reactStrictMode: true,
-  swcMinify: true,
-  i18n: {
-    locales: ['ru', 'en'],
-    defaultLocale: 'ru',
-  },
-  // Явно указываем, какие переменные окружения должны быть доступны на клиенте
-  env: {
-    NEXT_PUBLIC_VAPID_PUBLIC_KEY: process.env.NEXT_PUBLIC_VAPID_PUBLIC_KEY,
-    // Другие публичные переменные окружения
-  },
-  // Для API роутов используем serverRuntimeConfig
-  serverRuntimeConfig: {
-    // Переменные, доступные только на сервере
-    vapidPublicKey: process.env.VAPID_PUBLIC_KEY || process.env.NEXT_PUBLIC_VAPID_PUBLIC_KEY,
-    vapidPrivateKey: process.env.VAPID_PRIVATE_KEY,
-  },
-};
+});
 
 // Применяем конфигурацию PWA к nextConfig
-module.exports = withPWA({
-  ...nextConfig,
-  pwa: pwaConfig,
-});
+module.exports = withPWA(nextConfig);
