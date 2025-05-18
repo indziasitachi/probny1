@@ -1,22 +1,46 @@
 import { NextResponse } from 'next/server';
 import webpush from 'web-push';
 
-// Инициализация web-push с VAPID ключами
-const vapidPublicKey = process.env.NEXT_PUBLIC_VAPID_PUBLIC_KEY;
-const vapidPrivateKey = process.env.VAPID_PRIVATE_KEY;
+// Получаем VAPID ключи из переменных окружения
+const getVapidKeys = () => {
+  if (typeof process === 'undefined') {
+    // На клиенте используем глобальные переменные
+    return {
+      publicKey: globalThis.process?.env?.NEXT_PUBLIC_VAPID_PUBLIC_KEY || '',
+      privateKey: globalThis.process?.env?.VAPID_PRIVATE_KEY || ''
+    };
+  }
+  
+  // На сервере используем process.env
+  return {
+    publicKey: process.env.NEXT_PUBLIC_VAPID_PUBLIC_KEY || '',
+    privateKey: process.env.VAPID_PRIVATE_KEY || ''
+  };
+};
 
-if (!vapidPublicKey || !vapidPrivateKey) {
-  console.error('VAPID keys are not set');
-} else {
+const { publicKey, privateKey } = getVapidKeys();
+
+// Инициализируем web-push только если ключи доступны
+if (publicKey && privateKey) {
   webpush.setVapidDetails(
     'mailto:your-email@example.com',
-    vapidPublicKey,
-    vapidPrivateKey
+    publicKey,
+    privateKey
   );
+} else {
+  console.error('VAPID keys are not properly configured');
 }
 
 export async function POST() {
   try {
+    // Проверяем наличие VAPID ключей
+    if (!publicKey || !privateKey) {
+      return NextResponse.json(
+        { message: 'VAPID ключи не настроены на сервере' },
+        { status: 500 }
+      );
+    }
+
     // Здесь должен быть код для получения подписок из вашей БД
     // Это пример - замените на реальный запрос к вашей БД
     const subscriptions = []; // await db.subscription.findMany();
