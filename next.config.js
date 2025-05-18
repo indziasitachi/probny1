@@ -1,26 +1,5 @@
 const withPWA = require('next-pwa');
 
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  reactStrictMode: true,
-  swcMinify: true,
-  i18n: {
-    locales: ['ru', 'en'],
-    defaultLocale: 'ru',
-  },
-  // Явно указываем, какие переменные окружения должны быть доступны на клиенте
-  env: {
-    NEXT_PUBLIC_VAPID_PUBLIC_KEY: process.env.NEXT_PUBLIC_VAPID_PUBLIC_KEY,
-    // Другие публичные переменные окружения
-  },
-  // Для API роутов используем serverRuntimeConfig
-  serverRuntimeConfig: {
-    // Переменные, доступные только на сервере
-    vapidPublicKey: process.env.VAPID_PUBLIC_KEY || process.env.NEXT_PUBLIC_VAPID_PUBLIC_KEY,
-    vapidPrivateKey: process.env.VAPID_PRIVATE_KEY,
-  },
-};
-
 // Определяем окружение
 const isProd = process.env.NODE_ENV === 'production';
 
@@ -131,10 +110,29 @@ const pwaConfig = {
   ],
 };
 
-// Применяем конфигурацию PWA к nextConfig
-const configWithPWA = withPWA({
-  ...nextConfig,
-  ...pwaConfig,
-});
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  reactStrictMode: true,
+  swcMinify: true,
+  i18n: {
+    locales: ['ru', 'en'],
+    defaultLocale: 'ru',
+  },
+  // Явно указываем, какие переменные окружения должны быть доступны на клиенте
+  env: {
+    NEXT_PUBLIC_VAPID_PUBLIC_KEY: process.env.NEXT_PUBLIC_VAPID_PUBLIC_KEY,
+    // Другие публичные переменные окружения
+  },
+  // Для API роутов используем serverRuntimeConfig
+  serverRuntimeConfig: {
+    // Переменные, доступные только на сервере
+    vapidPublicKey: process.env.VAPID_PUBLIC_KEY || process.env.NEXT_PUBLIC_VAPID_PUBLIC_KEY,
+    vapidPrivateKey: process.env.VAPID_PRIVATE_KEY,
+  },
+};
 
-module.exports = configWithPWA;
+// Применяем конфигурацию PWA к nextConfig
+module.exports = withPWA({
+  ...nextConfig,
+  pwa: pwaConfig,
+});
