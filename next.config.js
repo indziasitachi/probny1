@@ -6,14 +6,12 @@ const nextConfig = {
     locales: ['ru', 'en'],
     defaultLocale: 'ru',
   },
-  // Явно указываем, какие переменные окружения должны быть доступны на клиенте
-  env: {
+  // Переменные, доступные на клиенте
+  publicRuntimeConfig: {
     NEXT_PUBLIC_VAPID_PUBLIC_KEY: process.env.NEXT_PUBLIC_VAPID_PUBLIC_KEY,
-    // Другие публичные переменные окружения
   },
-  // Для API роутов используем serverRuntimeConfig
+  // Переменные, доступные только на сервере
   serverRuntimeConfig: {
-    // Переменные, доступные только на сервере
     vapidPublicKey: process.env.VAPID_PUBLIC_KEY || process.env.NEXT_PUBLIC_VAPID_PUBLIC_KEY,
     vapidPrivateKey: process.env.VAPID_PRIVATE_KEY,
   },

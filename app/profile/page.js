@@ -73,8 +73,19 @@ export default function ProfilePage() {
     if (!isClient) return;
     
     try {
-      // Получаем VAPID Public Key из переменных окружения
-      const applicationServerKey = process.env.NEXT_PUBLIC_VAPID_PUBLIC_KEY;
+      // Получаем VAPID Public Key из конфигурации Next.js
+      const getConfig = async () => {
+        try {
+          const res = await fetch('/api/config');
+          return await res.json();
+        } catch (error) {
+          console.error('Ошибка при получении конфигурации:', error);
+          return {};
+        }
+      };
+      
+      const config = await getConfig();
+      const applicationServerKey = config.publicRuntimeConfig?.NEXT_PUBLIC_VAPID_PUBLIC_KEY || '';
 
       if (!applicationServerKey) {
         console.error('VAPID Public Key не определен в NEXT_PUBLIC_VAPID_PUBLIC_KEY');
