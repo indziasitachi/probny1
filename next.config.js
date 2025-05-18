@@ -1,10 +1,35 @@
 const withPWA = require('next-pwa');
 
+/** @type {import('next').NextConfig} */
+const nextConfig = {
+  reactStrictMode: true,
+  swcMinify: true,
+  i18n: {
+    locales: ['ru', 'en'],
+    defaultLocale: 'ru',
+  },
+  // Явно указываем, какие переменные окружения должны быть доступны на клиенте
+  env: {
+    NEXT_PUBLIC_VAPID_PUBLIC_KEY: process.env.NEXT_PUBLIC_VAPID_PUBLIC_KEY,
+    // Другие публичные переменные окружения
+  },
+  // Для API роутов используем serverRuntimeConfig
+  serverRuntimeConfig: {
+    // Переменные, доступные только на сервере
+    vapidPublicKey: process.env.VAPID_PUBLIC_KEY || process.env.NEXT_PUBLIC_VAPID_PUBLIC_KEY,
+    vapidPrivateKey: process.env.VAPID_PRIVATE_KEY,
+  },
+};
+
+// Определяем окружение
+const isProd = process.env.NODE_ENV === 'production';
+
+// Конфигурация PWA
 const pwaConfig = {
   dest: 'public',
   register: true,
   skipWaiting: true,
-  disable: process.env.NODE_ENV === 'development', // PWA будет отключен в режиме разработки
+  disable: !isProd, // PWA будет отключен в режиме разработки
   runtimeCaching: [
     // Кэширование статических ассетов Next.js (_next/static)
     {
@@ -106,33 +131,10 @@ const pwaConfig = {
   ],
 };
 
-/** @type {import('next').NextConfig} */
-const nextConfig = {
-  reactStrictMode: true,
-  swcMinify: true,
-  i18n: {
-    locales: ['ru', 'en'],
-    defaultLocale: 'ru',
-  },
-  // Явно указываем, какие переменные окружения должны быть доступны на клиенте
-  env: {
-    NEXT_PUBLIC_VAPID_PUBLIC_KEY: process.env.NEXT_PUBLIC_VAPID_PUBLIC_KEY,
-    // Другие публичные переменные окружения
-  },
-  // Для API роутов используем serverRuntimeConfig
-  serverRuntimeConfig: {
-    // Переменные, доступные только на сервере
-    vapidPublicKey: process.env.VAPID_PUBLIC_KEY || process.env.NEXT_PUBLIC_VAPID_PUBLIC_KEY,
-    vapidPrivateKey: process.env.VAPID_PRIVATE_KEY,
-  },
-};
-
-// Определяем окружение
-const isProd = process.env.NODE_ENV === 'production';
-
 // Применяем конфигурацию PWA к nextConfig
-module.exports = withPWA({
+const configWithPWA = withPWA({
   ...nextConfig,
   ...pwaConfig,
-  disable: !isProd, // Отключаем PWA в режиме разработки
 });
+
+module.exports = configWithPWA;
