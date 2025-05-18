@@ -17,8 +17,9 @@ function initializeVAPID() {
       `NEXT_PUBLIC_VAPID_PUBLIC_KEY: ${!!process.env.NEXT_PUBLIC_VAPID_PUBLIC_KEY}\n` +
       `VAPID_PRIVATE_KEY: ${!!process.env.VAPID_PRIVATE_KEY}`;
     
-    console.error(errorMsg);
-    throw new Error('VAPID keys are not configured');
+    console.warn(errorMsg);
+    console.warn('Push notifications will be disabled until VAPID keys are configured');
+    return false;
   }
 
   try {
@@ -28,30 +29,18 @@ function initializeVAPID() {
       vapidPrivateKey
     );
     console.log('VAPID details успешно установлены');
+    return true;
   } catch (error) {
     console.error('Ошибка при установке VAPID details:', error);
-    throw error;
+    return false;
   }
 }
 
 // Инициализируем VAPID при загрузке модуля
-try {
-  initializeVAPID();
-} catch (error) {
-  console.error('Не удалось инициализировать VAPID:', error);
-  // Продолжаем выполнение, чтобы увидеть ошибку в логах
-}
+const isVAPIDInitialized = initializeVAPID();
 
-try {
-  webpush.setVapidDetails(
-    'mailto:your_email@example.com', // Замените на ваш контактный email
-    vapidPublicKey,
-    vapidPrivateKey
-  );
-  console.log('VAPID details успешно установлены');
-} catch (error) {
-  console.error('Ошибка при установке VAPID details:', error);
-  throw error;
+if (!isVAPIDInitialized) {
+  console.warn('Push notifications are disabled due to missing VAPID configuration');
 }
 
 // Функция для подключения к базе данных
@@ -74,7 +63,16 @@ async function connectToDatabase() {
 }
 
 export async function POST() { // Используем POST для отправки
+  // Проверяем, инициализирован ли VAPID
+  if (!isVAPIDInitialized) {
+    return NextResponse.json(
+      { message: 'Push notifications are not configured on the server' },
+      { status: 503 }
+    );
+  }
+
   let client;
+  
   try {
     // Пример данных уведомления (можно получить из тела запроса)
     const notificationPayload = {
