@@ -1,4 +1,6 @@
-const withPWA = require('next-pwa')({
+const withPWA = require('next-pwa');
+
+const pwaConfig = {
   dest: 'public',
   register: true,
   skipWaiting: true,
@@ -102,7 +104,7 @@ const withPWA = require('next-pwa')({
       },
     },
   ],
-});
+};
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
@@ -125,16 +127,12 @@ const nextConfig = {
   },
 };
 
-// Включаем отладочный режим для next-pwa в development
+// Определяем окружение
 const isProd = process.env.NODE_ENV === 'production';
 
-// Конфигурация PWA
-const withPWAConfig = withPWA({
-  dest: 'public',
-  disable: !isProd,
-  register: true,
-  skipWaiting: true,
-});
-
 // Применяем конфигурацию PWA к nextConfig
-module.exports = withPWAConfig(nextConfig);
+module.exports = withPWA({
+  ...nextConfig,
+  ...pwaConfig,
+  disable: !isProd, // Отключаем PWA в режиме разработки
+});
