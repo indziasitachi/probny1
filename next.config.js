@@ -127,14 +127,14 @@ const nextConfig = {
 
 // Включаем отладочный режим для next-pwa в development
 const isProd = process.env.NODE_ENV === 'production';
-const pwaConfig = withPWA({
-  ...nextConfig,
-  pwa: {
-    dest: 'public',
-    disable: !isProd,
-    register: true,
-    skipWaiting: true,
-  },
+
+// Конфигурация PWA
+const withPWAConfig = withPWA({
+  dest: 'public',
+  disable: !isProd,
+  register: true,
+  skipWaiting: true,
 });
 
-module.exports = pwaConfig;
+// Применяем конфигурацию PWA к nextConfig
+module.exports = withPWAConfig(nextConfig);

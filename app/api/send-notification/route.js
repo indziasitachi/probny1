@@ -5,27 +5,41 @@ import { NextResponse } from 'next/server';
 import webpush from 'web-push';
 import { Client } from 'pg';
 
-// Получаем конфиг с серверными переменными окружения
-const { serverRuntimeConfig } = require('next/constants')();
+// Получаем VAPID ключи из переменных окружения
+const vapidPublicKey = process.env.VAPID_PUBLIC_KEY || process.env.NEXT_PUBLIC_VAPID_PUBLIC_KEY;
+const vapidPrivateKey = process.env.VAPID_PRIVATE_KEY;
 
-// Установка VAPID ключей из serverRuntimeConfig
-const vapidPublicKey = serverRuntimeConfig?.vapidPublicKey || process.env.VAPID_PUBLIC_KEY || process.env.NEXT_PUBLIC_VAPID_PUBLIC_KEY;
-const vapidPrivateKey = serverRuntimeConfig?.vapidPrivateKey || process.env.VAPID_PRIVATE_KEY;
+// Функция для проверки и инициализации VAPID
+function initializeVAPID() {
+  if (!vapidPublicKey || !vapidPrivateKey) {
+    const errorMsg = 'VAPID public or private key is not set.\n' +
+      `VAPID_PUBLIC_KEY: ${!!process.env.VAPID_PUBLIC_KEY}\n` +
+      `NEXT_PUBLIC_VAPID_PUBLIC_KEY: ${!!process.env.NEXT_PUBLIC_VAPID_PUBLIC_KEY}\n` +
+      `VAPID_PRIVATE_KEY: ${!!process.env.VAPID_PRIVATE_KEY}`;
+    
+    console.error(errorMsg);
+    throw new Error('VAPID keys are not configured');
+  }
 
-if (!vapidPublicKey || !vapidPrivateKey) {
-  const errorMsg = 'VAPID public or private key is not set.\n' +
-    `VAPID_PUBLIC_KEY: ${!!process.env.VAPID_PUBLIC_KEY}\n` +
-    `NEXT_PUBLIC_VAPID_PUBLIC_KEY: ${!!process.env.NEXT_PUBLIC_VAPID_PUBLIC_KEY}\n` +
-    `VAPID_PRIVATE_KEY: ${!!process.env.VAPID_PRIVATE_KEY}\n` +
-    `serverRuntimeConfig.vapidPublicKey: ${!!(serverRuntimeConfig?.vapidPublicKey)}\n` +
-    `serverRuntimeConfig.vapidPrivateKey: ${!!(serverRuntimeConfig?.vapidPrivateKey)}`;
-  
-  console.error(errorMsg);
-  // Возвращаем ошибку, чтобы увидеть её в логах Vercel
-  return NextResponse.json(
-    { error: 'Server configuration error', details: 'VAPID keys not configured' },
-    { status: 500 }
-  );
+  try {
+    webpush.setVapidDetails(
+      'mailto:your_email@example.com',
+      vapidPublicKey,
+      vapidPrivateKey
+    );
+    console.log('VAPID details успешно установлены');
+  } catch (error) {
+    console.error('Ошибка при установке VAPID details:', error);
+    throw error;
+  }
+}
+
+// Инициализируем VAPID при загрузке модуля
+try {
+  initializeVAPID();
+} catch (error) {
+  console.error('Не удалось инициализировать VAPID:', error);
+  // Продолжаем выполнение, чтобы увидеть ошибку в логах
 }
 
 try {
