@@ -75,7 +75,7 @@ export default function CatalogPage() {
       {/* Кнопка назад */}
       {currentGroup && (
         <button
-          className="flex items-center gap-2 mb-4 text-gray-700 hover:text-black transition"
+          className="flex items-center gap-2 mb-4 text-blue-600 hover:text-blue-800 font-bold transition"
           onClick={() => setCurrentGroup(null)}
         >
           <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" strokeWidth="1.5" stroke="currentColor" className="w-6 h-6">
